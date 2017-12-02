@@ -1,0 +1,91 @@
+Return-Path: <rubisiqueira@yahoo.com.br>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br (Dovecot) with LMTP id EckmCncdbVlJigMAVsPpow
+	for <instituto@agriverdes.com.br>; Mon, 17 Jul 2017 17:26:31 -0300
+Return-path: <rubisiqueira@yahoo.com.br>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Mon, 17 Jul 2017 17:26:31 -0300
+Received: from nm24-vm4.bullet.mail.ne1.yahoo.com ([98.138.91.184]:56401)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <rubisiqueira@yahoo.com.br>)
+	id 1dXCb8-000yvl-Q5
+	for instituto@agriverdes.com.br; Mon, 17 Jul 2017 17:26:31 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.br; s=s2048; t=1500323148; bh=EerUKBaUvgJi6DktPRHw80LM22LsmxMLHutJW46ADdk=; h=Date:Subject:From:To:From:Subject; b=BMYEevKaeWOjZgau8oeNX5VfWjqVQa6lv5gMgb2qA9WLC+e7h/cfJizBmA1m7gpv2hqH3NtdjVwMx3DeRFip/2sdJaA/la1O+6L9s03OPP/ZtqwlZu4rZfPjboVU6TbOx7CAnGnVOCIhq4w4jRMQUcaTEUloB5XrrRsB0PFo93pHYNRlJHf1yYrmPv/To+vZTTdM1DiWjHkg+WYorjbvNUu/kuSW3kMnSHKgm6c/d1GdhjogqCDQZfPQNZVkBbJIM6nXFccd9PPkWVksar2t3x9iX07e8MdB28kaPpiZT+o+3wQGDp9eOwCnMnF4EchHpB6Ayq8ud+qHb9O+/gdh+A==
+Received: from [98.138.100.116] by nm24.bullet.mail.ne1.yahoo.com with NNFMP; 17 Jul 2017 20:25:48 -0000
+Received: from [98.138.226.128] by tm107.bullet.mail.ne1.yahoo.com with NNFMP; 17 Jul 2017 20:25:48 -0000
+Received: from [127.0.0.1] by smtp215.mail.ne1.yahoo.com with NNFMP; 17 Jul 2017 20:25:48 -0000
+X-Yahoo-Newman-Id: 202723.87433.bm@smtp215.mail.ne1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 7dxtITIVM1lghIQfVUF_awv8By_eufGPUQuiY2C_Ffg5Acw
+ TPu8C4uhXOK38IkHti_zoAR7ypGbdLxd6RHvf4Aj8Mw9ykFN7QQg9trvxdlT
+ 8IZXB1Ql113KzF_fYkSTQO5XmH_BSxuL1rbL_yTSBuEepNl08zX._wX9QD9m
+ LoWKZaGrmWMQ2.VVd2J1YN1VtKr5MKaZjC51Y5QH2YUDn.7PzhDwcfRpxRQF
+ doSF.8ZT36Fm6B_gchbRPPOW1X3hsk4oc1FwXWhqbNQCS2vW83NgFwYvgPvb
+ LzrmHTWsWaQQSFKd__K3KxZooE8yXhkybC_tooznpmTebXz3GuqqTS_ps77t
+ f70W49DIpsG63SzrCy45b1aXObeVt24DzwsaGskTQF66EZXOz.UU7B2u99_8
+ VpYtlbPkEM5bivFlhiI1T__TfYv_Iqubt_g8I3jixwNNFfmEh19Kcjeq7xRI
+ TjWsWvQIUEWHggMCZe14S..tkEZ4rHbl94.c_cGGKKwHiFZbj2oeHyi1W5uL
+ X8YWSi8vf0T4zyGdx0HIoRJ5MJkxyPludpB8-
+X-Yahoo-SMTP: tXH_GrqswBCJpYmZLa.DFF_GBchYeJuAdg--
+Date: Mon, 17 Jul 2017 17:24:11 -0300
+Subject: =?ISO-8859-1?Q?Re:_AgroecoWeb_"Inscri=E7=E3o"?=
+Message-ID: <eiv72vq6y2auxieformr6pb3.1500323051296@email.android.com>
+Importance: normal
+From: rubisiqueira <rubisiqueira@yahoo.com.br>
+To: instituto@agriverdes.com.br
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_5185366263467260"
+
+----_com.android.email_5185366263467260
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+T2kgRsOhYmlvLMKgCgpFdSBjbGljbyBubyDDrWNvbmUgcGFyYSBmYXplciBhIGluc2NyacOnw6Nv
+LCBtYXMgbsOjbyBhYnJlLiBGaWNhIG5hIG1lc21hIHDDoWdpbmEuCgoKRW52aWFkbyBwb3IgU2Ft
+c3VuZyBNb2JpbGUKCi0tLS0tLS0tIE1lbnNhZ2VtIG9yaWdpbmFsIC0tLS0tLS0tCkRlIDogaW5z
+dGl0dXRvQGFncml2ZXJkZXMuY29tLmJyIApEYXRhOjE3LzA3LzIwMTcgIDloNTggIChHTVQtMDM6
+MDApIApQYXJhOiBydWJpc2lxdWVpcmFAeWFob28uY29tLmJyIApBc3N1bnRvOiBSZTogQWdyb2Vj
+b1dlYiAiSW5zY3Jpw6fDo28iIAoKT2zDgSByVUJJQSwgTyBRVUUgQUNPTlRFQ0U/CgotLS0KU2F1
+ZGHDp8O1ZXMgQWdyb2Vjb2zDs2dpY2FzCgpGw6FiaW8gTWFyaWFuaQoKCgoKCkVtIDIwMTctMDct
+MTYgMDc6NTgsIFLDumJpYSBNYXJjaWEgU2lxdWVpcmEgTWFydGlucyBlc2NyZXZldToKCkZyb206
+IFLDumJpYSBNYXJjaWEgU2lxdWVpcmEgTWFydGlucyA8cnViaXNpcXVlaXJhQHlhaG9vLmNvbS5i
+cj4KU3ViamVjdDogSW5zY3Jpw6fDo28KCk1lc3NhZ2UgQm9keToKTsOjbyBlc3RvdSBjb25zZWd1
+aW5kbyBtZSBpbnNjcmV2ZXIuCgotLQpUaGlzIGUtbWFpbCB3YXMgc2VudCBmcm9tIGEgY29udGFj
+dCBmb3JtIG9uIEFncm9lY29XZWIgKGh0dHA6Ly93d3cuYWdyb2Vjb3dlYi5jb20uYnIpCgo=
+
+----_com.android.email_5185366263467260
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keSA+PGRpdj5PaSBGw6FiaW8sJm5ic3A7
+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5FdSBjbGljbyBubyDDrWNvbmUgcGFyYSBmYXplciBh
+IGluc2NyacOnw6NvLCBtYXMgbsOjbyBhYnJlLiBGaWNhIG5hIG1lc21hIHDDoWdpbmEuPC9kaXY+
+PGRpdj48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48ZGl2IHN0eWxlPSJmb250LXNpemU6
+OXB4O2NvbG9yOiM1NzU3NTciPkVudmlhZG8gcG9yIFNhbXN1bmcgTW9iaWxlPC9kaXY+PC9kaXY+
+PGJyPjxicj4tLS0tLS0tLSBNZW5zYWdlbSBvcmlnaW5hbCAtLS0tLS0tLTxicj5EZSA6IGluc3Rp
+dHV0b0BhZ3JpdmVyZGVzLmNvbS5iciA8YnI+RGF0YToxNy8wNy8yMDE3ICA5aDU4ICAoR01ULTAz
+OjAwKSA8YnI+UGFyYTogcnViaXNpcXVlaXJhQHlhaG9vLmNvbS5iciA8YnI+QXNzdW50bzogUmU6
+IEFncm9lY29XZWIgIkluc2NyacOnw6NvIiA8YnI+PGJyPgo8cD5PbMOBIHJVQklBLCBPIFFVRSBB
+Q09OVEVDRT88L3A+CjxkaXY+LS0tPGJyPgo8cD5TYXVkYcOnw7VlcyBBZ3JvZWNvbMOzZ2ljYXM8
+L3A+CjxwPkbDoWJpbyBNYXJpYW5pPC9wPgo8cD48aW1nIHNyYz0iY2lkOjI0MWNiZWMzNWY0NGRj
+MGJlYTdlNGU0NmY3ZGM0YmJjQGFncml2ZXJkZXMuY29tLmJyIiBhbHQ9IiIgd2lkdGg9IjE5MCIg
+aGVpZ2h0PSIxMTAiPjwvcD4KPC9kaXY+CjxwPjxicj48L3A+CjxwPkVtIDIwMTctMDctMTYgMDc6
+NTgsIFLDumJpYSBNYXJjaWEgU2lxdWVpcmEgTWFydGlucyBlc2NyZXZldTo8L3A+CjxibG9ja3F1
+b3RlIHR5cGU9ImNpdGUiIHN0eWxlPSJwYWRkaW5nOiAwIDAuNGVtOyBib3JkZXItbGVmdDogIzEw
+MTBmZiAycHggc29saWQ7IG1hcmdpbjogMCI+PCEtLSBodG1sIGlnbm9yZWQgLS0+PCEtLSBoZWFk
+IGlnbm9yZWQgLS0+PCEtLSBtZXRhIGlnbm9yZWQgLS0+CjxkaXYgY2xhc3M9InByZSIgc3R5bGU9
+Im1hcmdpbjogMDsgcGFkZGluZzogMDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZSI+RnJvbTogUsO6
+YmlhIE1hcmNpYSBTaXF1ZWlyYSBNYXJ0aW5zICZsdDs8YSBocmVmPSJtYWlsdG86cnViaXNpcXVl
+aXJhQHlhaG9vLmNvbS5iciI+cnViaXNpcXVlaXJhQHlhaG9vLmNvbS5icjwvYT4mZ3Q7PGJyPiBT
+dWJqZWN0OiBJbnNjcmnDp8Ojbzxicj48YnI+IE1lc3NhZ2UgQm9keTo8YnI+IE7Do28gZXN0b3Ug
+Y29uc2VndWluZG8gbWUgaW5zY3JldmVyLjxicj48YnI+IC0tPGJyPiBUaGlzIGUtbWFpbCB3YXMg
+c2VudCBmcm9tIGEgY29udGFjdCBmb3JtIG9uIEFncm9lY29XZWIgKDxhIGhyZWY9Imh0dHA6Ly93
+d3cuYWdyb2Vjb3dlYi5jb20uYnIiPmh0dHA6Ly93d3cuYWdyb2Vjb3dlYi5jb20uYnI8L2E+KTxi
+cj48YnI+PC9kaXY+CjwvYmxvY2txdW90ZT4KCjwvYm9keT4=
+
+----_com.android.email_5185366263467260--
+
+

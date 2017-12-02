@@ -1,0 +1,221 @@
+Return-Path: <JUSSARAJOSE@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id CAwFDzPzClqC1wEAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 11:44:19 -0200
+Return-path: <JUSSARAJOSE@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 11:44:19 -0200
+Received: from mail-oln040092006024.outbound.protection.outlook.com ([40.92.6.24]:25765 helo=NAM03-BY2-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <JUSSARAJOSE@hotmail.com>)
+	id 1eEbVi-000htw-Qn
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 11:44:19 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=bg2j/I+ha4Wudli7lRizFLd7DrZQS5S8pITiGGlyaDg=;
+ b=id2RXUSuEt2NXro5JXmh5h/QZA4146GIWt3dA4Okmjfhu6AQzmWrBnVlHalWgLVmlYkOIesOxLVyTBWyN4JJrIsOIRoG+yMVnorMJ9ZdjzfKN0OV/d1K0epDDw+ZBylvkGG/ZPT0NmMzV3sw/EO9MsZ+ByLiSXojAZozpkT2fUzUh4vIu6fidh+ue72ZSTDTJg53zvUc9YKXyCskwKTXgeDr332KNhwIE2e0SjAy2f9sByIo95+YhKALnq5qx4gL61wzOo4qA02ChLghZ0cROF2P9Jub/RhzZER5Se1AFyWS5acJu3+hxydQTW+NQfe35/kfZwuIKVTTwXqipoqvng==
+Received: from BY2NAM03FT047.eop-NAM03.prod.protection.outlook.com
+ (10.152.84.59) by BY2NAM03HT115.eop-NAM03.prod.protection.outlook.com
+ (10.152.85.211) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.218.12; Tue, 14
+ Nov 2017 13:43:33 +0000
+Received: from CY1PR18MB0583.namprd18.prod.outlook.com (10.152.84.54) by
+ BY2NAM03FT047.mail.protection.outlook.com (10.152.85.103) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.218.12 via Frontend Transport; Tue, 14 Nov 2017 13:43:33 +0000
+Received: from CY1PR18MB0583.namprd18.prod.outlook.com ([10.164.217.133]) by
+ CY1PR18MB0583.namprd18.prod.outlook.com ([10.164.217.133]) with mapi id
+ 15.20.0218.015; Tue, 14 Nov 2017 13:43:33 +0000
+From: JUSSARA TIBOLA <JUSSARAJOSE@hotmail.com>
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Subject: Re: Ultima Chamada para o CERTIFICADO.
+Thread-Topic: Ultima Chamada para o CERTIFICADO.
+Thread-Index: AQHTWAW28PPctG0KVk2grNzKUT2Bi6MT7KTF
+Date: Tue, 14 Nov 2017 13:43:33 +0000
+Message-ID: <CY1PR18MB058304985111A4304F3A94EAB1280@CY1PR18MB0583.namprd18.prod.outlook.com>
+References: <QoYCVXGXS-KEpR8ns1sd9A@ismtpd0004p1lon1.sendgrid.net>
+In-Reply-To: <QoYCVXGXS-KEpR8ns1sd9A@ismtpd0004p1lon1.sendgrid.net>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:ECB2C0AE93F39DBB0152F7A82F4CF7AC88B7C5B1B6311665EA9330B3748642FF;UpperCasedChecksum:110F3FB168A1E574F7D257930AB87AE50F9D9E82868A9EA515370E4BD28537AD;SizeAsReceived:6945;Count:45
+x-tmn: [qJB7XzVpumIBVXV3UrX1gDoRKDytt9Nw]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY2NAM03HT115;6:GV+phq0m5DhPD1gwAg8Y/uHK1rBWixdHlMyTIenTeWn9LxZMWVLQbMKAVmS7pA+DJRHCkMfOCiYtyCk/cu3F2vCWlud4EaeYbFSJt3g891rz69H+4M3q2xWOPoQAREyFfUe41ZY79wm5a0AsDqvhs2uL5Q1wGZ6uIgLt15e50HHWMmGFzg7mohUgSBCmhNQZMwoz+MFV34XAXeA2s+wjOxtt+epdYM/Dn2NnDKTfv1c9Qw4qfXnAJb2zyHWohTkB6LUcbEb67E2VZ+toa688t1FsZzi2P2mm8pOo1Uv7DKVgNldOzSRd0wTeZOTZfsZd8Shb5hJ8BilS0vbhOcYSaTBvHFJn1BinwDaElmrA82M=;5:91ZkUznSNI16aH9eWsNznOp/KpLlS1r307vQF23sr+Tc7pdYe9vj7SEXZV/1IyQpmEaCtrslsXA6IHi0rLPezaIXMokHivDmb67Vvdd22ZNXuUBN/Flp+QYcpgI5ZaRkFcr2SdvR3Nn6azFrq4hu9FJ7ByPMkQzh4xJZW5ddlAs=;24:JzPWNTschS7uXff3m17uIxR2GehcCa28nSRxRa/ezfWNG0H69wKPkCx5dHs8MrzpVANk//dyH9/0GBZvgCHbfDE1SZBd8ansVEeNjQ/cZkc=;7:64OkFGugWE/hbcbkFfPGFHksAb0+a4Rb1asaP9zeQ/bf+XJx9X3APH9Z/0NO1Et3ygyoS8zvEFDGwLmcEIIi6fvs3JGjaY4aPUiihtBurIMZfbHZh57ePityL/jqJCd9mjrpBk+9RN2h3QYjZy3oDgsWugl7eqfuDniQZiTy7wx2wLZ33QXh77GwkpmH+mEeZKGsWROXX2ac/mxTV7r/3SXImatJ0h3BdTTK8SSx+5Fveqp2+tW/eu89/8Do51GF
+x-incomingheadercount: 45
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: d69bd231-14ba-4f33-6a7e-08d52b65b2ca
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:BY2NAM03HT115;
+x-ms-traffictypediagnostic: BY2NAM03HT115:
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:BY2NAM03HT115;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BY2NAM03HT115;
+x-forefront-prvs: 04916EA04C
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:BY2NAM03HT115;H:CY1PR18MB0583.namprd18.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR18MB058304985111A4304F3A94EAB1280CY1PR18MB0583namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: d69bd231-14ba-4f33-6a7e-08d52b65b2ca
+X-MS-Exchange-CrossTenant-originalarrivaltime: 14 Nov 2017 13:43:33.2844
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM03HT115
+
+--_000_CY1PR18MB058304985111A4304F3A94EAB1280CY1PR18MB0583namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Fabio ja paguei o meu Boleto no nome de JUSSARA TIBOLA FAVERO
+
+aGORA ME MANDA O BOLETO DA MINHA FILHA JANYELLE TIBOLA FLORENTINO
+
+________________________________
+De: Instituto Agriverdes <instituto@agriverdes.com.br>
+Enviado: ter=E7a-feira, 7 de novembro de 2017 15:19
+Para: jussarajose@hotmail.com
+Assunto: Ultima Chamada para o CERTIFICADO.
+
+
+Ol=E1, T=E1 tudo bem por ai??
+
+Esse email =E9 bem r=E1pido, s=F3 pra ti avisar que se voc=EA ainda n=E3o f=
+ez o pedido do certificado, no link abaixo
+
+voc=EA faz o pagamento simb=F3lico de R$ 19,00. Depois me envia o comprovan=
+te com o nome completo para recebe-lo.
+
+Essa =E9 a ultima chamada para emiss=E3o de certificado, ent=E3o se voc=EA =
+precisa dele corre l=E1.
+
+Link para o Certificado<http://www.congresso.agroecoweb.com.br/redirect/red=
+irect.aspx?A=3DR&l=3DEAC57960-D2DC-4014-B95E-EE5DF3E51113&u=3D10874063-110b=
+-456b-8992-a1b91ab40aad>
+
+Abra=E7oo
+
+F=E1bio Mariani
+
+
+
+PS: Tivemos muitas pessoas pedindo o Parcelamento da Plataforma AgroecoWeb =
+no boleto banc=E1rio, j=E1 que
+
+n=E3o possu=EDam cart=E3o de cr=E9dito. Conseguimos disponibilizar junto a =
+operadora de pagamento a possibilidade de
+
+parcelamento da plataforma AgroecoWeb em 3x no Boleto mas somente para 10 a=
+cessos.  Portanto se voc=EA tem um real
+
+interesse na Plataforma responda esse email solicitando o acesso com parcel=
+amento dispon=EDvel em 3x no boleto.
+
+Corre-la s=E3o apenas 10 vagas.
+
+
+
+________________________________
+
+
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+Caso n=E3o queira mais receber meus e-mails, acesse esse link. (Unsubscribe=
+)<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&u=3D1=
+0874063-110b-456b-8992-a1b91ab40aad>.
+
+[http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DV&u=3D10=
+874063-110b-456b-8992-a1b91ab40aad&IMG=3D10874063-110b-456b-8992-a1b91ab40a=
+ad.png]
+Enviado com amor por leadlovers Lead Lovers<http://www.congresso.agroecoweb=
+.com.br/redirect/redirect.aspx?A=3DR&l=3DDE657CAB-7F6E-4544-BB3D-4F79EB9992=
+58&u=3D10874063-110b-456b-8992-a1b91ab40aad>
+
+--_000_CY1PR18MB058304985111A4304F3A94EAB1280CY1PR18MB0583namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Fabio ja paguei o meu Boleto no nome de JUSSARA TIBOLA FAVERO</p>
+<p>aGORA ME MANDA O BOLETO DA MINHA FILHA JANYELLE TIBOLA FLORENTINO</p>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>De:</b> Instituto Agriverdes &l=
+t;instituto@agriverdes.com.br&gt;<br>
+<b>Enviado:</b> ter=E7a-feira, 7 de novembro de 2017 15:19<br>
+<b>Para:</b> jussarajose@hotmail.com<br>
+<b>Assunto:</b> Ultima Chamada para o CERTIFICADO.</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<p><span style=3D"font-size:14pt">Ol=E1, T=E1 tudo bem por ai??</span></p>
+<p><br>
+<span style=3D"font-size:14pt">Esse email =E9 bem r=E1pido, s=F3 pra ti avi=
+sar que se voc=EA ainda n=E3o fez o pedido do certificado, no link abaixo
+</span></p>
+<p><span style=3D"font-size:14pt">voc=EA faz o pagamento </span><span style=
+=3D"font-size:14pt">simb=F3lico de R$ 19,00. Depois me envia o comprovante =
+com o nome completo para recebe-lo.
+</span></p>
+<p><span style=3D"font-size:14pt">Essa =E9 a ultima chamada para emiss=E3o =
+de certificado, ent=E3o se voc=EA precisa dele corre l=E1.</span></p>
+<p><span style=3D"font-size:14pt"><a href=3D"http://www.congresso.agroecowe=
+b.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DEAC57960-D2DC-4014-B95E-EE5DF=
+3E51113&amp;u=3D10874063-110b-456b-8992-a1b91ab40aad" target=3D"_blank" rel=
+=3D"noopener noreferrer">Link para o Certificado</a></span></p>
+<p><span style=3D"font-size:14pt">Abra=E7oo</span></p>
+<p><span style=3D"font-size:14pt">F=E1bio Mariani</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt">PS: Tivemos muitas pessoas pedindo o Parc=
+elamento da Plataforma AgroecoWeb no boleto banc=E1rio, j=E1 que&nbsp;</spa=
+n></p>
+<p><span style=3D"font-size:14pt">n=E3o possu=EDam cart=E3o de cr=E9dito. C=
+onseguimos disponibilizar junto a operadora de pagamento a possibilidade de
+</span></p>
+<p><span style=3D"font-size:14pt">parcelamento da plataforma&nbsp;</span><s=
+pan style=3D"font-size:14pt">AgroecoWeb em 3x no Boleto mas somente para 10=
+ acessos.&nbsp; Portanto se voc=EA tem um real
+</span></p>
+<p><span style=3D"font-size:14pt">interesse na Plataforma responda esse ema=
+il solicitando o acesso com parcelamento dispon=EDvel em 3x no boleto.
+</span></p>
+<p><span style=3D"font-size:14pt">Corre-la s=E3o apenas 10 vagas.</span></p=
+>
+<p>&nbsp;</p>
+<br>
+<hr>
+<br>
+<br>
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100<br>
+Caso n=E3o queira mais receber meus e-mails, <a href=3D"http://www.congress=
+o.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&amp;u=3D10874063-110b-456b=
+-8992-a1b91ab40aad" target=3D"_blank">
+acesse esse link. (Unsubscribe)</a>.<br>
+<br>
+<img alt=3D"" style=3D"width: 100%; height: 5px; max-height: 5px; user-sele=
+ct: none;" src=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.=
+aspx?A=3DV&amp;u=3D10874063-110b-456b-8992-a1b91ab40aad&amp;IMG=3D10874063-=
+110b-456b-8992-a1b91ab40aad.png"><br>
+Enviado com amor por leadlovers <a href=3D"http://www.congresso.agroecoweb.=
+com.br/redirect/redirect.aspx?A=3DR&amp;l=3DDE657CAB-7F6E-4544-BB3D-4F79EB9=
+99258&amp;u=3D10874063-110b-456b-8992-a1b91ab40aad">
+Lead Lovers</a> </div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_CY1PR18MB058304985111A4304F3A94EAB1280CY1PR18MB0583namp_--

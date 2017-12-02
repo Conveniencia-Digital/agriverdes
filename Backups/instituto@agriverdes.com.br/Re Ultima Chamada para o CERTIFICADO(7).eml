@@ -1,0 +1,334 @@
+Return-Path: <taialvesmoura@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id qHiOAARzClp39woAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 02:37:24 -0200
+Return-path: <taialvesmoura@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 02:37:24 -0200
+Received: from mail-lf0-f49.google.com ([209.85.215.49]:53567)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <taialvesmoura@gmail.com>)
+	id 1eESyR-0036az-E3
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 02:37:23 -0200
+Received: by mail-lf0-f49.google.com with SMTP id 73so6450448lfu.10
+        for <instituto@agriverdes.com.br>; Mon, 13 Nov 2017 20:37:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=qg2l/uEmIu5oNfSWm5qJ4ZCn4zGu9yP1j/pYcJoXHnI=;
+        b=hBJwp3wV4wA45v0zN3m4joz5CgGO8bkX4cNsUZs9jpaHz0gXXkbH4SuFKMXA6hhh7Q
+         qpXA5W8KDwafhJvyhH5LpROamJ/iLnX4ueIGyWjJSItndVo+NRTDDGFcLfNoyaTuKBMp
+         g/DzZEOfRiKjnfZkpT87gy3HcUtZe/IfNdBSGYFvjYXekQ2GBB7qj3kZt3rhTeMZybsf
+         hJIPEybRuDK6zqHVwdWWW5Y2mn/CxlOR/eJF0w8namE86a8kpJrZOBjCiTwVZ8XXxD6I
+         xp41ciTzBlpX+BF7wQooYolXxnZFZXm6EE+IG3qrA6dR1KDdOUGUn5bv9RK8x+jJ/VxO
+         aVtw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=qg2l/uEmIu5oNfSWm5qJ4ZCn4zGu9yP1j/pYcJoXHnI=;
+        b=bJpM1KmZSTmFn7rwb4kOjVngQp2WRIpMmgEtr158Z1CLuosNaiKb3XTg8jORcNFGoL
+         hU25tJ5lhvTITi5BZeoGeX0ZblE5QeflnOdIwbv3mZZ4vrHbRvgUZUklVJp+cZCnFe1d
+         RGbYIDEONmuG7U8Hy/bdse8Y3lwJznKuVuhglP+5lQGhypNcfKhFAnT6Z4XbWE0DwWRr
+         uWFpfhd2PIJocMsevFsLa/TWaDxi3mQY3KHjLFoiHJoNBdxedqsiBhvadnjgZUo2uUt4
+         AS/bumr2imEg299FvCzqFwfPtlUWNqh6qO3Rlm3mFEKRM3/kTlMWH5GJm4i3KpZYzm1r
+         JAng==
+X-Gm-Message-State: AJaThX6weDun1ykMIOeaslGt7B3XVj12fDRgqw1tZ7EBxVVB8hrxdqBM
+	PO9+PxPtDwkEapbFk39QNoR4ZSJ5c/rtO4RM6Uk=
+X-Google-Smtp-Source: AGs4zMbg18iy9n8soNvp0SfL/x9daEViKAcZDEzsdbZoInZNjFsqRxWrGt1RthodDhe2F2nUz/wDkwi6aqfQweQmUss=
+X-Received: by 10.46.91.217 with SMTP id m86mr2449345lje.166.1510634197762;
+ Mon, 13 Nov 2017 20:36:37 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.179.67.204 with HTTP; Mon, 13 Nov 2017 20:36:36 -0800 (PST)
+Received: by 10.179.67.204 with HTTP; Mon, 13 Nov 2017 20:36:36 -0800 (PST)
+In-Reply-To: <d0goXKdhQMqMZrmNNY3JBA@ismtpd0004p1lon1.sendgrid.net>
+References: <d0goXKdhQMqMZrmNNY3JBA@ismtpd0004p1lon1.sendgrid.net>
+From: Tainara Alves <taialvesmoura@gmail.com>
+Date: Tue, 14 Nov 2017 02:36:36 -0200
+Message-ID: <CALiB78ega62fy=3arXqdOVy_=G=es_we5O++2Mfe1sTpxGf_qQ@mail.gmail.com>
+Subject: Re: Ultima Chamada para o CERTIFICADO.
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/mixed; boundary="001a114b5af4be67a7055de9eed1"
+
+--001a114b5af4be67a7055de9eed1
+Content-Type: multipart/alternative; boundary="001a114b5af4be67a4055de9eecf"
+
+--001a114b5af4be67a4055de9eecf
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Em 7 de nov de 2017 6:17 PM, "Instituto Agriverdes" <
+instituto@agriverdes.com.br> escreveu:
+
+> Ol=C3=A1, T=C3=A1 tudo bem por ai??
+>
+>
+> Esse email =C3=A9 bem r=C3=A1pido, s=C3=B3 pra ti avisar que se voc=C3=AA=
+ ainda n=C3=A3o fez o
+> pedido do certificado, no link abaixo
+>
+> voc=C3=AA faz o pagamento simb=C3=B3lico de R$ 19,00. Depois me envia o c=
+omprovante
+> com o nome completo para recebe-lo.
+>
+> Essa =C3=A9 a ultima chamada para emiss=C3=A3o de certificado, ent=C3=A3o=
+ se voc=C3=AA precisa
+> dele corre l=C3=A1.
+>
+> Link para o Certificado
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D=
+EAC57960-D2DC-4014-B95E-EE5DF3E51113&u=3D1c3c7abd-79ca-4fa3-b59f-094bdb8abe=
+a2>
+>
+> Abra=C3=A7oo
+>
+> F=C3=A1bio Mariani
+>
+>
+>
+> PS: Tivemos muitas pessoas pedindo o Parcelamento da Plataforma AgroecoWe=
+b
+> no boleto banc=C3=A1rio, j=C3=A1 que
+>
+> n=C3=A3o possu=C3=ADam cart=C3=A3o de cr=C3=A9dito. Conseguimos disponibi=
+lizar junto a
+> operadora de pagamento a possibilidade de
+>
+> parcelamento da plataforma AgroecoWeb em 3x no Boleto mas somente para 10
+> acessos.  Portanto se voc=C3=AA tem um real
+>
+> interesse na Plataforma responda esse email solicitando o acesso com
+> parcelamento dispon=C3=ADvel em 3x no boleto.
+>
+> Corre-la s=C3=A3o apenas 10 vagas.
+>
+>
+>
+> ------------------------------
+>
+>
+> Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+> <https://maps.google.com/?q=3DRua+Joaquim+Alves+Taveira+1615+-+Dourados+-=
++MS+-+79824100&entry=3Dgmail&source=3Dg>
+> Caso n=C3=A3o queira mais receber meus e-mails, acesse esse link. (Unsubs=
+cribe)
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&u=3D=
+1c3c7abd-79ca-4fa3-b59f-094bdb8abea2>
+> .
+>
+>
+> Enviado com amor por leadlovers Lead Lovers
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D=
+DE657CAB-7F6E-4544-BB3D-4F79EB999258&u=3D1c3c7abd-79ca-4fa3-b59f-094bdb8abe=
+a2>
+
+--001a114b5af4be67a4055de9eecf
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"></div><div class=3D"gmail_extra"><br><div class=3D"gmail_=
+quote">Em 7 de nov de 2017 6:17 PM, &quot;Instituto Agriverdes&quot; &lt;<a=
+ href=3D"mailto:instituto@agriverdes.com.br">instituto@agriverdes.com.br</a=
+>&gt; escreveu:<br type=3D"attribution"><blockquote class=3D"gmail_quote" s=
+tyle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><u><=
+/u><p><span style=3D"font-size:14pt">Ol=C3=A1, T=C3=A1 tudo bem por ai??</s=
+pan></p>
+<p><br><span style=3D"font-size:14pt">Esse email =C3=A9 bem r=C3=A1pido, s=
+=C3=B3 pra ti avisar que se voc=C3=AA ainda n=C3=A3o fez o pedido do certif=
+icado, no link abaixo </span></p>
+<p><span style=3D"font-size:14pt">voc=C3=AA faz o pagamento </span><span st=
+yle=3D"font-size:14pt">simb=C3=B3lico de R$ 19,00. Depois me envia o compro=
+vante com o nome completo para recebe-lo. </span></p>
+<p><span style=3D"font-size:14pt">Essa =C3=A9 a ultima chamada para emiss=
+=C3=A3o de certificado, ent=C3=A3o se voc=C3=AA precisa dele corre l=C3=A1.=
+</span></p>
+<p><span style=3D"font-size:14pt"><a href=3D"http://www.congresso.agroecowe=
+b.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DEAC57960-D2DC-4014-B95E-EE5DF=
+3E51113&amp;u=3D1c3c7abd-79ca-4fa3-b59f-094bdb8abea2" rel=3D"noopener noref=
+errer" target=3D"_blank">Link para o Certificado</a></span></p>
+<p><span style=3D"font-size:14pt">Abra=C3=A7oo</span></p>
+<p><span style=3D"font-size:14pt">F=C3=A1bio Mariani</span></p>
+<p>=C2=A0</p>
+<p><span style=3D"font-size:14pt">PS: Tivemos muitas pessoas pedindo o Parc=
+elamento da Plataforma AgroecoWeb no boleto banc=C3=A1rio, j=C3=A1 que=C2=
+=A0</span></p>
+<p><span style=3D"font-size:14pt">n=C3=A3o possu=C3=ADam cart=C3=A3o de cr=
+=C3=A9dito. Conseguimos disponibilizar junto a operadora de pagamento a pos=
+sibilidade de </span></p>
+<p><span style=3D"font-size:14pt">parcelamento da plataforma=C2=A0</span><s=
+pan style=3D"font-size:14pt">AgroecoWeb em 3x no Boleto mas somente para 10=
+ acessos.=C2=A0 Portanto se voc=C3=AA tem um real </span></p>
+<p><span style=3D"font-size:14pt">interesse na Plataforma responda esse ema=
+il solicitando o acesso com parcelamento dispon=C3=ADvel em 3x no boleto. <=
+/span></p>
+<p><span style=3D"font-size:14pt">Corre-la s=C3=A3o apenas 10 vagas.</span>=
+</p>
+<p>=C2=A0</p><br><hr><br><br><a href=3D"https://maps.google.com/?q=3DRua+Jo=
+aquim+Alves+Taveira+1615+-+Dourados+-+MS+-+79824100&amp;entry=3Dgmail&amp;s=
+ource=3Dg">Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100</a><br=
+>Caso n=C3=A3o queira mais receber meus e-mails, <a href=3D"http://www.cong=
+resso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&amp;u=3D1c3c7abd-79ca-=
+4fa3-b59f-094bdb8abea2" target=3D"_blank">acesse esse link. (Unsubscribe)</=
+a>.<br><br><img alt=3D"" src=3D"http://www.congresso.agroecoweb.com.br/redi=
+rect/redirect.aspx?A=3DV&amp;u=3D1c3c7abd-79ca-4fa3-b59f-094bdb8abea2&amp;I=
+MG=3D1c3c7abd-79ca-4fa3-b59f-094bdb8abea2.png" style=3D"width:100%;height:5=
+px;max-height:5px"><br>Enviado com amor por leadlovers <a href=3D"http://ww=
+w.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DDE657CAB=
+-7F6E-4544-BB3D-4F79EB999258&amp;u=3D1c3c7abd-79ca-4fa3-b59f-094bdb8abea2" =
+target=3D"_blank">Lead Lovers</a>
+</blockquote></div></div>
+
+--001a114b5af4be67a4055de9eecf--
+--001a114b5af4be67a7055de9eed1
+Content-Type: image/png; name="Comprovante.certificado"
+Content-Disposition: attachment; filename="Comprovante.certificado"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: 1584014762930339840-local0
+
+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
+--001a114b5af4be67a7055de9eed1--

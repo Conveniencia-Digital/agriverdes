@@ -1,0 +1,73 @@
+Return-Path: <packfitoficial@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br (Dovecot) with LMTP id 2eTrEMFhpVlR2wQAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 29 Aug 2017 09:44:49 -0300
+Return-path: <packfitoficial@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 29 Aug 2017 09:44:49 -0300
+Received: from mail-wr0-f171.google.com ([209.85.128.171]:35384)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <packfitoficial@gmail.com>)
+	id 1dmfsu-001N3r-Vq
+	for instituto@agriverdes.com.br; Tue, 29 Aug 2017 09:44:49 -0300
+Received: by mail-wr0-f171.google.com with SMTP id j29so8913979wre.2
+        for <instituto@agriverdes.com.br>; Tue, 29 Aug 2017 05:44:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=I0VOHeJMtNNkE4BeCvN9fSwJJDtuKHEU26UIilrDVHM=;
+        b=NkU31OjUVX8JG1ld5oWsbPYEpeYPQ0z+pPOPYf8kZDUzWKSYdkyPkalvbjjRRgCZos
+         cw/Ogvv1hhiksHZCzkX5UEiDTGiEpUjzZ8EMB7Qq9pkiIUEI6eQnjjpHiZlzlmXHbWK9
+         c/CBZEC3NYfq69iAvv4rH+oURxaR4WIwwEl1kzYmds76kKN4iUKRrW0oRU0Whc6R0vzP
+         BQN5rdcxdD2dlfaJUVXoCS61m2XTQKqMlCmDsKnKg3BxLGMteqRz1ru1WiUXZDK/CWTw
+         TGUrojYXyDfG5MPlOTvR9jA2f1Eu52iApYWU1o7VK+/UfzykDTdvCBqaJ2aMHO5ikxcp
+         BrFw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=I0VOHeJMtNNkE4BeCvN9fSwJJDtuKHEU26UIilrDVHM=;
+        b=FHddL2nnCfLW2pzF/0Ut4l2D/HFFNPCagf8xlQjrsuH3IG9t4PHbqZeDhpJBlvHYia
+         O8rLMD4tEuaQJKz+iLzwM7s5TyKcGMOst4qALLuWbvDP9mTEIaguarRiAdboGFUJpLPL
+         wPoTi64GgcLtIfs1Uzc6m23OJpoXBkJILFD0ntYp7P813Kp1KVuKQCt2HI1IqN0mbWxn
+         PXijAYqrBD0LbrAj6/yzLrwyOJc0s1piP8BU2XUKmg5r8dAXpuwnEOkg7HlOHvbYepq8
+         qqPu3p7xwwQIEnNGqufoGlQ6T6sx+1ctytONwY0ApGh+t19MdJDip2EMVXJeKX9L034K
+         NERA==
+X-Gm-Message-State: AHYfb5hfRI7Zu679ZUHm2WnNX0wAR3A4xuwso/gEIqnzjJCwfQ0pnUwg
+	IDFJ40W7TFXjbXMHOuel0P2EwDp6Pw==
+X-Received: by 10.223.150.38 with SMTP id b35mr122873wra.263.1504010646615;
+ Tue, 29 Aug 2017 05:44:06 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.28.157.132 with HTTP; Tue, 29 Aug 2017 05:44:05 -0700 (PDT)
+Received: by 10.28.157.132 with HTTP; Tue, 29 Aug 2017 05:44:05 -0700 (PDT)
+In-Reply-To: <CAETK0_WXLMJh76WXFQkEcXBfiWA-aTQZZXmcBfO5zfCu+=Bt6w@mail.gmail.com>
+References: <CAETK0_VRw1+SyrGD8RgU-mprKEewjq=+pBagtQ5uMyFws56KSg@mail.gmail.com>
+ <CAETK0_WiP2S+_CHapRF56LevVCPJ1W+j3JWtuw5ZuWeMwkc7KQ@mail.gmail.com>
+ <CAETK0_Ws5MpnwCmfNaN6eZFVzDjPE1C150o+TVtQdVks4G_USA@mail.gmail.com> <CAETK0_WXLMJh76WXFQkEcXBfiWA-aTQZZXmcBfO5zfCu+=Bt6w@mail.gmail.com>
+From: Otavia Sardinha <packfitoficial@gmail.com>
+Date: Tue, 29 Aug 2017 09:44:05 -0300
+Message-ID: <CAETK0_UME9s+mKZE+EQxmApcfXz-ibDC_04baoVULCAvRyRkDw@mail.gmail.com>
+Subject: 
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a113c450a547b440557e3c4e9"
+
+--001a113c450a547b440557e3c4e9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Bom dia, fiquei na duvida na quest=C3=A3o das l=C3=ADnguas que ser=C3=A3o u=
+sadas, nos dois
+emails est=C3=A3o dizendo que sera transmitido em 2 l=C3=ADnguas, quais s=
+=C3=A3o?
+
+--001a113c450a547b440557e3c4e9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Bom dia, fiquei na duvida na quest=C3=A3o das l=C3=ADngua=
+s que ser=C3=A3o usadas, nos dois emails est=C3=A3o dizendo que sera transm=
+itido em 2 l=C3=ADnguas, quais s=C3=A3o?=C2=A0</div>
+
+--001a113c450a547b440557e3c4e9--

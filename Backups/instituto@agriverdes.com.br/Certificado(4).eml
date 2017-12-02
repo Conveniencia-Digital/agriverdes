@@ -1,0 +1,103 @@
+Return-Path: <janicleide_lima@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id gJkDOGqj8lmuFQ4AVsPpow
+	for <instituto@agriverdes.com.br>; Fri, 27 Oct 2017 01:09:30 -0200
+Return-path: <janicleide_lima@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Fri, 27 Oct 2017 01:09:30 -0200
+Received: from mail-oln040092007026.outbound.protection.outlook.com ([40.92.7.26]:55103 helo=NAM03-CO1-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <janicleide_lima@hotmail.com>)
+	id 1e7v1W-003uIS-LH
+	for instituto@agriverdes.com.br; Fri, 27 Oct 2017 01:09:30 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=Ao9wu5wi58RvG+JXrZ+C8ihTUEFlAdSxEuM+MWgQaS8=;
+ b=npUSozERABXuuwliitZehlSfNFri04Eu7oWcro7LZqISOFSG/nxyl317JAMUd7nmG+9FkNj3ftVzvewBiqZYkYei68LSiLZUfDpc3BsNWZfcbLigq9x6gCPM0qhzHBG6zrujC424JXQpFkpouEn8eN6mt+FVp81PGiemYDsOnRFiYpHQw9JA+AkL8kdx9fYP4Petiyj5T/4YH7WmVZ1ik8K0EYVFGYIbpVuBTVZdZI41GejRIUjMyZN5nw/CivZ3mizZDsYZWoC0Zi+Nc3JGPuhhmtWVa1xF8ZAkFP/sDMWd3jvsVkT+PKCbhlBfJ206nJVNOu73ORGrPqYhxO33hg==
+Received: from DM3NAM03FT025.eop-NAM03.prod.protection.outlook.com
+ (10.152.82.58) by DM3NAM03HT110.eop-NAM03.prod.protection.outlook.com
+ (10.152.83.135) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.178.5; Fri, 27
+ Oct 2017 03:08:48 +0000
+Received: from RO1PR80MB0714.lamprd80.prod.outlook.com (10.152.82.57) by
+ DM3NAM03FT025.mail.protection.outlook.com (10.152.82.181) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.178.5 via Frontend Transport; Fri, 27 Oct 2017 03:08:48 +0000
+Received: from RO1PR80MB0714.lamprd80.prod.outlook.com ([10.164.211.135]) by
+ RO1PR80MB0714.lamprd80.prod.outlook.com ([10.164.211.135]) with mapi id
+ 15.20.0178.007; Fri, 27 Oct 2017 03:08:47 +0000
+From: Janicleide Lima <janicleide_lima@hotmail.com>
+To: "instituto@agriverdes.com.br" <instituto@agriverdes.com.br>
+Subject: Certificado
+Thread-Topic: Certificado
+Thread-Index: AQHTTtDaNPDf1Nvw1UG1XyKFuk6w7Q==
+Date: Fri, 27 Oct 2017 03:08:47 +0000
+Message-ID: <RO1PR80MB0714712CC0426F5286FD0072975A0@RO1PR80MB0714.lamprd80.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:9B76CB94F46EFC4911CCB5B14CB5C6797EA79840B0930BE1F489C6DA6C10FC55;UpperCasedChecksum:6910943E6550D8AB936E5A90D4E1CD2197A32F5637E4125545F42D7A170BFDD1;SizeAsReceived:6840;Count:44
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [VsgSrTYSw4yUKuJS4UqOKPKI9UwVTKIrcb+Uv1r7HzM=]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;DM3NAM03HT110;6:8gvORjCqLAEeJVZEBN/874P1QOwVfSESwZ/9avlv5ewqGPQULGNAcfsoI0+iOK553MgiQGJgq2akxFtE5sVkUHVo52iltjN8rUfdx7nS3IT16eZs28TbIXmsm0xsKFrqBoRzfgNMfLQNTpxPh9QRM+LWhVc3UGQKQLwl9G2dnoLJq3L+5cy6dgCYD89Z+KO83sFhjJjh6eb9Fpt9r7hCVpPy2pYYiYcIJuJiYoSQ/YgVCxqccZNrcaJwFizJ0dhEpL24eop347oKArzfeecY5NZ48TkEPAzGE6FvFnvXfQlgC0cqTE6L/H7QCQ7BS31y2iB4ToFxfidwDh3S4agAUwZxtlrXSho0uBp8J6Cwsp0=;5:f/zab1jjEoQZMRDWpCBFRQ9YruXUT6E8hxJY2tAhpWQKut09yb+Z3HjVcRSCm9K+ny4Hk+Iw73FSf28OLN3V+t8Dk5H1DQnD6s0ttOwPrKx1382TGH7d9msyOpDXT/qFHy2AQUxj71dYj6G3BpAb3IKuPbUkGwm0PWhw8duC9TI=;24:4ob8ZPE6OfZ3DGG35HQr47AJytHzi7jpRndFg2FWGzWaLF+Peswgb/+28Ds4TYtEuIhl/bnTQCkMrVVfbXS0LEN2eCqzka4rJBjGHcslaqU=;7:h9JzHzXN13I56mUDuDoaYERPA2n6BgPO5/1Mca93hk3RuOOH3xhCLpRKH52GBW4XDj3QGM683g4WE4gP0chkG/bjRbHVwxT2JtSzUb7KpYPIyuUVlPxW+2EgqNZyGVzBxRipTIZo5HfGVaQaDsxUsbs78WtNw35vhUuvDsgse04j/L4q3NN4wcZ7AXM5iKadOBRQ80laE2xBtDsI/wDcdvJMm6IJtN6riLHP//zE9qRcBiz+cgDuLB8wJLUgoB7z
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 6fe9a852-85c3-4529-7e74-08d51ce80aa2
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:DM3NAM03HT110;
+x-ms-traffictypediagnostic: DM3NAM03HT110:
+authentication-results: outbound.protection.outlook.com; spf=skipped
+ (originating message); dkim=none (message not signed) header.d=none;
+ dmarc=none action=none header.from=hotmail.com;
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:DM3NAM03HT110;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:DM3NAM03HT110;
+x-forefront-prvs: 0473A03F3F
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:DM3NAM03HT110;H:RO1PR80MB0714.lamprd80.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_RO1PR80MB0714712CC0426F5286FD0072975A0RO1PR80MB0714lamp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 6fe9a852-85c3-4529-7e74-08d51ce80aa2
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Oct 2017 03:08:47.8267
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM3NAM03HT110
+
+--_000_RO1PR80MB0714712CC0426F5286FD0072975A0RO1PR80MB0714lamp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Boa noite,
+
+
+Gostaria de saber o prazo de entrega do certificado.
+
+--_000_RO1PR80MB0714712CC0426F5286FD0072975A0RO1PR80MB0714lamp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Boa noite,&nbsp;</p>
+<p><br>
+</p>
+<p>Gostaria de saber o prazo de entrega do certificado.</p>
+</div>
+</body>
+</html>
+
+--_000_RO1PR80MB0714712CC0426F5286FD0072975A0RO1PR80MB0714lamp_--

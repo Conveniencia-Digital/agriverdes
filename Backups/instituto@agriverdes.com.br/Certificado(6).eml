@@ -1,0 +1,112 @@
+Return-Path: <NettoVidotti@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id +Lv6NyyN9Fm38wkAVsPpow
+	for <instituto@agriverdes.com.br>; Sat, 28 Oct 2017 11:59:08 -0200
+Return-path: <NettoVidotti@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Sat, 28 Oct 2017 11:59:08 -0200
+Received: from mail-oln040092000093.outbound.protection.outlook.com ([40.92.0.93]:36399 helo=NAM01-BN3-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <NettoVidotti@hotmail.com>)
+	id 1e8Rdk-002nVJ-Mu
+	for instituto@agriverdes.com.br; Sat, 28 Oct 2017 11:59:08 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=UYZEVWeWWHMwFd4z2o7IBNgCm8AQzVptcIuUMMEkKLA=;
+ b=IlhvBvXMQgL2lG/x0BZfILBAEwqqhjBeefeOav5m7Ukxd1gZ5XHdLdmk6NsM5/jg1y3q90/Njf26xpFtrWakmAuK+e8zBOpP1CqA29vGIiEPLGz8BXUtwZ26k3+mMxjhTbk7Gme8QGzvOtvlQaszZwUTlR4yEDgO2Dt9gahzpBZnMKQqQD5uUjCVumdgXcT1NweXH3kWwpqHHWG8To8+grGgjdw8Ec495pNMyFuUZX1Zvv/V5BFJPedswOJ6KQUxCFQcFcups6pNO3f9+BEo5K5r6Al3UPorlAp7BaEJ8uzKXXONbyWDSLq7xvw86EjRsgncDrHyks2oqH1oPPkYZw==
+Received: from BY2NAM01FT039.eop-nam01.prod.protection.outlook.com
+ (10.152.68.52) by BY2NAM01HT032.eop-nam01.prod.protection.outlook.com
+ (10.152.68.250) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.156.4; Sat, 28
+ Oct 2017 13:58:25 +0000
+Received: from CY1PR15MB0345.namprd15.prod.outlook.com (10.152.68.57) by
+ BY2NAM01FT039.mail.protection.outlook.com (10.152.68.115) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.156.4 via Frontend Transport; Sat, 28 Oct 2017 13:58:25 +0000
+Received: from CY1PR15MB0345.namprd15.prod.outlook.com ([10.163.234.150]) by
+ CY1PR15MB0345.namprd15.prod.outlook.com ([10.163.234.150]) with mapi id
+ 15.20.0156.008; Sat, 28 Oct 2017 13:58:25 +0000
+From: Netto Vidotti <NettoVidotti@hotmail.com>
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Subject: Certificado
+Thread-Topic: Certificado
+Thread-Index: AQHTT/SXKKMjVcOeFE+aiwhqUEN5sg==
+Date: Sat, 28 Oct 2017 13:58:25 +0000
+Message-ID: <CY1PR15MB034509DE6BEB21DC1E33B2C6D65B0@CY1PR15MB0345.namprd15.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:46570C84F3C98F6A7812522F2BE413122E19CB2B791F5658986A02B8D8BE946C;UpperCasedChecksum:1BB41B8486B3ED0481613C7402326F466C286DE64AFF2E59898657F9290386AC;SizeAsReceived:6889;Count:43
+x-tmn: [fsAqw14qGxWd7X5Xopb4sr0VJRipsnm7Hkr2hBNS6qPcVQNzvnxHBlDRo3pkx1Yu]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY2NAM01HT032;6:5YYDWXweO3XksuF+WIyBNL+73FnpTwX0BOfSJQdLYgcN6bw7X0Pielnhu2xWVKaJzJ9+H8//Ig8VDZnEZHJJAtQaSU053bDTjGWpTCcfhijUxlJUSO15qwY4RVIhtVtIwcIVB0Q+kVATxb9pSl9Hw1piWzXos+3l17YIZAlBRRrycaWT4pUyMHyUYOFXVFodCUSkKiGWM5N5qJ/qNGz9JFnTvdKk+JhIdSUattR2KRJVakRJUPd/PnqkwOe0CV9JXfn7tpazMg95G5fTk54mszYo4s0N8LHL2tQL2PRFe+ZlOdWE3Nqq2w0YkpwCBFEBMUQCPeiiWUByrMdkMLT10w==;5:WvJPxmeOq7X8GaKPV3SOJCU749Fq5f6ezOYSxLum0JxrmIxfjX/heTBCtRDQ79j3dewA/B8FcgRmTwAohY9fxcA1Q4UziyAxhOBBZ5o47bIlIIml5VXN5GemkkrChxD7nRtnup//SkV7i6N4LCvwwg==;24:8cTkfo1rovuJmSc5EEhVEMziSqFcwvEnlKAFVa0xFzW6MTVwOiE+dNsUc2/NiHZPJG8nkVKMeza09qI6U1VmmLibaZPxBaQThnq96I2l/8w=;7:5zrSSwq/H9X4Ds6Jw2UlolzWq1eKyJIIBDoNVkEM1t+nC3TGBWAke3bfSRnMJLEKY02Fuyo5+vlogtENfAxjkp0W4taVGBxfdPJakj7frqTh2PaG2sPs8HHKHVotirveCbu9EKJUhmUacxtovdN2KQ8sndTs73NDEzfLiy2r+llniuUhJjt5/iGVUf5EzmRAVQDgUA7vD5klehfW4o8TJQczV7X1TrNDWSNxGgbIfaA=
+x-incomingheadercount: 43
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 4c4af36e-847f-471c-79e4-08d51e0bf5b7
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:BY2NAM01HT032;
+x-ms-traffictypediagnostic: BY2NAM01HT032:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:BY2NAM01HT032;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BY2NAM01HT032;
+x-forefront-prvs: 04740D25F1
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:BY2NAM01HT032;H:CY1PR15MB0345.namprd15.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR15MB034509DE6BEB21DC1E33B2C6D65B0CY1PR15MB0345namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 4c4af36e-847f-471c-79e4-08d51e0bf5b7
+X-MS-Exchange-CrossTenant-originalarrivaltime: 28 Oct 2017 13:58:25.7458
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM01HT032
+
+--_000_CY1PR15MB034509DE6BEB21DC1E33B2C6D65B0CY1PR15MB0345namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Bom dia,
+
+
+Eu gostaria de saber como fa=E7o para ganhar meu certificado por ter partic=
+ipado do 1=BA AgroecoWeb. Meu nome =E9 Gervasio Luiz Vidotti Netto e eu ass=
+isti o Congresso.
+
+
+Obrigado pela aten=E7=E3o.
+
+--_000_CY1PR15MB034509DE6BEB21DC1E33B2C6D65B0CY1PR15MB0345namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Bom dia,</p>
+<p><br>
+</p>
+<p>Eu gostaria de saber como fa=E7o para ganhar meu certificado por ter par=
+ticipado do 1=BA AgroecoWeb. Meu nome =E9 Gervasio Luiz Vidotti Netto e eu =
+assisti o Congresso.</p>
+<p><br>
+</p>
+<p>Obrigado pela aten=E7=E3o.</p>
+</div>
+</body>
+</html>
+
+--_000_CY1PR15MB034509DE6BEB21DC1E33B2C6D65B0CY1PR15MB0345namp_--

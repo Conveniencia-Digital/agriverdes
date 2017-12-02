@@ -1,0 +1,129 @@
+Return-Path: <victor.sm291@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id kJDKLaVlClrIiQkAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 01:40:21 -0200
+Return-path: <victor.sm291@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 01:40:21 -0200
+Received: from mail-ot0-f195.google.com ([74.125.82.195]:56917)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <victor.sm291@gmail.com>)
+	id 1eEQsO-001zj4-RD
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 00:23:01 -0200
+Received: by mail-ot0-f195.google.com with SMTP id j29so11998303oth.13
+        for <instituto@agriverdes.com.br>; Mon, 13 Nov 2017 18:22:39 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=oK2O78wQvkMx43COH1hk3lbD8242KLXDrUj3FYZT2Ng=;
+        b=vK97yfAZB2MTRIFflOQw5+PasadSG+T4y5ONgT6Bqn4RTzuV4WVxv8m63CqHJ+tDP0
+         T4uzWLdiQMVvh8j01zMPqiVnc1L22ldhcwH2dJAyVrmjMEl1y34mShQpX89/Y3o5sKTc
+         YRVLDQh5FsJsLyhZ27xcMsXY1o4LUnpwKupLCOybT0SQ0NGj358Kx9x754S/GF01/dvr
+         Jowy9vMGfEdOPbZx0uAgSS6/BCbp8zQq/uY7VbZnLTLcFqRDiDA3GJ/cul9uTtuHf/aC
+         RJR3sEzU4dHh9fDKSV5L0ZynqL1tRGjA6MsD5SKx5o8OZ5gAMhFtU6FKBAFOpFB+urlK
+         P8CA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=oK2O78wQvkMx43COH1hk3lbD8242KLXDrUj3FYZT2Ng=;
+        b=peoIelZqpHcltGIFlj7BfNQJjrqzjH/7dPHgzz8YKL1OUKdm6UkZ0z9lCj+WyV0z+i
+         DfIFsibdLBhPxWhEk2JqHQ46bhPG+2k5fdREsB97OT5CzSyrLQlSNNHVvQkaCg3lxDqD
+         wDW9mN3TgNYTr1dEi1U4NP30+Hhnm6EJzVW0xtPSrWis8lmf6GIl28cGwthKZ3FyrHdi
+         b8Q9MHGgJEkR+I7AvqE+rDVNJKNPvZ2I3QSiNjKNOhPYFhJM5yKgtiwfCYirhYdQTvxM
+         JNyBDAuGUQl8GXaxFuiMCEBMaqsojB2U0tl/3TWtCojcDDZaXlN8ViPDx2Ssuea2km8p
+         XfMQ==
+X-Gm-Message-State: AJaThX4e0f1ry7f/31GFYRaWyv+WwIhV6BpSkMyHNE590tuAuQtAP3/X
+	74xbLDNRHncqqfMTSkqb1GeGi0t06idlCsrHc9o=
+X-Google-Smtp-Source: AGs4zMYwQXKNOawb3vEJsKpY526opPWeSPHZ+xM0EkNKFID7yNuZ9VeNU47l1LB5ab9ODBvA8/Hf/qOrOx34wn4jswM=
+X-Received: by 10.157.35.48 with SMTP id j45mr7279181otb.443.1510626137251;
+ Mon, 13 Nov 2017 18:22:17 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.30.164 with HTTP; Mon, 13 Nov 2017 18:22:16 -0800 (PST)
+From: Victor Emanuel <victor.sm291@gmail.com>
+Date: Tue, 14 Nov 2017 00:22:16 -0200
+Message-ID: <CAD6b6UMSXJzfsXV3tcV-EeC9xSxe2c=gW+C6=DGAko00eOq9EA@mail.gmail.com>
+Subject: VITOR EMANUEL SOARES MASSAVI.
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a113db3664ca1fd055de80ecc"
+
+--001a113db3664ca1fd055de80ecc
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Ol=C3=A1 VITOR EMANUEL SOARES MASSAVI,*
+O seu pagamento realizado no dia *11/11/2017 *no valor de *R$ 20,00 *foi
+*aprovado!*
+Comprovante de pagamento
+
+Identifica=C3=A7=C3=A3o da compra no PagSeguro:
+*75B9496C-BC9B-49FA-8056-D6B10538D44F*
+
+Nome do vendedor e e-mail:
+*Fabio M Mariani Me* - instituto@agriverdes.com.br
+
+
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>
+Livre
+de v=C3=ADrus. www.avast.com
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>.
+<#m_-542686466554920073_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+--001a113db3664ca1fd055de80ecc
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table cellpadding=3D"0" cellspacing=3D"20" border=3D"0" w=
+idth=3D"100%" style=3D"font-size:12.8px"><tbody><tr><td><font color=3D"#4f4=
+f4f" face=3D"arial" size=3D"4"><strong>Ol=C3=A1=C2=A0VITOR EMANUEL SOARES M=
+ASSAVI,</strong></font></td></tr><tr><td><font face=3D"arial" size=3D"2">O =
+seu pagamento realizado no dia=C2=A0<font face=3D"arial" color=3D"#4f4f4f">=
+<strong>11/11/2017=C2=A0</strong></font>no valor de=C2=A0<font face=3D"aria=
+l" color=3D"#71ba2f"><strong>R$ 20,00=C2=A0</strong></font>foi=C2=A0<font f=
+ace=3D"arial" color=3D"#71ba2f"><strong>aprovado!</strong></font></font></t=
+d></tr><tr><td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%"><tbody><tr><td width=3D"570"><img src=3D"https://stc.pagseguro.u=
+ol.com.br/public/img/email/efrete/top-box-efrete-email.jpg" width=3D"570" h=
+eight=3D"30" class=3D"m_-542686466554920073gmail-CToWUd"></td></tr><tr><td>=
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbo=
+dy><tr><td width=3D"30"><img src=3D"https://stc.pagseguro.uol.com.br/public=
+/img/email/efrete/left-box-efrete-email-big.jpg" width=3D"30" height=3D"200=
+" class=3D"m_-542686466554920073gmail-CToWUd"></td><td width=3D"510"><table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr=
+><td colspan=3D"2"><font face=3D"arial" color=3D"#71ba2f" size=3D"3">Compro=
+vante de pagamento</font></td></tr><tr><td width=3D"60%" valign=3D"top"><ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody>=
+<tr><td height=3D"30">=C2=A0</td></tr><tr><td><font face=3D"arial" color=3D=
+"#4f4f4f" size=3D"1">Identifica=C3=A7=C3=A3o da compra no PagSeguro:=C2=A0<=
+/font><br><font face=3D"arial" color=3D"#4f4f4f" size=3D"2"><strong>75B9496=
+C-BC9B-49FA-8056-D6B105<wbr>38D44F</strong></font></td></tr><tr><td height=
+=3D"10">=C2=A0</td></tr><tr><td><font face=3D"arial" color=3D"#4f4f4f" size=
+=3D"1">Nome do vendedor e e-mail:=C2=A0</font><br><font face=3D"arial" colo=
+r=3D"#4f4f4f" size=3D"2"><strong>Fabio M Mariani Me</strong>=C2=A0-=C2=A0<a=
+ href=3D"mailto:instituto@agriverdes.com.br" target=3D"_blank">instituto@ag=
+riverdes.com.<wbr>br</a></font></td></tr><tr><td height=3D"10">=C2=A0</td><=
+/tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></t=
+d></tr></tbody></table></td></tr></tbody></table><div id=3D"m_-542686466554=
+920073DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br> <table style=3D"border-top=
+:1px solid #d3d4de">
+	<tbody><tr>
+      <td style=3D"width:55px;padding-top:18px"><a href=3D"https://www.avas=
+t.com/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campaign=
+=3Dsig-email&amp;utm_content=3Dwebmail" target=3D"_blank"><img src=3D"https=
+://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-n=
+o-repeat-v1.gif" alt=3D"" width=3D"46" height=3D"29" style=3D"width:46px;he=
+ight:29px"></a></td>
+		<td style=3D"width:470px;padding-top:17px;color:#41424e;font-size:13px;fo=
+nt-family:Arial,Helvetica,sans-serif;line-height:18px">Livre de v=C3=ADrus.=
+ <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&amp;utm_sour=
+ce=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3Dwebmail" style=3D"=
+color:#4453ea" target=3D"_blank">www.avast.com</a>. 		</td>
+	</tr>
+</tbody></table>
+<a href=3D"#m_-542686466554920073_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" wid=
+th=3D"1" height=3D"1"></a></div></div>
+
+--001a113db3664ca1fd055de80ecc--

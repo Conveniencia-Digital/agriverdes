@@ -1,0 +1,603 @@
+Return-Path: <evelize-dumke@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id 4K4THGms+Fmt4AwAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 31 Oct 2017 15:01:29 -0200
+Return-path: <evelize-dumke@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 31 Oct 2017 15:01:29 -0200
+Received: from mail-oln040092009101.outbound.protection.outlook.com ([40.92.9.101]:51232 helo=NAM04-BN3-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <evelize-dumke@hotmail.com>)
+	id 1e9Zuq-003Yce-W5
+	for instituto@agriverdes.com.br; Tue, 31 Oct 2017 15:01:29 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=b2+J9dBQycoYFQk1KX6mR8dg5uqGjopI6FvnVsH1UdQ=;
+ b=mAkSmerPMI+S2NEO/YXdDE313h6tHLiRegNnDk+u3wl+CYgxo3h8SHWQkzxXSxCP3cKWZ2j5/5nnJ15X9MtrqvPRcaYXMq/1oxm9tgWzRy5cZGCHE9E9GYjGSsfEetphmnT1tn1WxeODLrZ1Eucb1jGZDW4/8dSEGuyhQ0mSTGRf3zeVuEwL7IxJ6vxcSWIiFvqf+6S4OQNDpfrl5JxSn0/+yiCCeYhCqNu8f2FP419HQIvQWDHzwDhayigpp5oBr00js9MBpdgPgTliAFriyA6jm9DINf2RgPiWm49QOP4uLPVmvkEVHbuO1E/AAycmP0gik9qOFreJ649/unZQKw==
+Received: from SN1NAM04FT022.eop-NAM04.prod.protection.outlook.com
+ (10.152.88.55) by SN1NAM04HT015.eop-NAM04.prod.protection.outlook.com
+ (10.152.88.199) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.156.4; Tue, 31
+ Oct 2017 17:00:46 +0000
+Received: from DM5PR20MB1193.namprd20.prod.outlook.com (10.152.88.60) by
+ SN1NAM04FT022.mail.protection.outlook.com (10.152.88.146) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.178.5 via Frontend Transport; Tue, 31 Oct 2017 17:00:46 +0000
+Received: from DM5PR20MB1193.namprd20.prod.outlook.com ([10.173.135.11]) by
+ DM5PR20MB1193.namprd20.prod.outlook.com ([10.173.135.11]) with mapi id
+ 15.20.0197.013; Tue, 31 Oct 2017 17:00:45 +0000
+From: Evelize Dumke <evelize-dumke@hotmail.com>
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Subject: CERTIFICADO
+Thread-Topic: CERTIFICADO
+Thread-Index: AQHTUmnLRXOuVYMp7E6qlWFf5awGFw==
+Date: Tue, 31 Oct 2017 17:00:45 +0000
+Message-ID: <DM5PR20MB11933E2EF2BEE3E2BD961D8CFC5E0@DM5PR20MB1193.namprd20.prod.outlook.com>
+References: <XyvGhhmNRhyPLcJk1GMSzQ@ismtpd0007p1iad1.sendgrid.net>
+In-Reply-To: <XyvGhhmNRhyPLcJk1GMSzQ@ismtpd0007p1iad1.sendgrid.net>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:4ECB05CE4EE96A3D326B098CD5B87B6B6FF28F7058840AE65B4BFBB79E651FCB;UpperCasedChecksum:4C9D495232D048186F03338C0ADC811FB2C454787365720B5E98DBB1180C3501;SizeAsReceived:6942;Count:46
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [VWhwQJysBN85UvOJ0D2R3usBWEGTvjvw]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1NAM04HT015;6:wtnLuRx+LstIUJoqq5Vmb15zqHSxbDzbq38DIbGdZ9g8upZGqgVWkF6dYyqf3KSo21mBN6EDziTCeC+lJQBWo8jXeFUfhqx8JgmMOVM2yPo5qhqsz53D7GtqsKjasEabA3uNg9me1sY0RytuZxR866BBL4TBOu0UOgKC9ELf8YMd898ZfLJDvcw5NfGIm7CMuzLxctWO7bu8xBJpk+Z28imT2jje++Ao3I2LdL8/4gsOBqLyDLVb/k/DdredovRec70xxfNDj8YTjV4r2lq+iYPTjfZ9qZZ9w68IxsrfF46FIo02uNFDOh1xGsH01PEwvfbgSz5xcNUo04xUVJb1Pw==;5:77djaPJ5jcIPrLhJc13oI8qaOELFyEXaS8SL7tJWIL2U+MILFurZfc3TmHey/F80cJ83GcE/Y3eOeK2HxLgv8L6chkfXV1qSxbHcGEcy6ppp+lMclW0hR4DPugJW84pk7xNcrsUcuN74bi8iYMIYNQ==;24:+Enb8VOQgIICaEzfwdo8S1UvbYmLHz2Qy08FuRcwxQz4tXYZFWI/cGFfvrMrra8NzE7Jg3vdbtD744iY9go3HhpMRNjMxOkwvoJ9ocqxGN8=;7:2RAcK4nyYwcIJfCv/2/TbLK4R67Ofdhrtp+MI9UGRBm7avulirIhDPw1mFGaNS1MNfaJyT2fVbDXE1c7d9FUh8jJuUEt70M51bq1Srqc59IjWLVkTPkokXg6OVcazV6rRJjBtOaHBv3tLtG4PEp9y6PJkqITFvMdJdOzwq9nO1tqxtzHbtFYc+9IY4hWztjNN65cjmWd+oMIsPYfa+grEbu+d655aq3WtZaDeDiwb4M=
+x-incomingheadercount: 46
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 27f83ae7-a1aa-4bf6-dc64-08d52080edc3
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:SN1NAM04HT015;
+x-ms-traffictypediagnostic: SN1NAM04HT015:
+x-exchange-antispam-report-test: UriScan:(209352067349851)(166494164430575)(194151415913766);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:SN1NAM04HT015;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:SN1NAM04HT015;
+x-forefront-prvs: 04772EA191
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SN1NAM04HT015;H:DM5PR20MB1193.namprd20.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DM5PR20MB11933E2EF2BEE3E2BD961D8CFC5E0DM5PR20MB1193namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 27f83ae7-a1aa-4bf6-dc64-08d52080edc3
+X-MS-Exchange-CrossTenant-originalarrivaltime: 31 Oct 2017 17:00:45.8638
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM04HT015
+
+--_000_DM5PR20MB11933E2EF2BEE3E2BD961D8CFC5E0DM5PR20MB1193namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+Meu nome =E9: Evelize Donicht Dumke, RG 5111598651
+Desejo o certificado... desde j=E1 agrade=E7o!
+ Att. Evelize Dumke
+
+________________________________
+De: Instituto Agriverdes <instituto@agriverdes.com.br>
+Enviado: ter=E7a-feira, 17 de outubro de 2017 16:54
+Para: evelize-dumke@hotmail.com
+Assunto: Obrigado...
+
+
+E ai Evelize Donicht Dumke. Tudo bem???
+
+Hoje eu quero reconhecer voc=EA que se inscreveu e participou do 2=BA Congr=
+esso Internacional
+
+Online de Agroecologia e Permacultura (AgroecoWeb). Foi uma semana intensa =
+e repleta de
+
+informa=E7=E3o, e =E9 o fato de voc=EA estar aqui comigo que faz que esse p=
+r=F3prio projeto possa existir.
+
+E como forma de agradecimento vou discutir 4 coisas muito importante com vo=
+c=EA nos pr=F3ximos 4 emails.
+
+
+
+[+] Email # 1 (este email )
+
+Vou te dar 2 excelentes not=EDcias! E Vou mostrar porque a Plataforma Agroe=
+coWeb =E9 o caminho
+
+certo para voc=EA que quer aumentar substancialmente seus conhecimentos em =
+Agroecologia e Produ=E7=E3o Org=E2nica.
+
+
+
+[+] Email # 2
+
+Muitas Pessoas j=E1 est=E3o estudando em nossas plataformas e aplicando os =
+conhecimentos adquiridos em
+
+seus trabalhos ou em suas pr=F3prias propriedades.
+
+Mas o que realmente essas pessoas que buscaram esse conhecimento tem em com=
+um?, s=E3o 2 fatores.
+
+Eu costumo dizer que s=E3o 2 "poderes m=E1gicos", e no segundo email eu vou=
+ te mostrar essa m=E1gica por
+
+tr=E1s das cortinas. E uma vez que voc=EA souber quais s=E3o esses 2 podere=
+s e souber aplic=E1-los, voc=EA poder=E1
+
+revolucionar o seu conhecimento e a sua vida. N=E3o tem erro!
+
+
+
+[+] Email # 3
+
+Eu vou te apresentar os B=D4NUS que eu reservei com todo o carinho para as =
+pessoas que adquirirem a
+
+Plataforma Agroecoweb. Alguns deles s=E3o vendidos separadamente e por si s=
+=F3 j=E1 transformaram a vida
+
+de muitas pessoas. A boa not=EDcia =E9 que voc=EA n=E3o vai pagar um centav=
+o sequer, pois esse material =E9 b=F4nus
+
+gratuito para quem aproveitar essa curta janela de oportunidades.
+
+
+
+[+] Email #4
+
+Eu vou te dar o =FAltimo aviso para adquirir a Plataforma Agroecoweb para q=
+ue n=E3o se arrependa depois.
+
+
+
+Ent=E3o vamos l=E1!!
+
+#######################
+
+As 2 Excelentes Not=EDcias
+
+#######################
+
+
+
+Not=EDcia #1
+
+Voc=EA vai ter a chance de ter acesso a Plataforma AgroecoWeb.
+
+Muita gente ficou literalmente Desesperada por eu ter fechado as inscri=E7=
+=F5es da Plataforma Agroecoweb no
+
+=FAltimo Domingo. Afinal muitos s=F3 souberam do congresso nos =FAltimos di=
+as e mesmo depois n=E3o puderam
+
+participar. S=F3 na lista de espera j=E1 s=E3o 174 pessoas. J=E1 que nossa =
+plataforma n=E3o comporta todo mundo.
+
+Eu fiz isso porque realmente a procura foi ENORME , e nossa equipe do Agroe=
+coWeb, apesar de muito produtiva,
+
+=E9 muito enxuta. Ent=E3o eu resolvi encerrar as inscri=E7=F5es para recebe=
+r os novos Alunos com toda a aten=E7=E3o
+
+que eles merecem. Por isso seguindo a minha miss=E3o maior de ajudar e de l=
+evar conhecimentos eu resolvi reabri
+
+a p=E1gina de vendas, entre Hoje (16/10) at=E9 SEXTA-FEIRA apenas!
+
+
+
+CLIQUE AQUI Para conhecer a Maior Plataforma de Ensino em Agroecologia e Pr=
+odu=E7=E3o Org=E2nica do Mundo.<http://www.congresso.agroecoweb.com.br/redi=
+rect/redirect.aspx?A=3DR&l=3DAB07BAD1-F2C7-440B-B2E7-BAE5255DDD6B&u=3Decb5a=
+15b-1557-45ae-a438-a601f05853d8>
+
+
+
+=C9 isso mesmo!!
+
+Eu vou dar uma ultima oportunidade de voc=EA entrar na Plataforma AgroecoWe=
+b e vai
+
+at=E9 SEXTA somente. Assim dou uma segunda chance pra quem pediu.
+
+
+
+Noticia #2
+
+Eu vou liberar as 7 aulas do Curso B=E1sico de Agroecologia que aconteceu d=
+urante o congresso para voc=EA j=E1
+
+ir aquecendo as turbinas...
+
+AULA 01<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR=
+&l=3D41A8D293-31DB-4166-A44C-7EEED62D4E5A&u=3Decb5a15b-1557-45ae-a438-a601f=
+05853d8>      AULA 02<http://www.congresso.agroecoweb.com.br/redirect/redir=
+ect.aspx?A=3DR&l=3D91D10D23-B1EA-4833-BA55-7BC6DDCF1A8C&u=3Decb5a15b-1557-4=
+5ae-a438-a601f05853d8>      AULA 03<http://www.congresso.agroecoweb.com.br/=
+redirect/redirect.aspx?A=3DR&l=3D49B1FCF0-6CC9-4D80-8B11-152B0EBD1821&u=3De=
+cb5a15b-1557-45ae-a438-a601f05853d8>       AULA 04<http://www.congresso.agr=
+oecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D57A6EF59-BED4-4966-BF41-6C6=
+E2A31FB8E&u=3Decb5a15b-1557-45ae-a438-a601f05853d8>      AULA 05<http://www=
+.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3DAAC34F49-665F=
+-4DC6-B54F-B336154F1AE9&u=3Decb5a15b-1557-45ae-a438-a601f05853d8>       AUL=
+A 06<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=
+=3D7BB99CC5-8058-473D-8559-E3C0899DCE3A&u=3Decb5a15b-1557-45ae-a438-a601f05=
+853d8>      AULA 07<http://www.congresso.agroecoweb.com.br/redirect/redirec=
+t.aspx?A=3DR&l=3D6C785E63-97D8-4963-89FA-0628CC02E7DB&u=3Decb5a15b-1557-45a=
+e-a438-a601f05853d8>
+
+
+
+Eu acredito que muitas pessoas por ai est=E3o apenas SOBREVIVENDO e n=E3o v=
+ivendo de verdade. Porque elas n=E3o
+
+tem conhecimentos que podem lev=E1-las a um pr=F3ximo n=EDvel e n=E3o acred=
+ito que estejam conformadas com isso.
+
+E muita gente erra tentando acertar, porque n=E3o tem acesso a informa=E7=
+=E3o de qualidade j=E1 que a Agroecologia =E9 nova
+
+mas com muito potencial.
+
+Quem assistiu o congresso viu o quanto ele foi impactante, com uma gama de =
+conhecimentos incr=EDveis e posso dizer
+
+com convic=E7=E3o que =E9 s=F3 o come=E7o.... tem muito mais vindo por ai..=
+.
+
+Por isso eu sugiro que voc=EA estude com muito carinho a proposta que apres=
+ento nesse v=EDdeo para ter acesso a
+
+Plataforma AgroecoWeb, e ter acesso a muito, mas muito mais conte=FAdo de e=
+xtrema qualidade.
+
+
+
+Veja o V=EDdeo explicativo aqui.<http://www.congresso.agroecoweb.com.br/red=
+irect/redirect.aspx?A=3DR&l=3DAB07BAD1-F2C7-440B-B2E7-BAE5255DDD6B&u=3Decb5=
+a15b-1557-45ae-a438-a601f05853d8>
+
+
+
+Vem voc=EA tamb=E9m para o Lado Verde da For=E7a!
+
+Sauda=E7=F5es Agroecol=F3gicas
+F=E1bio Mariani
+
+
+
+PS. De qualquer modo nos vemos amanh=E3 com os 2 =93poderes m=E1gicos=94 do=
+ conhecimento agroecol=F3gico. Enquanto isso a chance de conhecer o
+que h=E1 de mais atualizado e comprovado em agroecologia j=E1 esta dispon=
+=EDvel na Plataforma AgroecoWeb. O amor pela terra e pela mudan=E7a
+no planeta, quem faz, precisa de uma dire=E7=E3o de uma ajuda para poder fa=
+zer mais e juntos fazermos a diferen=E7a.
+
+Basta Clicar aqui e Descobrir<http://www.congresso.agroecoweb.com.br/redire=
+ct/redirect.aspx?A=3DR&l=3DAB07BAD1-F2C7-440B-B2E7-BAE5255DDD6B&u=3Decb5a15=
+b-1557-45ae-a438-a601f05853d8>
+
+PS2. Se voc=EA tem interesse no CERTIFICADO DIGITAL do congresso, neste LIN=
+K<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D6=
+A885B72-D3A5-482B-8E22-0991E3108B45&u=3Decb5a15b-1557-45ae-a438-a601f05853d=
+8> voc=EA adquiri ele. Depois basta me enviar um email com o
+nome completo que envio seu certificado.
+
+________________________________
+
+
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+Caso n=E3o queira mais receber meus e-mails, acesse esse link. (Unsubscribe=
+)<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&u=3De=
+cb5a15b-1557-45ae-a438-a601f05853d8>.
+
+[http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DV&u=3Dec=
+b5a15b-1557-45ae-a438-a601f05853d8&IMG=3Decb5a15b-1557-45ae-a438-a601f05853=
+d8.png]
+Enviado com amor por leadlovers Lead Lovers<http://www.congresso.agroecoweb=
+.com.br/redirect/redirect.aspx?A=3DR&l=3D9EEDE194-46EE-4718-BB9C-1B3234C5ED=
+C9&u=3Decb5a15b-1557-45ae-a438-a601f05853d8>
+
+--_000_DM5PR20MB11933E2EF2BEE3E2BD961D8CFC5E0DM5PR20MB1193namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p><br>
+</p>
+Meu nome =E9: Evelize Donicht Dumke, RG 5111598651
+<div>Desejo o certificado... desde j=E1 agrade=E7o!</div>
+<div>&nbsp;Att. Evelize Dumke<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>De:</b> Instituto Agriverdes &l=
+t;instituto@agriverdes.com.br&gt;<br>
+<b>Enviado:</b> ter=E7a-feira, 17 de outubro de 2017 16:54<br>
+<b>Para:</b> evelize-dumke@hotmail.com<br>
+<b>Assunto:</b> Obrigado...</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<p><strong style=3D"color:#0e5daf; font-size:12px"><span style=3D"font-size=
+:14pt">E ai&nbsp;<span style=3D"line-height:1.42857; font-family:'Trebuchet=
+ MS',Helvetica,sans-serif">Evelize Donicht Dumke</span><span style=3D"backg=
+round-image:initial; background-position:initial; background-size:initial; =
+background-repeat:initial; background-attachment:initial; background-origin=
+:initial; background-clip:initial; line-height:1.42857; font-family:'Trebuc=
+het MS',sans-serif; color:#1d2129">.</span>&nbsp;Tudo
+ bem???</span></strong></p>
+<p style=3D"text-align:justify"><span style=3D"font-size:14pt">Hoje eu quer=
+o reconhecer voc=EA que se inscreveu e participou do 2=BA Congresso Interna=
+cional
+</span></p>
+<p style=3D"text-align:justify"><span style=3D"font-size:14pt">Online de Ag=
+roecologia e Permacultura
+</span><span style=3D"font-size:14pt">(AgroecoWeb). Foi uma semana intensa =
+e repleta de
+</span></p>
+<p style=3D"text-align:justify"><span style=3D"font-size:14pt">informa=E7=
+=E3o, e =E9 o fato de voc=EA estar aqui comigo que faz que esse pr=F3prio p=
+rojeto
+</span><span style=3D"font-size:14pt">possa existir.</span></p>
+<p style=3D"text-align:justify"><span style=3D"font-size:14pt">E como forma=
+ de agradecimento vou discutir 4 coisas muito importante com voc=EA nos pr=
+=F3ximos 4 emails.</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt; color:#008000"><strong>[&#43;] Email # 1 =
+(este email )</strong></span></p>
+<p><span style=3D"font-size:14pt">Vou te dar 2 excelentes not=EDcias! E Vou=
+ mostrar porque a
+<strong><span style=3D"color:#008000">Plataforma AgroecoWeb</span></strong>=
+ =E9 o caminho</span></p>
+<p><span style=3D"font-size:14pt">certo para voc=EA que quer aumentar </spa=
+n><span style=3D"font-size:14pt">substancialmente seus conhecimentos em Agr=
+oecologia e Produ=E7=E3o Org=E2nica.</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt; color:#008000"><strong>[&#43;] Email # 2<=
+/strong></span></p>
+<p><span style=3D"font-size:14pt">Muitas Pessoas j=E1 est=E3o estudando em =
+nossas plataformas e aplicando os conhecimentos adquiridos em</span></p>
+<p><span style=3D"font-size:14pt">seus trabalhos ou em suas </span><span st=
+yle=3D"font-size:14pt">pr=F3prias propriedades.</span></p>
+<p><span style=3D"font-size:14pt">Mas o que realmente essas pessoas que bus=
+caram esse conhecimento tem em comum?, s=E3o 2 fatores.</span></p>
+<p><span style=3D"font-size:14pt">Eu costumo dizer que s=E3o 2 &quot;podere=
+s m=E1gicos&quot;, e no segundo email eu vou te mostrar essa m=E1gica por</=
+span></p>
+<p><span style=3D"font-size:14pt">tr=E1s das cortinas.&nbsp;</span><span st=
+yle=3D"font-size:14pt">E uma vez que voc=EA souber quais s=E3o esses 2 pode=
+res e souber aplic=E1-los, voc=EA poder=E1</span></p>
+<p><span style=3D"font-size:14pt">revolucionar o seu conhecimento e a sua v=
+ida. </span>
+<span style=3D"font-size:14pt">N=E3o tem erro!</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt; color:#008000"><strong>[&#43;] Email # 3<=
+/strong></span></p>
+<p><span style=3D"font-size:14pt">Eu vou te apresentar os B=D4NUS que eu re=
+servei com todo o carinho para as pessoas que adquirirem&nbsp;a
+</span></p>
+<p><span style=3D"font-size:14pt"><strong><span style=3D"color:#008000">Pla=
+taforma Agroecoweb</span></strong>.&nbsp;</span><span style=3D"font-size:14=
+pt">Alguns deles s=E3o vendidos separadamente e por si s=F3 j=E1 transforma=
+ram a vida
+</span></p>
+<p><span style=3D"font-size:14pt">de muitas pessoas.&nbsp;</span><span styl=
+e=3D"font-size:14pt">A boa not=EDcia =E9 que voc=EA n=E3o vai pagar um cent=
+avo sequer, pois esse material =E9 b=F4nus
+</span></p>
+<p><span style=3D"font-size:14pt">gratuito para quem aproveitar essa curta =
+janela </span>
+<span style=3D"font-size:14pt">de oportunidades.</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt; color:#008000"><strong>[&#43;] Email #4</=
+strong></span></p>
+<p><span style=3D"font-size:14pt">Eu vou te dar o =FAltimo aviso para adqui=
+rir a <strong>
+<span style=3D"color:#008000">Plataforma Agroecoweb</span></strong> para qu=
+e n=E3o se arrependa depois.</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt; color:#000000">Ent=E3o vamos l=E1!!</span=
+></p>
+<p><span style=3D"font-size:14pt; color:#ff0000">#######################</s=
+pan></p>
+<p><span style=3D"font-size:14pt; color:#000000"><strong>As 2 Excelentes No=
+t=EDcias</strong></span></p>
+<p><span style=3D"font-size:14pt; color:#ff0000">#######################</s=
+pan></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt"><strong><span style=3D"color:#008000">Not=
+=EDcia #1 </span>
+</strong></span></p>
+<p><span style=3D"font-size:14pt">Voc=EA vai ter a chance de ter acesso a <=
+span style=3D"color:#008000">
+<strong>Plataforma AgroecoWeb</strong></span>.</span></p>
+<p><span style=3D"font-size:14pt">Muita gente ficou literalmente Desesperad=
+a por eu ter fechado as inscri=E7=F5es da
+<strong><span style=3D"color:#008000">Plataforma Agroecoweb</span></strong>=
+ no </span>
+</p>
+<p><span style=3D"font-size:14pt">=FAltimo Domingo. Afinal muitos </span><s=
+pan style=3D"font-size:14pt">s=F3 souberam do congresso nos =FAltimos dias =
+e mesmo depois n=E3o puderam
+</span></p>
+<p><span style=3D"font-size:14pt">participar. S=F3 na lista de espera j=E1 =
+s=E3o 174 pessoas. J=E1 que
+</span><span style=3D"font-size:14pt">nossa plataforma n=E3o comporta todo =
+mundo.</span></p>
+<p><span style=3D"font-size:14pt">Eu fiz isso porque realmente a procura fo=
+i ENORME , e nossa equipe do
+<strong><span style=3D"color:#008000">AgroecoWeb</span></strong>, apesar de=
+ muito produtiva,</span></p>
+<p><span style=3D"font-size:14pt">=E9 muito enxuta. Ent=E3o eu </span><span=
+ style=3D"font-size:14pt">resolvi encerrar as inscri=E7=F5es para receber o=
+s novos&nbsp;Alunos com toda a aten=E7=E3o
+</span></p>
+<p><span style=3D"font-size:14pt">que eles merecem.&nbsp;</span><span style=
+=3D"font-size:14pt">Por isso seguindo a minha miss=E3o maior de ajudar e de=
+ levar conhecimentos eu resolvi reabri
+</span></p>
+<p><span style=3D"font-size:14pt">a p=E1gina de vendas, entre Hoje (16/10) =
+</span><span style=3D"font-size:14pt">at=E9 SEXTA-FEIRA apenas!</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:18pt"><strong><a href=3D"http://www.congresso.a=
+groecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DAB07BAD1-F2C7-440B-B2=
+E7-BAE5255DDD6B&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8" target=3D"_bl=
+ank" rel=3D"noopener noreferrer">CLIQUE AQUI&nbsp;Para conhecer
+ a Maior Plataforma de Ensino em Agroecologia e Produ=E7=E3o Org=E2nica do =
+Mundo.</a></strong></span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt">=C9 isso mesmo!!</span></p>
+<p><span style=3D"font-size:14pt">Eu vou dar uma ultima oportunidade de voc=
+=EA&nbsp;entrar na
+<strong><span style=3D"color:#008000">Plataforma AgroecoWeb</span></strong>=
+ e vai </span>
+</p>
+<p><span style=3D"font-size:14pt">at=E9 SEXTA somente. Assim dou uma </span=
+><span style=3D"font-size:14pt">segunda chance pra quem pediu.</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt"><strong><span style=3D"color:#008000">Not=
+icia #2</span></strong></span></p>
+<p><span style=3D"font-size:14pt; color:#000000">Eu vou liberar as 7 aulas =
+do <strong>
+<span style=3D"color:#008000">Curso B=E1sico de Agroecologia</span></strong=
+> que aconteceu durante o congresso para voc=EA j=E1
+</span></p>
+<p><span style=3D"font-size:14pt; color:#000000">ir aquecendo as turbinas..=
+.</span></p>
+<p><span style=3D"font-size:14pt"><strong><span style=3D"color:#000000"><a =
+href=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR=
+&amp;l=3D41A8D293-31DB-4166-A44C-7EEED62D4E5A&amp;u=3Decb5a15b-1557-45ae-a4=
+38-a601f05853d8" target=3D"_blank" rel=3D"noopener noreferrer">AULA
+ 01</a> &nbsp; &nbsp;&nbsp; <a href=3D"http://www.congresso.agroecoweb.com.=
+br/redirect/redirect.aspx?A=3DR&amp;l=3D91D10D23-B1EA-4833-BA55-7BC6DDCF1A8=
+C&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8" target=3D"_blank" rel=3D"no=
+opener noreferrer">
+AULA 02</a> &nbsp; &nbsp; &nbsp;<a href=3D"http://www.congresso.agroecoweb.=
+com.br/redirect/redirect.aspx?A=3DR&amp;l=3D49B1FCF0-6CC9-4D80-8B11-152B0EB=
+D1821&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8" target=3D"_blank" rel=
+=3D"noopener noreferrer">AULA 03</a> &nbsp; &nbsp; &nbsp;
+<a href=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=
+=3DR&amp;l=3D57A6EF59-BED4-4966-BF41-6C6E2A31FB8E&amp;u=3Decb5a15b-1557-45a=
+e-a438-a601f05853d8" target=3D"_blank" rel=3D"noopener noreferrer">
+AULA 04</a> &nbsp; &nbsp;&nbsp; <a href=3D"http://www.congresso.agroecoweb.=
+com.br/redirect/redirect.aspx?A=3DR&amp;l=3DAAC34F49-665F-4DC6-B54F-B336154=
+F1AE9&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8" target=3D"_blank" rel=
+=3D"noopener noreferrer">
+AULA 05</a> &nbsp; &nbsp; &nbsp; <a href=3D"http://www.congresso.agroecoweb=
+.com.br/redirect/redirect.aspx?A=3DR&amp;l=3D7BB99CC5-8058-473D-8559-E3C089=
+9DCE3A&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8" target=3D"_blank" rel=
+=3D"noopener noreferrer">
+AULA 06</a> &nbsp; &nbsp;&nbsp; <a href=3D"http://www.congresso.agroecoweb.=
+com.br/redirect/redirect.aspx?A=3DR&amp;l=3D6C785E63-97D8-4963-89FA-0628CC0=
+2E7DB&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8" target=3D"_blank" rel=
+=3D"noopener noreferrer">
+AULA 07</a></span></strong></span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt">Eu acredito que muitas pessoas por ai est=
+=E3o apenas SOBREVIVENDO e n=E3o vivendo de verdade. Porque elas n=E3o
+</span></p>
+<p><span style=3D"font-size:14pt">tem conhecimentos que </span><span style=
+=3D"font-size:14pt">podem lev=E1-las a um pr=F3ximo n=EDvel e n=E3o acredit=
+o que estejam conformadas com isso.</span></p>
+<p><span style=3D"font-size:14pt">E muita gente erra tentando acertar, porq=
+ue n=E3o tem acesso a informa=E7=E3o de qualidade j=E1 que a Agroecologia =
+=E9 nova
+</span></p>
+<p><span style=3D"font-size:14pt">mas com muito </span><span style=3D"font-=
+size:14pt">potencial.</span></p>
+<p><span style=3D"font-size:14pt">Quem assistiu o congresso viu o quanto el=
+e foi impactante, com uma gama de conhecimentos incr=EDveis e posso dizer
+</span></p>
+<p><span style=3D"font-size:14pt">com convic=E7=E3o que =E9 </span><span st=
+yle=3D"font-size:14pt">s=F3 o come=E7o.... tem muito mais vindo por ai...</=
+span></p>
+<p><span style=3D"font-size:14pt">Por isso eu sugiro que voc=EA estude com =
+muito carinho a proposta que apresento nesse v=EDdeo para ter acesso a
+</span></p>
+<p><span style=3D"font-size:14pt"><strong><span style=3D"color:#008000">Pla=
+taforma&nbsp;</span></strong></span><span style=3D"font-size:14pt"><strong>=
+<span style=3D"color:#008000">AgroecoWeb</span></strong>,&nbsp;</span><span=
+ style=3D"font-size:14pt">e ter
+</span><span style=3D"font-size:14pt">acesso a muito, mas muito mais conte=
+=FAdo de extrema qualidade.</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:18pt"><strong><a href=3D"http://www.congresso.a=
+groecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DAB07BAD1-F2C7-440B-B2=
+E7-BAE5255DDD6B&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8" target=3D"_bl=
+ank" rel=3D"noopener noreferrer">Veja o V=EDdeo explicativo
+ aqui.</a></strong></span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt; color:#008000"><strong>Vem voc=EA tamb=E9=
+m para o Lado Verde da For=E7a!</strong></span></p>
+<p><span style=3D"font-size:14pt">Sauda=E7=F5es Agroecol=F3gicas</span><br>
+<span style=3D"font-size:14pt">F=E1bio Mariani</span></p>
+<p>&nbsp;</p>
+<p><span style=3D"font-size:14pt">PS. De qualquer modo nos vemos amanh=E3 c=
+om os 2 =93poderes m=E1gicos=94 do conhecimento agroecol=F3gico. Enquanto i=
+sso a chance de conhecer o
+</span><br>
+<span style=3D"font-size:14pt">que h=E1 de mais atualizado e comprovado em =
+agroecologia j=E1 esta dispon=EDvel na
+<strong><span style=3D"color:#008000">Plataforma AgroecoWeb</span>.</strong=
+> O amor pela terra e pela mudan=E7a
+</span><br>
+<span style=3D"font-size:14pt">no planeta, quem faz, precisa de uma dire=E7=
+=E3o de uma ajuda para poder fazer mais e juntos fazermos a diferen=E7a.</s=
+pan></p>
+<p><br>
+<span style=3D"font-size:18pt"><strong><a href=3D"http://www.congresso.agro=
+ecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DAB07BAD1-F2C7-440B-B2E7-=
+BAE5255DDD6B&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8" target=3D"_blank=
+" rel=3D"noopener noreferrer">Basta Clicar aqui e Descobrir</a></strong></s=
+pan></p>
+<p><span style=3D"font-size:14pt">PS2. Se voc=EA tem interesse no <span sty=
+le=3D"color:#ff0000">
+<strong>CERTIFICADO DIGITAL</strong></span> do congresso, neste <strong><a =
+href=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR=
+&amp;l=3D6A885B72-D3A5-482B-8E22-0991E3108B45&amp;u=3Decb5a15b-1557-45ae-a4=
+38-a601f05853d8" target=3D"_blank" rel=3D"noopener noreferrer">LINK</a></st=
+rong>
+ voc=EA adquiri ele. Depois basta me enviar um email com o </span><br>
+<span style=3D"font-size:14pt">nome completo que envio seu certificado.</sp=
+an></p>
+<br>
+<hr>
+<br>
+<br>
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100<br>
+Caso n=E3o queira mais receber meus e-mails, <a href=3D"http://www.congress=
+o.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&amp;u=3Decb5a15b-1557-45ae=
+-a438-a601f05853d8" target=3D"_blank">
+acesse esse link. (Unsubscribe)</a>.<br>
+<br>
+<img alt=3D"" style=3D"width: 100%; height: 5px; max-height: 5px; user-sele=
+ct: none;" src=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.=
+aspx?A=3DV&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8&amp;IMG=3Decb5a15b-=
+1557-45ae-a438-a601f05853d8.png"><br>
+Enviado com amor por leadlovers <a href=3D"http://www.congresso.agroecoweb.=
+com.br/redirect/redirect.aspx?A=3DR&amp;l=3D9EEDE194-46EE-4718-BB9C-1B3234C=
+5EDC9&amp;u=3Decb5a15b-1557-45ae-a438-a601f05853d8">
+Lead Lovers</a> </div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_DM5PR20MB11933E2EF2BEE3E2BD961D8CFC5E0DM5PR20MB1193namp_--

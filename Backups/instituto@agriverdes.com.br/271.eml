@@ -1,0 +1,80 @@
+Return-Path: <claudiabarros.agronomia@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id MMJVCFchu1nu8w4AVsPpow
+	for <instituto@agriverdes.com.br>; Thu, 14 Sep 2017 21:39:51 -0300
+Return-path: <claudiabarros.agronomia@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Thu, 14 Sep 2017 21:39:51 -0300
+Received: from mail-it0-f42.google.com ([209.85.214.42]:51901)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <claudiabarros.agronomia@gmail.com>)
+	id 1dsefe-0048Hv-UG
+	for instituto@agriverdes.com.br; Thu, 14 Sep 2017 21:39:51 -0300
+Received: by mail-it0-f42.google.com with SMTP id o200so2032293itg.0
+        for <instituto@agriverdes.com.br>; Thu, 14 Sep 2017 17:39:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=0G8yYWI5TsF4qiz2SU5rXlCWpdBurTl3lyaXJEHZLz0=;
+        b=LW/M0xx/Ud/6sFEkVL/OC6W/3auSv0y6LBqbM4v4HkqPRjkjctea1Q7iQGKvC1pgVG
+         xwhXjaaX8Ul9MtgqrjxlCVcxEUU7AwUwkmRg5yXB3S6jxwasT5JCV1YkMjgDcdv5hVLR
+         WFg93GNIxfzaqoS4RnuqqmvjKMdTfiSawv8OzEfaxICBXPCFWml5Nj17re9m0RmL4g0B
+         7cjx1EoZ0/WZn4EIggZytMCC+40hSu/Y4epArLsX3IIfHu+E2YwaGGiv758fKVISWB+G
+         UUlkplJHt6KMtVQoMlmgGiG653C5S3oswACAz95rJePYwwtNvr1wnDoKE9HkKW/FA3oN
+         9lAg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=0G8yYWI5TsF4qiz2SU5rXlCWpdBurTl3lyaXJEHZLz0=;
+        b=DQQw82Y6ybovguGpnXsskSbe6mKw4yK0onTHuOtxkJwDuodEppR+U/XQdqoBxcxrnK
+         BNlBrTfv51DC8aPjYpNmkvkJRCs0uiuyMDgk0/8gbSpael1GC1bE2A6uxPJB+QhhQcSs
+         8ytJKZDKsDZql43rmBgAmjsyct7kDtg8aL6RgQNjBJ+FL7OgPdbt8W68ODBdSWYO49M4
+         cHTasCL4YtPpH1dTQBcwi8lBShsVJIhdtADSVakzaXR9idHkJGzbqHnm1f1tfRw6cXmV
+         SMnknJSJTjgG6O6Hc/yfBtJbCMuznsgYGV9mwpwUDg5H6YuzV4DDufhwVTTckByCaEnp
+         OnxA==
+X-Gm-Message-State: AHPjjUjzeNQCnfSVGgbHlcDPJJRBw3ALQ4ANTDAqsxub1zbEkbOrVGhI
+	fFlXUG3ooZDcx/uJRr6gZNP072HYb3rJAnKKOuQ=
+X-Google-Smtp-Source: AOwi7QBH6cNU+v9cmchuR9z9oSbAFmCzhXPG48JkuTtmDv5cZYjQmwctyw2PIe+FZL5CARqsQZyvas4UpkYbAuVBss0=
+X-Received: by 10.36.94.5 with SMTP id h5mr2965681itb.100.1505435946044; Thu,
+ 14 Sep 2017 17:39:06 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.79.130.65 with HTTP; Thu, 14 Sep 2017 17:39:05 -0700 (PDT)
+Received: by 10.79.130.65 with HTTP; Thu, 14 Sep 2017 17:39:05 -0700 (PDT)
+In-Reply-To: <CAKqcOkbeDVjbJ0MCPrH4-MFCTK7zhG4WOWb-GT+o3CoTLvZEUw@mail.gmail.com>
+References: <CAKqcOkbeDVjbJ0MCPrH4-MFCTK7zhG4WOWb-GT+o3CoTLvZEUw@mail.gmail.com>
+From: =?UTF-8?Q?Cl=C3=A1udia_barros?= <claudiabarros.agronomia@gmail.com>
+Date: Thu, 14 Sep 2017 21:39:05 -0300
+Message-ID: <CAKqcOkYQzFDo4uZDpnZJ8ZXyDMZP_thGKrv4SobDNBKDoVgc=g@mail.gmail.com>
+Subject: 
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a114489a6cbd5c305592f9ecb"
+
+--001a114489a6cbd5c305592f9ecb
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Boa noite, referente aos cursos online, receberemos certificado ?
+Att,
+
+
+Lattes: http://lattes.cnpq.br/1094396380597473
+Cl=C3=A1udia Michele de Lima Barros
+Graduanda em Engenharia Agron=C3=B4mica
+IFPE-Campus Vit=C3=B3ria de Santo Ant=C3=A3o
+
+--001a114489a6cbd5c305592f9ecb
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Boa noite, referente aos cursos online, receberemos certi=
+ficado ?=C2=A0<div dir=3D"auto">Att,<br><br><div data-smartmail=3D"gmail_si=
+gnature" dir=3D"auto"><br>Lattes: <a href=3D"http://lattes.cnpq.br/10943963=
+80597473">http://lattes.cnpq.br/1094396380597473</a><br>Cl=C3=A1udia Michel=
+e de Lima Barros<br>Graduanda em Engenharia=C2=A0Agron=C3=B4mica<br>IFPE-Ca=
+mpus=C2=A0Vit=C3=B3ria=C2=A0de Santo Ant=C3=A3o<br><br>=C2=A0=C2=A0=C2=A0<b=
+r><br>=C2=A0=C2=A0=C2=A0 </div></div></div>
+
+--001a114489a6cbd5c305592f9ecb--

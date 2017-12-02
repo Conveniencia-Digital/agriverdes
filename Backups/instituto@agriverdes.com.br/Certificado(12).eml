@@ -1,0 +1,92 @@
+Return-Path: <rodrigo_bl7@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id gAZuC1EWAlp4RwAAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 07 Nov 2017 18:23:45 -0200
+Return-path: <rodrigo_bl7@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 07 Nov 2017 18:23:45 -0200
+Received: from mail-oln040092010108.outbound.protection.outlook.com ([40.92.10.108]:21408 helo=NAM04-CO1-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <rodrigo_bl7@hotmail.com>)
+	id 1eCAPQ-00066V-TW
+	for instituto@agriverdes.com.br; Tue, 07 Nov 2017 18:23:45 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=DHpdb37GHOe3OoujS1WlMTkNeC8s2kDdjUnta15A8JI=;
+ b=CInX0fhqVtPYEnqkuvKbD1GchKLv63ilfwexSCJIWC+42gbQtupPX0lijOCm3ULoXvlu35ztQo3pe0oXBfhSJPlwlTdtk+2UXAX7r6aPH/Ga8eUfiWudpcn73TfPdPuE9nWZHFfoNbfkCSOxm6JJTEbG2uWXApwza3NtfP0w6IB8IZputowvDTEpLpU4MaJvDmeTTlyTPofDBEBCjha3ec2PZadqCxCeMONIXP4bMKx6gTT1XxP3ntysM+h8ezpRWGlV+vsNVUjJcbe8VldmcsPXgI+ttGCEsUDJVptUch5jCNWifoKYKNYaVS88zBPVneQIdzBZudpszBTItMZFiA==
+Received: from SN1NAM04FT039.eop-NAM04.prod.protection.outlook.com
+ (10.152.88.56) by SN1NAM04HT206.eop-NAM04.prod.protection.outlook.com
+ (10.152.89.114) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.178.5; Tue, 7 Nov
+ 2017 20:23:01 +0000
+Received: from CY1PR18MB0313.namprd18.prod.outlook.com (10.152.88.57) by
+ SN1NAM04FT039.mail.protection.outlook.com (10.152.88.242) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.197.9 via Frontend Transport; Tue, 7 Nov 2017 20:23:01 +0000
+Received: from CY1PR18MB0313.namprd18.prod.outlook.com ([10.163.53.14]) by
+ CY1PR18MB0313.namprd18.prod.outlook.com ([10.163.53.14]) with mapi id
+ 15.20.0218.011; Tue, 7 Nov 2017 20:23:01 +0000
+From: Rodrigo Bezerra Lima <rodrigo_bl7@hotmail.com>
+To: "instituto@agriverdes.com.br" <instituto@agriverdes.com.br>
+Subject: Certificado 
+Thread-Topic: Certificado 
+Thread-Index: AQHTWAY1nwUDc2OyfU2KW85FvzHzCQ==
+Date: Tue, 7 Nov 2017 20:23:01 +0000
+Message-ID: <CY1PR18MB03136F9A7C9F74A461D0CF53C3510@CY1PR18MB0313.namprd18.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:1F649F7A611933362C9D0AC12EE2975BBE8F94E3EA1C2F7C5792DD692BE909D8;UpperCasedChecksum:B2F468C77586724C7CB646816742D3A54DA835E24381F1E6BF5D823CDFE50BBA;SizeAsReceived:6920;Count:44
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [ryQS7AqF5lA6aaIOqS9YpuMNAxy2V7yvl3oET59AjIz97O2qMy12du1soAr221ey]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1NAM04HT206;6:U531sJyp+i1VRGCNsow0QiBaDxYyBrO9h79n4up8YpjkZcpjFyJNV5EfvuuJ7Lxw9iVNcJSJaiZqcwFbXmLKArv/yoX4iJ40GSVuP6QU42bUVs+5thHP93aUBwBsJGIGVMsu90cqJPQjXsbU8HeukkjHyW433RUJaD1EbIrloCoFvkY9m+rV92DSZcS3/ooFfQH2Ha4MSfBW+xGjrItgDKg15QrT1cJRxyj3l1U3TVbeAOfT9RkGMZ0XR4bOV1jaoS5MvYz4QDBA3FX/UwjBU4MLL1gcvZW6DsbhMbfqUE39Xbq3B/KRS0TAA6GsmHP9btdfhe1HYcom24cCnRlpgQobZMDXZCvbPe+dbVifz48=;5:/vwU8w6iZVUqSmXC0VVtH471a20nAiUW/mnhMsLMqt2aVbBkXunKeboUY8iaiaa9rY0ZHtRXGkFKoZ4LlIYqPPWESODT3WhTzADwhI31h0FGmXAzyKshAwSPDXYxygofsOx31DYjVMEigwf+gKRrlHLOmmaj18SqFbH80JkKtjk=;24:tgyhVLm/2hbefWMstb0xSJbOdwl4kJQiCzJUJtWbV3xSNFUHUlpeD7hxLFLCpKbtyYNar7AbqLCTMM8tr7M/crqFCt2nc5lKUfVpDh5gHeo=;7:cM/wfyfKJ6bI3YKI9uUSvFmKPAvWG2ZzYrWd2w/1VkWIisQmTybvcXRMx3j2rQH4iXHFTN4aiQ+3ds7eKSNk0JETz5p56PT281vkNoKLL0pOapKh5AcjjRg6S2aidbWaRqn+f7s/Oe3Ga+0vNA06IvkFoYzSjUF8VkCERIT7DAWzx8pqb9GD+AFwN4Xk909tV57fWFuCt0dWNBz15FMV/Kwq4PWLHWkuWY/4u5H80iXVYK2gJtLv84UTBffw9d/Y
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: b30fbc24-9fa6-428d-fb3f-08d5261d57f3
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:SN1NAM04HT206;
+x-ms-traffictypediagnostic: SN1NAM04HT206:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:SN1NAM04HT206;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:SN1NAM04HT206;
+x-forefront-prvs: 0484063412
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SN1NAM04HT206;H:CY1PR18MB0313.namprd18.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR18MB03136F9A7C9F74A461D0CF53C3510CY1PR18MB0313namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: b30fbc24-9fa6-428d-fb3f-08d5261d57f3
+X-MS-Exchange-CrossTenant-originalarrivaltime: 07 Nov 2017 20:23:01.3682
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM04HT206
+
+--_000_CY1PR18MB03136F9A7C9F74A461D0CF53C3510CY1PR18MB0313namp_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+DQpPIHBhZ2FtZW50byBmb2kgZWZldGl2YWRvIHZpYSBjYXJ0w6NvIGRlIGNyw6lkaXRvIGrDoS4g
+Q29tbyBmYcOnbyBwcmEgYWRxdWlyaXIgbyBjZXJ0aWZpY2FkbyBkYXMgcGFsZXN0cmFzID8NCkVu
+dmlhZG8gZG8gbWV1IGlQaG9uZQ0K
+
+--_000_CY1PR18MB03136F9A7C9F74A461D0CF53C3510CY1PR18MB0313namp_
+Content-Type: text/html; charset="utf-8"
+Content-ID: <F2C44C0C06EAAE43B8F8772A6B16FA11@sct-15-20-156-4-msonline-outlook-15557.templateTenant>
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IGRpcj0iYXV0byI+DQo8
+YnI+DQpPIHBhZ2FtZW50byBmb2kgZWZldGl2YWRvIHZpYSBjYXJ0w6NvIGRlIGNyw6lkaXRvIGrD
+oS4gQ29tbyBmYcOnbyBwcmEgYWRxdWlyaXIgbyBjZXJ0aWZpY2FkbyBkYXMgcGFsZXN0cmFzID8m
+bmJzcDs8YnI+DQo8ZGl2IGlkPSJBcHBsZU1haWxTaWduYXR1cmUiPkVudmlhZG8gZG8gbWV1IGlQ
+aG9uZTwvZGl2Pg0KPC9ib2R5Pg0KPC9odG1sPg0K
+
+--_000_CY1PR18MB03136F9A7C9F74A461D0CF53C3510CY1PR18MB0313namp_--

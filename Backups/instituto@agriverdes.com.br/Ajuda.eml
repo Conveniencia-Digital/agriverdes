@@ -1,0 +1,80 @@
+Return-Path: <dcunhavitor@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id YP8FCd61yVnSgwQAVsPpow
+	for <instituto@agriverdes.com.br>; Mon, 25 Sep 2017 23:05:18 -0300
+Return-path: <dcunhavitor@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Mon, 25 Sep 2017 23:05:18 -0300
+Received: from mail-it0-f48.google.com ([209.85.214.48]:51152)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <dcunhavitor@gmail.com>)
+	id 1dwfFN-001Epg-UP
+	for instituto@agriverdes.com.br; Mon, 25 Sep 2017 23:05:18 -0300
+Received: by mail-it0-f48.google.com with SMTP id y138so1343599itc.5
+        for <instituto@agriverdes.com.br>; Mon, 25 Sep 2017 19:04:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=+QxsJ0UroolE7McA98303xBuDV3T5Zj5MTwb9i1koWk=;
+        b=aUUrvQbqS23s5CbqJCbdeJMRxwZ2rc7jWM24mH9N5hH9boW/vHlq19mIGy613DwGkh
+         43nz1VlrYVbxkO+jtZXxSXmntVXAXQ7Yw+KO84E3dnWviqYWyLBRpFlax6jMHa2ZI+AH
+         5XHcoH4uClNbslBLtCLTkWCHvRcgIHIXCY7FX8IA3XeY8CcCvfkkONp6dHNrn3y5arNk
+         qbLXPspjs3k+biFS/fkVnkGEfdfG9Fqx18857Gg1hykkxiw2lrxOHHAgcBwBIFoqKFmd
+         pbg6iCiBKAvO0eeDrf1UfWpKYSIcZMWFl3W8HpgPE8w9Lyphq9VDSZm/Wm/iAIrrmxhp
+         kNfw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=+QxsJ0UroolE7McA98303xBuDV3T5Zj5MTwb9i1koWk=;
+        b=P5+iN3kyeX0Fm0Ad3gKlyIy5XkkrPOv0H7LDwJwiCXf/qo9Vy6m7BdZ9f4uzK6k9Uz
+         QeekpXMGGpQ5c3ZwXoardpWRvIwKzYE5HUpYiSaw+JsU1BoTgU4GVtmSKGio8ccbKG35
+         584Sx7pieif+oxpwC/x7+2rygP6vYmw9T18P4SYFcdjzBRL8Pgr6djdT1ZUK8A51MIV1
+         30o+nXSfNNcj/fAaCTly727ciDg74zhSqlk0xKLW+5RzI4+8aCZDT4E3AbvfKGXafLRW
+         xDInOQf3IePEVZ0LkNWX3xcgUy3ncp/VXwdt3rOw+d11bwm2YEnlAC/CAsKnPxE6p7UU
+         E1Lg==
+X-Gm-Message-State: AHPjjUgS71eXFeQR11bpY/q47UKq5LtwRppYrkTWkxuKZw/OudHdBoJU
+	FxawWCvHADtOch2pcLCBZ9XLLknGslYaifS9pyw=
+X-Google-Smtp-Source: AOwi7QAHKi+gaMPX9CQnWxs4ekpCB+xhUeAfDUqwNm4SeIh7rg7hozLDI60TWWt4iJqBEVi6seKl2Ric95F7p4Omqvc=
+X-Received: by 10.36.66.80 with SMTP id i77mr3480158itb.148.1506391475115;
+ Mon, 25 Sep 2017 19:04:35 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.31.142 with HTTP; Mon, 25 Sep 2017 19:04:34 -0700 (PDT)
+Received: by 10.107.31.142 with HTTP; Mon, 25 Sep 2017 19:04:34 -0700 (PDT)
+In-Reply-To: <CABH-Xvv7hYUKYJbn90hC7VeFrdxehYQWHDG9BccLs0o82ygdAQ@mail.gmail.com>
+References: <CABH-Xvv7hYUKYJbn90hC7VeFrdxehYQWHDG9BccLs0o82ygdAQ@mail.gmail.com>
+From: Debora Cunha <dcunhavitor@gmail.com>
+Date: Mon, 25 Sep 2017 23:04:34 -0300
+Message-ID: <CABH-XvuL1XN_ATLo6RkFrsdVz8qDwsaETqdqS_GSX4OVD5BTsA@mail.gmail.com>
+Subject: Ajuda
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a11406958c45d72055a0e18ec"
+
+--001a11406958c45d72055a0e18ec
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Bom dia!
+Estou tendo dificuldades para acessar a parte relacionada ao aluno no
+aplicativo. Nao consigo conectar, sempre mostra a mensagem de que meu
+e-mail nao =C3=A8 valido.
+Como posso resolver este problema?
+
+Desde ja grata e ansiosa pelo congresso
+
+Debora
+
+--001a11406958c45d72055a0e18ec
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Bom dia!<div dir=3D"auto">Estou tendo dificuldades para a=
+cessar a parte relacionada ao aluno no aplicativo. Nao consigo conectar, se=
+mpre mostra a mensagem de que meu e-mail nao =C3=A8 valido.</div><div dir=
+=3D"auto">Como posso resolver este problema?</div><div dir=3D"auto"><br></d=
+iv><div dir=3D"auto">Desde ja grata e ansiosa pelo congresso</div><div dir=
+=3D"auto"><br></div><div dir=3D"auto">Debora</div></div>
+
+--001a11406958c45d72055a0e18ec--

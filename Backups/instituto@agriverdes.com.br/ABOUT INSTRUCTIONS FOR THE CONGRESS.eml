@@ -1,0 +1,266 @@
+Return-Path: <allsolo7@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id GEkkJXJ3zVkb2AEAVsPpow
+	for <instituto@agriverdes.com.br>; Thu, 28 Sep 2017 19:28:02 -0300
+Return-path: <allsolo7@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Thu, 28 Sep 2017 19:28:02 -0300
+Received: from mail-oln040092005044.outbound.protection.outlook.com ([40.92.5.44]:55952 helo=NAM02-SN1-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <allsolo7@hotmail.com>)
+	id 1dxhHm-000Z6N-6Q
+	for instituto@agriverdes.com.br; Thu, 28 Sep 2017 19:28:02 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=mSaJOgjDnToNZOj5aQ4dR7A28b5sevcCld1EpcNdaKE=;
+ b=oZg6AvgyDgMV606adIhZt7cpCKo0mTVEGo7w7ZBgnRMhf6XhmdEqRJLiWewtC3H4yX7rGsqkfBRuvmQw0dSOt05r1o6Ophm/pA6JPWzajkM4QBEzy6MeVwF+CBlZAgQpZ2SJlCRmGYNGvayrFjmAQ4ojqaImntSALH5557kNd3doR0diMTM73+n4CpoEwb5w2CUT/AohMYJpdX2jDwTA0Zt6ubn9R7YfCRDfeq+2W4VFBsMrr53+yeOYH+VeUZ9BsBzH3Jg80FDdXuqym6JbXmjSuTIG9Tqhus94NQP857HNSEM/ykW+T5/d3cwWSWr5Iz/xsEll6F+h+/aj3UMAMw==
+Received: from BL2NAM02FT021.eop-nam02.prod.protection.outlook.com
+ (10.152.76.56) by BL2NAM02HT030.eop-nam02.prod.protection.outlook.com
+ (10.152.77.80) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.56.11; Thu, 28
+ Sep 2017 22:27:18 +0000
+Received: from BN6PR14MB1346.namprd14.prod.outlook.com (10.152.76.58) by
+ BL2NAM02FT021.mail.protection.outlook.com (10.152.77.158) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.56.11 via Frontend Transport; Thu, 28 Sep 2017 22:27:17 +0000
+Received: from BN6PR14MB1346.namprd14.prod.outlook.com ([10.172.149.20]) by
+ BN6PR14MB1346.namprd14.prod.outlook.com ([10.172.149.20]) with mapi id
+ 15.20.0077.016; Thu, 28 Sep 2017 22:27:17 +0000
+From: Allan Gonzalez-H. <allsolo7@hotmail.com>
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Subject: ABOUT INSTRUCTIONS FOR THE CONGRESS
+Thread-Topic: ABOUT INSTRUCTIONS FOR THE CONGRESS
+Thread-Index: AQHTN+3OxAKCFdWMQkKtO6fgwah+86LKe3bb
+Date: Thu, 28 Sep 2017 22:27:17 +0000
+Message-ID: <BN6PR14MB1346986729FB8A2001076DDC86790@BN6PR14MB1346.namprd14.prod.outlook.com>
+References: <BVW6zakOQYe9NJyB4P1CJw@ismtpd0002p1lon1.sendgrid.net>
+In-Reply-To: <BVW6zakOQYe9NJyB4P1CJw@ismtpd0002p1lon1.sendgrid.net>
+Accept-Language: en-US
+Content-Language: en-US
+X-Hashtags: #Newsletters
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:2F172C1344C100C1D6EB34CB09255E9332129510B1F0B44334461B4D98CCE116;UpperCasedChecksum:FCEDE2E9E2C552AE57DD2C78FDE3551743F3830E14E5CC323C78E9EBE0981351;SizeAsReceived:7003;Count:47
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [e1cPx8SXvVq4gh1bVOaxgFF6MVovnU/h]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BL2NAM02HT030;6:sjAJThWpjwUZKrnKUqEZfKIIANwtIylQ+YZc0Bze5x6gBet0TAH78cpIg4nKoLitYbuoajplkWM49Ij+ZwQikGZkocSwmmfZoG+tPojGtGN0NESmxDdd/tQEPNw4A+mg8/t2L7/c/kEp8qTtSeAlFA1ZJkrnx7jawgFWUpRXxTCAwqDIdoAne8eOOzwXnvssutHI7JG3Jo6yN7ElDidXoxsvgEeK8hL8FKaZAZ/BYJNOo3IVeCuQST9P9ElL7VC0GnZOuKFUAqc4nkOaD2OTL7Tgxr+yNU09y/3WHP6QSWSFFdxq4CrBhI6HGJOj71ZM1szs6KbSDepccsPO9t6XUQ==;5:kKz/E2ChoCSaXxeDC/Cj4oJgiKft4FbNAVPHCF6fIy9l63wnhura8vsr0d/zjeswkPve/KEbSOznZyXnUNZ17vgOx5YUbNewnh4qVqR/YjgdJ3dacRGfQar6bXMnWBaDiwXICMdcP5WKEOlm/Xla2w==;24:PdY/pMi/8TovAeF2GUod7DGAiZOp3SiBEp0U6iexvXIGBXYlxijLzkMo6/+AjN8pWH4RF9aBD0iQUOXRlySUsrNaBsfVkuKu3VPUBa83QkU=;7:XpRHLuZHQpGWxl5n7fUWo3QJVPm8ZNU5DkSuKK82BWJpHq+DLVrxGBsKBK253pBg5Owr74uXEYeENQEYs/di682xB24LcVfHMH4TzK+yovcwFicDV+B8lpxYM746X8/KlldkkodUYZfmc8aokMzB9p60jvUjn3k8UtSU2BCpajwPum8kMUvRAY97DHEQoEIHEV2ojjaZ/WdLYE6WkSbhr+sRfkARIcCIKyff9yW+G0c=
+x-incomingheadercount: 47
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 7c1a1cf5-7562-4916-5125-08d506c013dc
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:BL2NAM02HT030;
+x-ms-traffictypediagnostic: BL2NAM02HT030:
+x-exchange-antispam-report-test: UriScan:(166494164430575)(194151415913766);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:BL2NAM02HT030;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BL2NAM02HT030;
+x-forefront-prvs: 0444EB1997
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:BL2NAM02HT030;H:BN6PR14MB1346.namprd14.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN6PR14MB1346986729FB8A2001076DDC86790BN6PR14MB1346namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 28 Sep 2017 22:27:17.8236
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2NAM02HT030
+
+--_000_BN6PR14MB1346986729FB8A2001076DDC86790BN6PR14MB1346namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Ok, perfect, thank you very much for the information and the details. Every=
+thing is very interesting definitely and I am at your service to help you.
+
+
+Atte.: Allan Gonz=E1lez Herrera
+
+________________________________
+From: Instituto Agriverdes <instituto@agriverdes.com.br>
+Sent: Wednesday, September 27, 2017 6:07 PM
+To: allsolo7@hotmail.com
+Subject: INSTRUCTIONS FOR THE CONGRESS
+
+Hi Allan Gonz=E1lez Herrera. How Are You??
+
+
+Here we are in full steam ahead, the lectures have arrived and we are sendi=
+ng them up to the platform. I can tell you that this year we have exceeded =
+all public expectations, the quality of the lectures, the speakers, the cou=
+rses and more.
+
+If I could give you some advice ... I'd tell you
+do not miss this congress for anything. Speaking of it, we will talk a litt=
+le about his dynamics ...
+
+The congress will take place from 04/10 to 10/10, every day there will be 5=
+ lectures (8am, 10am, 4pm, 6pm and 9pm), all in London and New York period =
+of time. You will always receive one day in advance this email
+with the links that give you access to the broadcasting rooms of the next d=
+ay's lecture.
+
+Do not forget to take a look at the spam or junk box, and if you do not rec=
+eive the email, then contact us by the links.
+
+The first day of the Lecture will be on the next Wednesday, the email with =
+the links will be sent on Tuesday and so on every subsequent day.
+
+Well I think that's it, if you have any questions do not hesitate to send m=
+e an email, I'm here to help you ... ok?
+
+Best
+
+F=E1bio Mariani
+
+
+
+
+
+________________________________
+
+
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+Caso n=E3o queira mais receber meus e-mails, acesse esse link. (Unsubscribe=
+)<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&u=3Dd=
+2bc9ee4-68f5-49db-b3e9-ddc4b8d437ce>.
+
+[http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DV&u=3Dd2=
+bc9ee4-68f5-49db-b3e9-ddc4b8d437ce&IMG=3Dd2bc9ee4-68f5-49db-b3e9-ddc4b8d437=
+ce.png]
+Enviado com amor por leadlovers Lead Lovers<http://www.congresso.agroecoweb=
+.com.br/redirect/redirect.aspx?A=3DR&l=3DB197B701-77CC-4008-9871-E304D99398=
+D9&u=3Dd2bc9ee4-68f5-49db-b3e9-ddc4b8d437ce>
+
+--_000_BN6PR14MB1346986729FB8A2001076DDC86790BN6PR14MB1346namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Ok,&nbsp;<span style=3D"color: rgb(33, 33, 33); font-family: inherit; wh=
+ite-space: pre-wrap; background-color: transparent; font-size: 12pt;">perfe=
+ct, thank you very much for the information and the details. Everything is =
+very interesting definitely and I am at
+ your service to help you.</span></p>
+<p><span style=3D"color: rgb(33, 33, 33); font-family: inherit; white-space=
+: pre-wrap; background-color: transparent; font-size: 12pt;"><br>
+</span></p>
+<p><span style=3D"color: rgb(33, 33, 33); font-family: inherit; white-space=
+: pre-wrap; background-color: transparent; font-size: 12pt;">Atte.: Allan G=
+onz=E1lez Herrera</span></p>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Instituto Agriverdes =
+&lt;instituto@agriverdes.com.br&gt;<br>
+<b>Sent:</b> Wednesday, September 27, 2017 6:07 PM<br>
+<b>To:</b> allsolo7@hotmail.com<br>
+<b>Subject:</b> INSTRUCTIONS FOR THE CONGRESS</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<center>
+<div align=3D"center">
+<div class=3D"containerbox" style=3D"background-color:#ffffff; font-family:=
+Arial,sans-serif; font-size:12px; width:100%; max-width:600px">
+<center>
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#fff=
+fff" style=3D"color:#000000; font-family:Verdana,Arial,Helvetica,sans-serif=
+; font-size:12px; margin-bottom:5px; text-align:left; max-width:600px; widt=
+h:100%; border-spacing:0px; border-width:medium; border-style:none">
+<tbody>
+<tr style=3D"border-spacing:0px">
+<td class=3D"body" style=3D"font-size:12px; padding:15px; border-spacing:0p=
+x"><span style=3D"font-size:14pt; color:#0000ff"><span style=3D"color:#0000=
+ff">Hi</span><span style=3D"color:#0e5daf">&nbsp;</span><span style=3D"line=
+-height:1.42857; font-family:'Trebuchet MS',Helvetica,sans-serif">Allan
+ Gonz=E1lez Herrera</span><span style=3D"line-height:1.42857; font-family:'=
+Trebuchet MS',sans-serif">.</span><span style=3D"color:#0e5daf">&nbsp;<span=
+ style=3D"color:#0000ff">How Are You??</span></span></span><br>
+<br>
+<p style=3D"color:#0e5daf"><span style=3D"color:#000080"><strong><span styl=
+e=3D"font-size:12pt">Here we are in full steam ahead, the lectures have arr=
+ived and we are sending them up to the platform. I can tell you that this y=
+ear we have exceeded all public expectations,
+ the quality of the lectures, the speakers, the courses and more.</span></s=
+trong></span></p>
+<p style=3D"color:#0e5daf"><span style=3D"color:#000080"><strong><span styl=
+e=3D"font-size:12pt">If I could give you some advice ... I'd tell you</span=
+></strong></span><br>
+<span style=3D"color:#000080"><strong><span style=3D"font-size:12pt">do not=
+ miss this congress for anything. Speaking of it, we will talk a little abo=
+ut his dynamics ...</span></strong></span></p>
+<p style=3D"color:#0e5daf"><span style=3D"color:#000080"><strong><span styl=
+e=3D"font-size:12pt">The congress will take place from 04/10 to 10/10, ever=
+y day there will be 5 lectures (8am, 10am, 4pm, 6pm and 9pm), all in London=
+ and New York period of time. You will
+ always receive one day in advance this email </span></strong></span><br>
+<span style=3D"color:#000080"><strong><span style=3D"font-size:12pt">with t=
+he links that give you access to the broadcasting rooms of the next day's l=
+ecture.</span></strong></span></p>
+<p style=3D"color:#0e5daf"><span style=3D"color:#000080"><strong><span styl=
+e=3D"font-size:12pt">Do not forget to take a look at the spam or junk box, =
+and if you do not receive the email, then contact us by the links.</span></=
+strong></span></p>
+<p style=3D"color:#0e5daf"><span style=3D"color:#000080"><strong><span styl=
+e=3D"font-size:12pt">The first day of the Lecture will be on the next Wedne=
+sday, the email with the links will be sent on Tuesday and so on every subs=
+equent day.</span></strong></span></p>
+<p style=3D"color:#0e5daf"><span style=3D"color:#000080"><strong><span styl=
+e=3D"font-size:12pt">Well I think that's it, if you have any questions do n=
+ot hesitate to send me an email, I'm here to help you ... ok?</span></stron=
+g></span></p>
+<p><span style=3D"color:#0000ff"><span style=3D"font-size:14pt">Best</span>=
+</span></p>
+<p><span style=3D"color:#0000ff"><span style=3D"font-size:14pt">F=E1bio Mar=
+iani</span></span><br>
+<br>
+<br>
+<span style=3D"color:#0e5daf">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
+</div>
+</center>
+<br>
+<hr>
+<br>
+<br>
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100<br>
+Caso n=E3o queira mais receber meus e-mails, <a href=3D"http://www.congress=
+o.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&amp;u=3Dd2bc9ee4-68f5-49db=
+-b3e9-ddc4b8d437ce" target=3D"_blank">
+acesse esse link. (Unsubscribe)</a>.<br>
+<br>
+<img alt=3D"" style=3D"width:100%; height:5px; max-height:5px" src=3D"http:=
+//www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DV&amp;u=3Dd2bc=
+9ee4-68f5-49db-b3e9-ddc4b8d437ce&amp;IMG=3Dd2bc9ee4-68f5-49db-b3e9-ddc4b8d4=
+37ce.png"><br>
+Enviado com amor por leadlovers <a href=3D"http://www.congresso.agroecoweb.=
+com.br/redirect/redirect.aspx?A=3DR&amp;l=3DB197B701-77CC-4008-9871-E304D99=
+398D9&amp;u=3Dd2bc9ee4-68f5-49db-b3e9-ddc4b8d437ce">
+Lead Lovers</a> </div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_BN6PR14MB1346986729FB8A2001076DDC86790BN6PR14MB1346namp_--

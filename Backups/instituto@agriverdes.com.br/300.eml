@@ -1,0 +1,72 @@
+Return-Path: <susanac.b.rossi@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id 0HMvCixmylnP0gwAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 26 Sep 2017 11:37:32 -0300
+Return-path: <susanac.b.rossi@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 26 Sep 2017 11:37:32 -0300
+Received: from mail-oln040092007024.outbound.protection.outlook.com ([40.92.7.24]:11486 helo=NAM03-CO1-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <susanac.b.rossi@hotmail.com>)
+	id 1dwqzL-003bwv-U3
+	for instituto@agriverdes.com.br; Tue, 26 Sep 2017 11:37:32 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=oQG7v+oLxk9pMMHZiTCWDN+jfDYQe6cND5U6v0k0rQg=;
+ b=N5SX5xOFcPNyYRZO7BkWOxp4AgJMj/OyDUeT8b6abjQghdl4Nx+EZppvc/MueMuCw+OSVP3/CZjv512hcRdaT0ukdn2VPdKCSvtyr0C+SAGquoy4wtBP6FWAfsDzI1Wd3xv8wDESx5GLAhfgpWa8BSYVMfDLByHA6txnjLskVWit7MXMCgFbck2oKcqy+Fm9uvzkKmaOM6KbA1JqSTkiWFT+57vHvfzUdWA6XXFDIU+oHBqTHHLbbEp1sJZ/BX0vQJowZ4atT8xTojaliR5KAlNaqxQfV/t6DhTKlbEGamzqlb7cuAsm8EYg1na0d/EbXIQRlhgn4+qHh1KUSV4lug==
+Received: from CO1NAM03FT056.eop-NAM03.prod.protection.outlook.com
+ (10.152.80.55) by CO1NAM03HT034.eop-NAM03.prod.protection.outlook.com
+ (10.152.81.142) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.77.10; Tue, 26
+ Sep 2017 14:36:47 +0000
+Received: from SC1P152MB1679.LAMP152.PROD.OUTLOOK.COM (10.152.80.54) by
+ CO1NAM03FT056.mail.protection.outlook.com (10.152.81.144) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.77.10 via Frontend Transport; Tue, 26 Sep 2017 14:36:47 +0000
+Received: from SC1P152MB1679.LAMP152.PROD.OUTLOOK.COM ([10.171.68.15]) by
+ SC1P152MB1679.LAMP152.PROD.OUTLOOK.COM ([10.171.68.15]) with mapi id
+ 15.20.0077.011; Tue, 26 Sep 2017 14:36:47 +0000
+From: susana rossi <susanac.b.rossi@hotmail.com>
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Subject:
+Thread-Index: AQHTNtThBxmo3A/Mc0KZnWMeRjkx4A==
+Date: Tue, 26 Sep 2017 14:36:47 +0000
+Message-ID: <SC1P152MB16791E477B38B05E57C21A24A17B0@SC1P152MB1679.LAMP152.PROD.OUTLOOK.COM>
+Accept-Language: pt-BR, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:7D38A7FBB7FE20C60C10D48A7908DEA2A334DBC17C8B04837BD4BC7B9C367409;UpperCasedChecksum:D2C306DDEBCEECDDE242F429FBD9A49BE8B40D761BDDA32E2CD59A3B41641955;SizeAsReceived:6758;Count:43
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [QsbgzdlBEuW5sAjvq7H4AZxLoyCPdGHk]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CO1NAM03HT034;6:/ac9OJ66S0oLRjaNLLzIgNUhqdIrNIViWCtbki/PP+FZEkHMvm3cKHR6DLwwUpYkeaxBEYKvTe4wiqGaXQwpoF824h6Zmmdtk3ipnhdS00y2/EFX5+kBoh1rNq9xW1jzrTK4formBhRMSZb3esy+HOkdsHPo4emMJ5zgsOnos+d2bZGHSX3aOGQtExEqcCp9ZDgdvYuF1HOB2Qmh+9JJCbQozVaz+L0YzsIhYf4PitcqV7YgJK5HvfuODdJOR8R7UzIOPdeh+vtoqzn5j0VM/RKLx5cZn+TQodU4JSsGFOLfyrKSCHhb/L0yRjQzpCmPyUMLBJ8Ev0zJa0A8YmUmFA==;5:E4AcfazdRgCCxtrOrcY/ZOKiO4eqyBiJ1+0wR6I8IeIPOkw8kN9+X+H2/50fIwI2A13mEBdJbioFIm7bbTSP7+Ys28sJ8VE+f4/y1/1nHKETJCgOqBXQun/FghtAPcA5DxdxSy4yRWZbPXuSBh7UxQ==;24:pjEqMKL7EbdCRgqQeR5i1H4n7MmE5YY7nRUZHnFx63EaQmncaU35OaNxtB1/RvuCgknqjbs2ro8m9lP/gmhSrX9Eyx9Y4sb6QDGxKory9i8=;7:elB6c82EL60iREIgjzjub1l2l8aOaZHZNU8mGWasZvL689UJvPpF8EiTYLBYeKBcxuYv1Sts64rlEePMVBSblXIHONLuiRQ/ledQGj52o2Vtee7VC+yIzdHU7uYc1BrBy/2KhXJ5YUNOBfiDryZf7x8K9T7icYN2mtBOAy4yZXW4FLDqkLZZnSueGQMDu8u/IQ2I+5bZ7KjtZmhcujirpTUxhJj7OeafNvIJumNbFQE=
+x-incomingheadercount: 43
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 8948035d-1713-4633-80fa-08d504ec0405
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:CO1NAM03HT034;
+x-ms-traffictypediagnostic: CO1NAM03HT034:
+authentication-results: outbound.protection.outlook.com; spf=skipped
+ (originating message); dkim=none (message not signed) header.d=none;
+ dmarc=none action=none header.from=hotmail.com;
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:CO1NAM03HT034;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CO1NAM03HT034;
+x-forefront-prvs: 0442E569BC
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:CO1NAM03HT034;H:SC1P152MB1679.LAMP152.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <D1EA5FD0FFA6B64896D63EDD1F04E970@LAMP152.PROD.OUTLOOK.COM>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Sep 2017 14:36:47.2805
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1NAM03HT034
+
+T2shIErDoSBjb25zZWd1aSBiYWl4YXIgbyBhcHAhIEJvYSBzb3J0ZSEhISDwn42A8J+Ng/CflYoN
+Cg0KRW52aWFkbyBkbyBtZXUgaVBob25l

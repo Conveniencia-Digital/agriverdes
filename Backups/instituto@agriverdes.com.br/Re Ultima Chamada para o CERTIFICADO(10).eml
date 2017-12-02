@@ -1,0 +1,319 @@
+Return-Path: <edinaldo.sousa13@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id eAxCAgpnClqWEQoAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 01:46:18 -0200
+Return-path: <edinaldo.sousa13@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 01:46:18 -0200
+Received: from mail-lf0-f45.google.com ([209.85.215.45]:54412)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <edinaldo.sousa13@gmail.com>)
+	id 1eEPvB-001Y5Q-SE
+	for instituto@agriverdes.com.br; Mon, 13 Nov 2017 23:21:50 -0200
+Received: by mail-lf0-f45.google.com with SMTP id a2so20448022lfh.11
+        for <instituto@agriverdes.com.br>; Mon, 13 Nov 2017 17:21:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=vee8GiNYm+/Xu27OCDsvxY6Qkw8gLgSy6hWClr4JjgU=;
+        b=eLCDqxPFh3BzJEPy1CC4cHBegs5aL+ZaPm+T2En9RURwi65rlNu5y4g9f4NfECov68
+         jhtVbv4kvp6tFBf+MafHHFSVK3RJamFEtnwmutKK2zkf2LwBCLblslhyZMqtVf9R35Ah
+         4rdc3PPvvjyjQsQNaZ81THv9jpfqr/MGcNwNA3/JWB1BjuZiqqjlgPriNYQ9L48Wpx7g
+         yxgx6iuzL9oCnw/qeiC/W6D5lO36f3cbEtWtaOGeoOT5i3tOWm7xAtYrSm/PPF4EtAOw
+         bAxHRdTbyWxVM47XDPk3sA7v1UlBD+XGdfe4MgsHWX7Wt/kXxqeXPz7kwGznwYfxLpLG
+         X+1A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=vee8GiNYm+/Xu27OCDsvxY6Qkw8gLgSy6hWClr4JjgU=;
+        b=e7knFcv+7FXS5MJ5znLUbCSyjwqYHooX5L3+LvkaDV4nadUWIQYmXDNGghJKY/femv
+         DafoiDyGInDj5hacrO9ruTzZ7BNOiRjse6Dw7F8sq25YG+vLM9MY3N94MHcSUVs6j88P
+         Jf87OEOHdDHprLq8AHzlTaU6dAQtxfFDMnbWYrMASxL0rq+9jxHo67+v1XOWjbCC8THW
+         YBJghaNGe++BGIF8PFT8jQT9eXooTeX/7uhQF1HJz783S1R9bkuX0mcwcUrBxoN/hu19
+         RGRhfAbg7tm4D1pCEDA0nGzYTiu3xDA1O3dpwjz7SUB8cfqR8fXzBY8kgJgf4wUU0Tz3
+         XKxQ==
+X-Gm-Message-State: AJaThX7QgQXTsDH3OIgxvZZosGxzbhFmFvboFLN4hKYnyRYzcHcO2VUB
+	b5QjVUY798Xb/p1tgq8ZY7cZNeZAS6c5xNgFLIg=
+X-Google-Smtp-Source: AGs4zMYqd8YMkoGG+M8JzM4ugVZjC4BQ2SoQ3WPYusC7kEGs3pkyjBOuLOZ6AeoZccgspNFAUEi3jrYacY+cRSOoC6A=
+X-Received: by 10.46.41.25 with SMTP id u25mr2737364lje.130.1510622464585;
+ Mon, 13 Nov 2017 17:21:04 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.42.17 with HTTP; Mon, 13 Nov 2017 17:21:03 -0800 (PST)
+In-Reply-To: <imm7zwQWQkWpHulbCpPMfQ@ismtpd0002p1lon1.sendgrid.net>
+References: <imm7zwQWQkWpHulbCpPMfQ@ismtpd0002p1lon1.sendgrid.net>
+From: Edinaldo Sousa Santos Sousa <edinaldo.sousa13@gmail.com>
+Date: Mon, 13 Nov 2017 22:21:03 -0300
+Message-ID: <CAM8Rh5tLguxXS_cJ0x8xkOVUKMV8M6cqiH+z5XWxpU+T9Bg8BA@mail.gmail.com>
+Subject: Re: Ultima Chamada para o CERTIFICADO.
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/mixed; boundary="001a114b0260645329055de733df"
+
+--001a114b0260645329055de733df
+Content-Type: multipart/alternative; boundary="001a114b0260645326055de733dd"
+
+--001a114b0260645326055de733dd
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Segue em anexo boleto de pagamento para emiss=C3=A3o do certificado.
+
+Edinaldo Sousa Santos
+
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>
+Livre
+de v=C3=ADrus. www.avast.com
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>.
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+Em 7 de novembro de 2017 17:15, Instituto Agriverdes <
+instituto@agriverdes.com.br> escreveu:
+
+> Ol=C3=A1, T=C3=A1 tudo bem por ai??
+>
+>
+> Esse email =C3=A9 bem r=C3=A1pido, s=C3=B3 pra ti avisar que se voc=C3=AA=
+ ainda n=C3=A3o fez o
+> pedido do certificado, no link abaixo
+>
+> voc=C3=AA faz o pagamento simb=C3=B3lico de R$ 19,00. Depois me envia o c=
+omprovante
+> com o nome completo para recebe-lo.
+>
+> Essa =C3=A9 a ultima chamada para emiss=C3=A3o de certificado, ent=C3=A3o=
+ se voc=C3=AA precisa
+> dele corre l=C3=A1.
+>
+> Link para o Certificado
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D=
+EAC57960-D2DC-4014-B95E-EE5DF3E51113&u=3D9e9c3f50-9fd6-49e7-8014-42d62b091a=
+71>
+>
+> Abra=C3=A7oo
+>
+> F=C3=A1bio Mariani
+>
+>
+>
+> PS: Tivemos muitas pessoas pedindo o Parcelamento da Plataforma AgroecoWe=
+b
+> no boleto banc=C3=A1rio, j=C3=A1 que
+>
+> n=C3=A3o possu=C3=ADam cart=C3=A3o de cr=C3=A9dito. Conseguimos disponibi=
+lizar junto a
+> operadora de pagamento a possibilidade de
+>
+> parcelamento da plataforma AgroecoWeb em 3x no Boleto mas somente para 10
+> acessos.  Portanto se voc=C3=AA tem um real
+>
+> interesse na Plataforma responda esse email solicitando o acesso com
+> parcelamento dispon=C3=ADvel em 3x no boleto.
+>
+> Corre-la s=C3=A3o apenas 10 vagas.
+>
+>
+>
+> ------------------------------
+>
+>
+> Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+> <https://maps.google.com/?q=3DRua+Joaquim+Alves+Taveira+1615+-+Dourados+-=
++MS+-+79824100&entry=3Dgmail&source=3Dg>
+> Caso n=C3=A3o queira mais receber meus e-mails, acesse esse link. (Unsubs=
+cribe)
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&u=3D=
+9e9c3f50-9fd6-49e7-8014-42d62b091a71>
+> .
+>
+>
+> Enviado com amor por leadlovers Lead Lovers
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D=
+DE657CAB-7F6E-4544-BB3D-4F79EB999258&u=3D9e9c3f50-9fd6-49e7-8014-42d62b091a=
+71>
+
+
+
+
+--=20
+Edinaldo Sousa
+
+--001a114b0260645326055de733dd
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Segue em anexo boleto de pagamento para emiss=C3=A3o =
+do certificado.<br><br></div>Edinaldo Sousa Santos<br></div><div id=3D"DAB4=
+FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br> <table style=3D"border-top:1px solid=
+ #d3d4de">
+	<tr>
+      <td style=3D"width:55px;padding-top:18px"><a href=3D"https://www.avas=
+t.com/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campaign=
+=3Dsig-email&amp;utm_content=3Dwebmail" target=3D"_blank"><img src=3D"https=
+://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-n=
+o-repeat-v1.gif" alt=3D"" width=3D"46" height=3D"29" style=3D"width: 46px; =
+height: 29px;"></a></td>
+		<td style=3D"width:470px;padding-top:17px;color:#41424e;font-size:13px;fo=
+nt-family:Arial,Helvetica,sans-serif;line-height:18px">Livre de v=C3=ADrus.=
+ <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&amp;utm_sour=
+ce=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3Dwebmail" target=3D=
+"_blank" style=3D"color:#4453ea">www.avast.com</a>. 		</td>
+	</tr>
+</table>
+<a href=3D"#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width=3D"1" height=3D"1">=
+</a></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">Em 7 de=
+ novembro de 2017 17:15, Instituto Agriverdes <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:instituto@agriverdes.com.br" target=3D"_blank">instituto@agriver=
+des.com.br</a>&gt;</span> escreveu:<br><blockquote class=3D"gmail_quote" st=
+yle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><u></=
+u><p><span style=3D"font-size:14pt">Ol=C3=A1, T=C3=A1 tudo bem por ai??</sp=
+an></p>
+<p><br><span style=3D"font-size:14pt">Esse email =C3=A9 bem r=C3=A1pido, s=
+=C3=B3 pra ti avisar que se voc=C3=AA ainda n=C3=A3o fez o pedido do certif=
+icado, no link abaixo </span></p>
+<p><span style=3D"font-size:14pt">voc=C3=AA faz o pagamento </span><span st=
+yle=3D"font-size:14pt">simb=C3=B3lico de R$ 19,00. Depois me envia o compro=
+vante com o nome completo para recebe-lo. </span></p>
+<p><span style=3D"font-size:14pt">Essa =C3=A9 a ultima chamada para emiss=
+=C3=A3o de certificado, ent=C3=A3o se voc=C3=AA precisa dele corre l=C3=A1.=
+</span></p>
+<p><span style=3D"font-size:14pt"><a href=3D"http://www.congresso.agroecowe=
+b.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DEAC57960-D2DC-4014-B95E-EE5DF=
+3E51113&amp;u=3D9e9c3f50-9fd6-49e7-8014-42d62b091a71" rel=3D"noopener noref=
+errer" target=3D"_blank">Link para o Certificado</a></span></p>
+<p><span style=3D"font-size:14pt">Abra=C3=A7oo</span></p>
+<p><span style=3D"font-size:14pt">F=C3=A1bio Mariani</span></p>
+<p>=C2=A0</p>
+<p><span style=3D"font-size:14pt">PS: Tivemos muitas pessoas pedindo o Parc=
+elamento da Plataforma AgroecoWeb no boleto banc=C3=A1rio, j=C3=A1 que=C2=
+=A0</span></p>
+<p><span style=3D"font-size:14pt">n=C3=A3o possu=C3=ADam cart=C3=A3o de cr=
+=C3=A9dito. Conseguimos disponibilizar junto a operadora de pagamento a pos=
+sibilidade de </span></p>
+<p><span style=3D"font-size:14pt">parcelamento da plataforma=C2=A0</span><s=
+pan style=3D"font-size:14pt">AgroecoWeb em 3x no Boleto mas somente para 10=
+ acessos.=C2=A0 Portanto se voc=C3=AA tem um real </span></p>
+<p><span style=3D"font-size:14pt">interesse na Plataforma responda esse ema=
+il solicitando o acesso com parcelamento dispon=C3=ADvel em 3x no boleto. <=
+/span></p>
+<p><span style=3D"font-size:14pt">Corre-la s=C3=A3o apenas 10 vagas.</span>=
+</p>
+<p>=C2=A0</p><br><hr><br><br><a href=3D"https://maps.google.com/?q=3DRua+Jo=
+aquim+Alves+Taveira+1615+-+Dourados+-+MS+-+79824100&amp;entry=3Dgmail&amp;s=
+ource=3Dg">Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100</a><br=
+>Caso n=C3=A3o queira mais receber meus e-mails, <a href=3D"http://www.cong=
+resso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&amp;u=3D9e9c3f50-9fd6-=
+49e7-8014-42d62b091a71" target=3D"_blank">acesse esse link. (Unsubscribe)</=
+a>.<br><br><img alt=3D"" src=3D"http://www.congresso.agroecoweb.com.br/redi=
+rect/redirect.aspx?A=3DV&amp;u=3D9e9c3f50-9fd6-49e7-8014-42d62b091a71&amp;I=
+MG=3D9e9c3f50-9fd6-49e7-8014-42d62b091a71.png" style=3D"width:100%;height:5=
+px;max-height:5px"><br>Enviado com amor por leadlovers <a href=3D"http://ww=
+w.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DDE657CAB=
+-7F6E-4544-BB3D-4F79EB999258&amp;u=3D9e9c3f50-9fd6-49e7-8014-42d62b091a71" =
+target=3D"_blank">Lead Lovers</a>
+</blockquote></div><br><br clear=3D"all"><br>-- <br><div class=3D"gmail_sig=
+nature" data-smartmail=3D"gmail_signature">Edinaldo Sousa<br><br></div>
+</div>
+
+--001a114b0260645326055de733dd--
+--001a114b0260645329055de733df
+Content-Type: application/pdf; name="Comprovante.pdf"
+Content-Disposition: attachment; filename="Comprovante.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_j9yxlix50
+
+JVBERi0xLjQNJeLjz9MNCjQgMCBvYmoNPDwvTGluZWFyaXplZCAxL0wgNTE4Ni9PIDYvRSAxNzcw
+L04gMS9UIDQ5ODcvSCBbIDQ1NiAxMzhdPj4NZW5kb2JqDSAgICAgICAgICAgICAgICAgICAgICAg
+DQp4cmVmDQo0IDgNCjAwMDAwMDAwMTYgMDAwMDAgbg0KMDAwMDAwMDU5NCAwMDAwMCBuDQowMDAw
+MDAwNjU0IDAwMDAwIG4NCjAwMDAwMDA3ODEgMDAwMDAgbg0KMDAwMDAwMDgxMiAwMDAwMCBuDQow
+MDAwMDAwODQxIDAwMDAwIG4NCjAwMDAwMDA5MjcgMDAwMDAgbg0KMDAwMDAwMDQ1NiAwMDAwMCBu
+DQp0cmFpbGVyDQo8PC9TaXplIDEyL1Jvb3QgNSAwIFIvSW5mbyAzIDAgUi9JRFs8NUNFMDA0MUY4
+QjAwMDE1NzM5RkNEMzRCREZFNjNDNzI+PDg5OUExRTRBQ0MwQjZGNDlBQzVBQzk4NTJERkZEOTMy
+Pl0vUHJldiA0OTc3Pj4NCnN0YXJ0eHJlZg0KMA0KJSVFT0YNCiAgICAgICAgICAgICAgICAgIA0K
+MTEgMCBvYmoNPDwvRmlsdGVyL0ZsYXRlRGVjb2RlL0kgNzAvTGVuZ3RoIDU5L1MgMzg+PnN0cmVh
+bQ0KaN5iYGBgZWBgYmEAApYYBlTABBJk4GhAFmOFYgYGWQYuiQYFBsvTYHlmBgahHiDNCMTRAAEG
+AHOmBGQNCmVuZHN0cmVhbQ1lbmRvYmoNNSAwIG9iag08PC9NZXRhZGF0YSAyIDAgUi9QYWdlcyAx
+IDAgUi9UeXBlL0NhdGFsb2c+Pg1lbmRvYmoNNiAwIG9iag08PC9Db250ZW50cyAxMCAwIFIvQ3Jv
+cEJveFswIDAgNjEyIDc5Ml0vTWVkaWFCb3hbMCAwIDYxMiA3OTJdL1BhcmVudCAxIDAgUi9SZXNv
+dXJjZXMgNyAwIFIvUm90YXRlIDAvVHlwZS9QYWdlPj4NZW5kb2JqDTcgMCBvYmoNPDwvRm9udCA4
+IDAgUj4+DWVuZG9iag04IDAgb2JqDTw8L0YwIDkgMCBSPj4NZW5kb2JqDTkgMCBvYmoNPDwvQmFz
+ZUZvbnQvQ291cmllci9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvU3VidHlwZS9UeXBlMS9UeXBl
+L0ZvbnQ+Pg1lbmRvYmoNMTAgMCBvYmoNPDwvRmlsdGVyWy9GbGF0ZURlY29kZV0vTGVuZ3RoIDc3
+MT4+c3RyZWFtDQp4nK1UUW/aMBB+76+4x1UCaicQA9ommSStkBiZIJ320BcvMa2nELM4qfbzdw5t
+YVGA0vZQjHLK57v77rubxBeUUWCMQJxeXF0TGEG8uiDQpQPr+UTdK0qvHEIZoHUBJnzuRwABPpMF
+X05ntRccd0ydscsuIf69BydDOiD2gNNGCOk34K9A/WdtcH4TzgP+LZzHEQQhfOc3u5d4Gt/OouUx
++Nuj+7MpxgnHEAbTOZ8hY8vodslhyTH68iTc5u1P+Rgsfd2fu+/8aB6j+9kcr0f7XrfJ/JczrQHf
+ttmmyudBuIC7T9tu313Cssd7p6vvnmlN4bjuaDQcuIQ6I0Zqc4bMHYxQqhTVOGJu33vy49OMPl/0
+UKL+7bbTR4xS2usT2oAHPOZW4juxtGL7z7PRgP/gs2hh8adTcEiHkFa4HyHjwdHk2+Hv7Pyu5u3k
+BFFbtw/2ncOfSpUiERrkSpbqUUAqjZF4/lKlxr+NzFNZoFu0wOVfZUqZJ8rCwIgs1ZALMJWAROel
+6Ca6KGReShCmBY5rqD94sFenohQgTaKzB4WvG1HY416sEax7B5KPMMh6U+hHYSOkcqVyhSVoMHpd
+BzU2cblGJ+bVhH/2KCPeNXMd4lGHMMoG3oj1PRoyj3rXTuiQ9/2+fmijfayoEJnlmSPlqaqpgcnk
+dY3u47q2O5uCLzbYcWVAQiHvlZYG1rIs9EZn6M+3jWrCyRCnljmj7RWBXNsLMp2IDNuFijkR3de5
+qbJSmA6ofKWLtUhs3LpDjyrRBrC23IhE6Rxv7n3sal9y/z3wXe3Mcc6HT3cFd5DxJBMv1SciT2S2
+FbltbBsc9Z1Wpd4n6+iEfyx1UfWIs1Mo8Tb4C3UDjw3Phy/22MqFneusqiWSokpz5AQJtEI8AH8Q
+uMMq/GAM4r7eUh2wWrC7ohbwE/wA82I3Zsd3anv0VzJ2CL4/5AInbqUSZZeaAV6l9ZozoCub+7XI
+xLGBHb6B+UOi7bRrtglPRFEK3cEEcbEYaNGwhb6IazvvYXzxDxTqZzsNCmVuZHN0cmVhbQ1lbmRv
+YmoNMSAwIG9iag08PC9Db3VudCAxL0tpZHNbNiAwIFJdL1R5cGUvUGFnZXM+Pg1lbmRvYmoNMiAw
+IG9iag08PC9MZW5ndGggMjk4OC9TdWJ0eXBlL1hNTC9UeXBlL01ldGFkYXRhPj5zdHJlYW0NCjw/
+eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+Cjx4Onht
+cG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUu
+Ni1jMDE1IDg0LjE1OTgxMCwgMjAxNi8wOS8xMC0wMjo0MTozMCAgICAgICAgIj4KICAgPHJkZjpS
+REYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMj
+Ij4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6
+eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIgogICAgICAgICAgICB4bWxuczp4bXBN
+TT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIKICAgICAgICAgICAgeG1sbnM6ZGM9
+Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIj4KICAgICAgICAgPHhtcDpNb2RpZnlE
+YXRlPjIwMTctMTEtMTNUMjI6MjA6MTEtMDM6MDA8L3htcDpNb2RpZnlEYXRlPgogICAgICAgICA8
+eG1wOkNyZWF0ZURhdGU+MjAxNy0xMS0xM1QyMjoyMDoxMS0wMzowMDwveG1wOkNyZWF0ZURhdGU+
+CiAgICAgICAgIDx4bXA6TWV0YWRhdGFEYXRlPjIwMTctMTEtMTNUMjI6MjA6MTEtMDM6MDA8L3ht
+cDpNZXRhZGF0YURhdGU+CiAgICAgICAgIDx4bXBNTTpEb2N1bWVudElEPnV1aWQ6Yjg5N2EyZWUt
+MGQ4Mi00MmNiLWIxZGEtNzQ4ODc5ZTE1ZTIyPC94bXBNTTpEb2N1bWVudElEPgogICAgICAgICA8
+eG1wTU06SW5zdGFuY2VJRD51dWlkOmMwM2QwMDMzLTE3OGItNGY5OS05ODdhLTFiZTM1ODdjZDU0
+MTwveG1wTU06SW5zdGFuY2VJRD4KICAgICAgICAgPGRjOmZvcm1hdD5hcHBsaWNhdGlvbi9wZGY8
+L2RjOmZvcm1hdD4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+CiAgIDwvcmRmOlJERj4KPC94Onht
+cG1ldGE+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKPD94cGFja2V0IGVuZD0idyI/Pg0KZW5kc3RyZWFtDWVuZG9iag0zIDAgb2JqDTw8L0NyZWF0
+aW9uRGF0ZShEOjIwMTcxMTEzMjIyMDExLTAzJzAwJykvTW9kRGF0ZShEOjIwMTcxMTEzMjIyMDEx
+LTAzJzAwJyk+Pg1lbmRvYmoNeHJlZg0KMCA0DQowMDAwMDAwMDAwIDY1NTM1IGYNCjAwMDAwMDE3
+NzAgMDAwMDAgbg0KMDAwMDAwMTgyMSAwMDAwMCBuDQowMDAwMDA0ODg2IDAwMDAwIG4NCnRyYWls
+ZXINCjw8L1NpemUgNC9JRFs8NUNFMDA0MUY4QjAwMDE1NzM5RkNEMzRCREZFNjNDNzI+PDg5OUEx
+RTRBQ0MwQjZGNDlBQzVBQzk4NTJERkZEOTMyPl0+Pg0Kc3RhcnR4cmVmDQoxMTYNCiUlRU9GDQo=
+--001a114b0260645329055de733df--

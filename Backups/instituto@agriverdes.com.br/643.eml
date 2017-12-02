@@ -1,0 +1,107 @@
+Return-Path: <vogado.juliana@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id OAAoLKZj1VkH6wYAVsPpow
+	for <instituto@agriverdes.com.br>; Wed, 04 Oct 2017 19:41:42 -0300
+Return-path: <vogado.juliana@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Wed, 04 Oct 2017 19:41:42 -0300
+Received: from mail-oi0-f48.google.com ([209.85.218.48]:51281)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <vogado.juliana@gmail.com>)
+	id 1dzsMI-001uzJ-HY
+	for instituto@agriverdes.com.br; Wed, 04 Oct 2017 19:41:42 -0300
+Received: by mail-oi0-f48.google.com with SMTP id n82so21981590oib.8
+        for <instituto@agriverdes.com.br>; Wed, 04 Oct 2017 15:41:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=UZP5r004DDFK3eV7kl3/shVrmq/qk9SFy6fzrGFnH9c=;
+        b=nXYX7yzjwilcx++rTWhHCRtI0zOn4CC9bHPTNkU1jCvLuHcKQ5nRmUFxssstS/B0q4
+         AGz1LyPicg2A8zvz+Yshhwj5phgpkOl33BQYuGCAqaaY2Yd4HmH4g92ShvcUwI+EiG/T
+         aOZMCo1CQrtO90DgKSu96diQlUDmkGqz8uKrjdxf1hd+bG5VHI+3deyF+Vzvo6HMHoKJ
+         gGB8Jxjo7BMjhhq/c19x+GTyrtNW3S1YIjxFGmCPO/vFUNQrnSbxYWXzRcpM5MtZkMzb
+         Y1DwyQQr9wqeu7KctqAKOUljIaiTMxE6Kmq9w/NrHcTzdtlpql7534dHIeUwzieKIbKK
+         MnzA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=UZP5r004DDFK3eV7kl3/shVrmq/qk9SFy6fzrGFnH9c=;
+        b=cn7ei7FFVWt643Zwjh+gTeCdVPhNsr67LXhh7kriJoCaq3GaCbqiJfh72yRWuIn0qZ
+         Zvwjb2a3tUzdHNudyAbCRxjvCK5yINwP5+fU+WUPwrZ3ZFpE/ec0xyJc7MBa+B0eGue9
+         JrdGzJmy/SvXptS3Rr/fH2suuE4eNUz8wMBE2DRbLPwKIPgeKrl0cK84PJe/a4eBSldD
+         6xBJKuZtUxOnzKuLofas9nL7Q0EBM8eyccDGRrjYC1yj7CAAhlU7lMTgWdi7J7cc+jLL
+         Y0aWC8vC6E7/tsWwUX9VXla9t2Hwrz1fCumozkSaIxKNh6z/RGAgVmRjgwcyXEnPJuCz
+         Nqzg==
+X-Gm-Message-State: AMCzsaWXKQneHYTFGTFb65aGDAigBa825DcEfl4HV31YcAWVMdEXIr2w
+	3kGy2IAT024jbHNleivmeaOfOi97FxSJdsmO9gc=
+X-Google-Smtp-Source: AOwi7QC94vc4PEYUbnCmuHVjHn1GyKVIrU2WJVvKJlY4fDyG3rt79U/1R0UXiL60ZVlBYgL5kVyN92FH0nMJISn1DAw=
+X-Received: by 10.157.26.22 with SMTP id a22mr7767461ote.465.1507156858961;
+ Wed, 04 Oct 2017 15:40:58 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.74.186.10 with HTTP; Wed, 4 Oct 2017 15:40:58 -0700 (PDT)
+From: Juliana Coelho <vogado.juliana@gmail.com>
+Date: Wed, 4 Oct 2017 19:40:58 -0300
+Message-ID: <CAAy6kVNph5L86RRRxSt64hiJ3a7eoSAZhbEeSMC1aKhFFkbHgQ@mail.gmail.com>
+Subject: 
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a114731dc330586055ac04dae"
+
+--001a114731dc330586055ac04dae
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Boa noite.
+N=C3=A3o estou conseguindo acessar as palestras. Poderia me informar o que =
+devo
+fazer?
+
+Juliana Vogado Coelho
+T=C3=A9cnica em Meio Ambiente e Tecnologa em Gest=C3=A3o Ambiental - IFPI -=
+ Campus
+Corrente
+Mestranda em Ci=C3=AAncia do Solo - UFPR
+Contato - (89) 9 9919-0840
+Curriculo Lattes: http://lattes.cnpq.br/5829884298056091
+
+--001a114731dc330586055ac04dae
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Boa noite.<div>N=C3=A3o estou conseguindo acessar as pales=
+tras. Poderia me informar o que devo fazer?</div><div><br clear=3D"all"><di=
+v><div class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div di=
+r=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"=
+><div><div dir=3D"ltr"><font face=3D"Times New Roman"><font color=3D"#44444=
+4"><span style=3D"font-size:10.6667px;line-height:21.3px">Juliana Vogado Co=
+elho</span></font></font></div><div dir=3D"ltr"><font face=3D"Times New Rom=
+an"><font color=3D"#444444"><span style=3D"font-size:10.6667px;line-height:=
+21.3px">T=C3=A9cnica</span><span style=3D"font-size:8pt;line-height:21.3px"=
+>=C2=A0em Meio Ambiente e=C2=A0</span></font><font color=3D"#444444"><span =
+style=3D"font-size:8pt;line-height:21.3px">Tecnologa em=C2=A0</span><span s=
+tyle=3D"font-size:10.6667px;line-height:21.3px">Gest=C3=A3o</span><span sty=
+le=3D"font-size:8pt;line-height:21.3px">=C2=A0Ambiental - IFPI</span></font=
+><font color=3D"#444444"><span style=3D"font-size:8pt;line-height:21.3px">=
+=C2=A0- Campus=C2=A0</span></font><span style=3D"color:rgb(68,68,68);font-s=
+ize:8pt;line-height:21.3px">Corrente</span></font></div><div dir=3D"ltr"><f=
+ont face=3D"Times New Roman"><font color=3D"#444444"><span style=3D"font-si=
+ze:10.6667px">Mestranda em Ci=C3=AAncia do Solo - UFPR</span></font></font>=
+</div><div dir=3D"ltr"><font face=3D"Times New Roman"><font color=3D"#44444=
+4"><span style=3D"font-size:10.6667px">Contato - (89) 9 9919-0840<br></span=
+></font></font><div style=3D"color:rgb(0,0,0);font-family:Calibri,Arial,Hel=
+vetica,sans-serif;font-size:16px"><font size=3D"1" style=3D"color:rgb(68,68=
+,68);font-family:&#39;Segoe UI&#39;,&#39;Segoe UI Web Regular&#39;,&#39;Seg=
+oe UI Symbol&#39;,&#39;Helvetica Neue&#39;,&#39;BBAlpha Sans&#39;,&#39;S60 =
+Sans&#39;,Arial,sans-serif;line-height:21.3px">Curriculo Lattes:</font><spa=
+n style=3D"color:rgb(68,68,68);font-family:&#39;Segoe UI&#39;,&#39;Segoe UI=
+ Web Regular&#39;,&#39;Segoe UI Symbol&#39;,&#39;Helvetica Neue&#39;,&#39;B=
+BAlpha Sans&#39;,&#39;S60 Sans&#39;,Arial,sans-serif;line-height:21.3px;fon=
+t-size:15px">=C2=A0</span><a href=3D"http://lattes.cnpq.br/5829884298056091=
+" title=3D"http://lattes.cnpq.br/5829884298056091
+Ctrl+Clique ou toque para seguir o link" style=3D"font-size:12pt" target=3D=
+"_blank">http://lattes.cnpq.br/5829884298056091</a></div></div></div></div>=
+</div></div></div></div></div></div></div></div>
+</div></div>
+
+--001a114731dc330586055ac04dae--

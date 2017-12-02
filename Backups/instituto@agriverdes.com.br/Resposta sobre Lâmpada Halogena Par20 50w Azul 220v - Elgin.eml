@@ -1,0 +1,332 @@
+Return-Path: <nao-responder@mercadolivre.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id 0JBvAj/WCloaqQ8AVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 09:40:47 -0200
+Return-path: <nao-responder@mercadolivre.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 09:40:47 -0200
+Received: from iron06.mercadolibre.com ([216.33.196.180]:9515)
+	by nuvem28br.hoteldaweb.com.br with esmtp (Exim 4.89)
+	(envelope-from <nao-responder@mercadolivre.com>)
+	id 1eEZaA-004Iwx-Eg
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 09:40:47 -0200
+DomainKey-Signature: s=iron05; d=mercadolivre.com; c=nofws; q=dns;
+  h=Received:Date:From:To:Message-ID:Subject:MIME-Version:
+   Content-Type;
+  b=Iz5R5KRb3WF7oiDajUQjhiEo8MmHMMSLfAAddUhv8FnfN7D6DSJj99Sy
+   gU0wEUdmwj8zJ2N928cHGYL5ucqMEqmO0aVPSGFRvHYaHP7ob8/j6foBs
+   /b0+3lyWYVnGd6hOTuQlUBVbetH2e3h1JVxpgbbeTM0Ol3OqmLxv9vaTT
+   g=;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mercadolivre.com; i=@mercadolivre.com; q=dns/txt;
+  s=iron05; t=1510659644; x=1542195644;
+  h=from:to:message-id:subject:mime-version:date;
+  bh=BBKciqor1+0kaY+FUR0mahOO/QQFACujj79MF6hmfdI=;
+  b=OvDS3WjYH9ABObnSBJ5K3ZF4IQ7K2CrJVvPHYKlBdjBjt64JQRFjEJQt
+   wKZCi3psGXX/6tcCPR98ZAxmsrXnJ9D3E/ZvCXuvo7PogORw1amsl0NfC
+   xigJn3llInaNGnMOWB2vOz00zL921k3oeVNONRJ4SxqTV58EEmTGO2YaH
+   Y=;
+Received: from unknown (HELO e-0000af7a) ([10.32.170.147])
+  by iron06.mercadolibre.com with ESMTP; 14 Nov 2017 07:38:02 -0400
+Date: 14 Nov 2017 07:38:02 -0400
+From: Mercado Livre <nao-responder@mercadolivre.com>
+To: instituto@agriverdes.com.br
+Message-ID: <1701334570.30746607.1510659482645.JavaMail.oraweb@e-0000af7a>
+Subject: =?ISO-8859-1?Q?Resposta_sobre:_L=E2mpada_Halogena?=
+ =?ISO-8859-1?Q?_Par20_50w_Azul_220v_-_Elgin_____?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_30746598_2033833932.1510659482531"
+
+------=_Part_30746598_2033833932.1510659482531
+Content-Type: multipart/related; 
+	boundary="----=_Part_30746599_1149685825.1510659482531"
+
+------=_Part_30746599_1149685825.1510659482531
+Content-Type: text/html;charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+"/>
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0, minimum-scale=3D1.0, maximum-scale=3D1.0"/>
+    <meta name=3D"format-detection" content=3D"telephone=3Dno"/>
+    <meta charset=3D"utf-8"/>
+    <style type=3D"text/css">
+        table, tr, td, span, a {
+            -webkit-text-size-adjust: none;
+        }
+        @media only screen and (max-width: 571px) {
+            td[class=3D"logo"] {
+                text-align: center !important;
+            }
+            table[class=3D"slogan-app"] {
+                text-align: center;
+                width: 100%;
+            }
+            td[class=3D"logo-left"]{
+                width: 50%;=20
+                text-align: right;
+            }
+            td[class=3D"logo-right"]{
+                width: 50%;=20
+                text-align: left;
+            }
+            td[class=3D"spacer"]{
+                display: none;
+            }=20
+        }
+    </style>
+</head>
+
+<body style=3D"padding:0;">
+    <!-- PREHEADER -->
+    <span style=3D"font-size:1px; color:#fff; background-color:#fff; displa=
+y:none !important">"Bom dia. No momento temos somente esta unidade."</span>=
+=20
+    <!-- HEADER -->
+    <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"max-width:600px">
+        <tr>
+            <td class=3D"logo" align=3D"left" style=3D"padding:10px 20px 15=
+px 0">
+                <a href=3D"http://www.mercadolivre.com.br">
+                    <img alt=3D"MercadoLivre" border=3D"0" width=3D"132" he=
+ight=3D"33" src=3D"http://static.mlstatic.com/org-img/emails/logos/logo-mer=
+cadolivre-new.gif" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td width=3D"100%" height=3D"1" style=3D"border-top:solid 1px #=
+E8E8E8;display:block;font-size:1px">&nbsp;</td>
+        </tr>
+        <tr>
+            <td height=3D"30" style=3D"font-size:1px">&nbsp;</td>
+        </tr>
+    </table>
+    <!-- AC=C1 VA EL CONTENIDO -->
+    <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"padding-right:20px">
+        <tr>
+            <td>=20
+                <span style=3D"color:#333333;font-size:14px;font-family:Ari=
+al">Responderam a sua pergunta em:</span>=20
+            </td>
+        </tr>
+        <tr>
+            <td height=3D"10" style=3D"font-size:1px">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <span>=20
+                    <a href=3D"https://registration.mercadolivre.com.br/reg=
+istration-confirm/confirm?token=3Dml-54e748c05f4abc5c03cc679d6aca2c9b8a3342=
+5e273ea9a834a420b93985e9526fbdc4c76476c4f83551a24b6fc01d15ff460d829934004df=
+1398d069507c1b56dccbb2266e18c2b6519e9d7aa329957&login=3Dfalse&go=3Dhttp%3A%=
+2F%2Fproduto.mercadolivre.com.br%2FMLB-925565961-lmpada-halogena-par20-50w-=
+azul-220v-elgin-_JM" target=3D"_blank" style=3D"color:#0637b3;font-size:16p=
+x;font-family:Arial;text-decoration:none">L=E2mpada Halogena Par20 50w Azul=
+ 220v - Elgin </a>
+                    <span style=3D"color:#B22C00;font-size:16px;font-family=
+:Arial;">R$ 3<sup style=3D"color:#B22C00;font-size:10px;font-family:Arial;"=
+>50</sup></span>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td height=3D"10" style=3D"font-size:1px">&nbsp;</td>
+        </tr>
+    </table>
+    <!-- TABLA DE DOS COLUMNAS CON IMAGEN -->
+    <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"padding-right:20px">
+        <tr>
+            <td>
+                <!-- LISTADO -->
+                <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" style=3D"padding-right:20px">
+                    <tr>
+                        <td>
+                            <table width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+                                <tr valign=3D"top">
+                                    <td style=3D"padding:0 10px 5px 0; widt=
+h:20px">
+                                        <img src=3D"http://static.mlstatic.=
+com/org-img/emails/icons/ico_preg.gif" width=3D"18" height=3D"15">
+                                    </td>
+                                    <td>
+                                        <span style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:14px;color:#333333;text-align:left;display:inl=
+ine-block;">Ol=E1 Amigo voc=EA tem 20 unidades?</span>=20
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height=3D"10" style=3D"font-size:1px">&nbsp;</t=
+d>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+                                <tr valign=3D"top">
+                                    <td style=3D"padding:0 10px 5px 20px; w=
+idth:20px">
+                                        <img src=3D"http://static.mlstatic.=
+com/org-img/emails/icons/ico_resp.gif" width=3D"18" height=3D"15">
+                                    </td>
+                                    <td>
+                                        <span style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:14px;color:#333333;text-align:left;display:inl=
+ine-block;">Bom dia. No momento temos somente esta unidade.</span>=20
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td height=3D"30" style=3D"font-size:1px">&nbsp;</td>
+        </tr>
+    </table>
+    <!-- BOTON -->
+    <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+        <tr>
+            <td style=3D"padding:1px 4px 0 4px;background-repeat:repeat-x;b=
+order:solid 1px #333;border-radius:4px" height=3D"30" bgcolor=3D"#2D3277" b=
+ackground=3D"http://static.mlstatic.com/org-img/syi4/mails/img/back_btn.png=
+">
+                <a href=3D"https://registration.mercadolivre.com.br/registr=
+ation-confirm/confirm?token=3Dml-54e748c05f4abc5c03cc679d6aca2c9b8a33425e27=
+3ea9a834a420b93985e9526627c1ef2a7e7110fc3d81103337c4879779083175b630bc04143=
+973814580a1&login=3Dfalse&go=3Dhttps%3A%2F%2Fwww.mercadolibre.com%2Fjms%2Fm=
+lb%2Flgz%2Flogin%2Fotp%3Fotp%3DSD-80d6f4b8a70eb8a4b33993ff55ee5d1bjOhfF56ZC=
+I__-et1510789082068-__RESTO%26go%3Dhttps%253A%252F%252Fbuyingflow.mercadoli=
+vre.com.br%252Fbid%252Fconfirm%253Fitem_id%253DMLB925565961%2526quantity%25=
+3D1%2526mode%253Dpage%26amp%3Bnotification_source%3Dmail-question-answered%=
+26amp%3Bnotification_id%3D5116520585-MLB925565961%26amp%3Bnotification_user=
+_id%3D66289464%26amp%3Bnotification_hash%3D3dfe09ac1ce83f6640067bac42480833=
+9123ab1f" style=3D"display:block;padding:0 10px;font-family:Arial,Helvetica=
+,sans-serif;font-size:18px;color:#fff;text-decoration:none">Comprar</a>
+            </td>
+            <td style=3D"padding-left:25px"><a href=3D"https://registration=
+.mercadolivre.com.br/registration-confirm/confirm?token=3Dml-54e748c05f4abc=
+5c03cc679d6aca2c9b8a33425e273ea9a834a420b93985e952ecee19ed84bfc201ddf3780fa=
+c69354c0fe634f7bf3ffbe4e3512e50788fadf149f757e98714f08b0a61a056d0f60ed5&log=
+in=3Dfalse&go=3Dhttps%3A%2F%2Fwww.mercadolibre.com%2Fjms%2Fmlb%2Flgz%2Flogi=
+n%2Fotp%3Fotp%3DSD-a51fd2de4e5107f8ed64e57e1eaea460KCe9HxvCuc__-et151078908=
+2032-__RESTO%26go%3Dhttps%253A%252F%252Fquestions.mercadolivre.com.br%252Fb=
+uyer%253Fitem%253DMLB925565961%2526question%253D5116520585%2526confirm%253D=
+true%2526_consistent%253Dtrue%26amp%3Bnotification_source%3Dmail-question-a=
+nswered%26amp%3Bnotification_id%3D5116520585-MLB925565961%26amp%3Bnotificat=
+ion_user_id%3D66289464%26amp%3Bnotification_hash%3D3dfe09ac1ce83f6640067bac=
+424808339123ab1f" target=3D"_blank" style=3D"color:#0637b3;font-size:14px;f=
+ont-family:Arial;text-decoration:none">Fazer outra pergunta</a>
+            </td>
+            <td style=3D"padding-left:25px"><a href=3D"https://registration=
+.mercadolivre.com.br/registration-confirm/confirm?token=3Dml-54e748c05f4abc=
+5c03cc679d6aca2c9b8a33425e273ea9a834a420b93985e9529aee1c211c95c940c777a8c10=
+c9dc7cf19473c214c14054aff6b509b52a8d43f3048077cdd8a10313d979665f1f74c0e&log=
+in=3Dfalse&go=3Dhttp%3A%2F%2Flista.mercadolivre.com.br%2FL%C3%A2mpada-Halog=
+ena-Par20-50w-Azul-220v---Elgin" target=3D"_blank" style=3D"color:#0637b3;f=
+ont-size:14px;font-family:Arial;text-decoration:none">Ver an=FAncios simila=
+res</a>
+            </td>
+        </tr>
+        <tr>
+            <td height=3D"30" style=3D"font-size:1px">&nbsp;</td>
+        </tr>
+    </table>
+    <!-- AC=C1 TERMINA EL CONTENIDO -->
+    <!-- FOOTER -->
+    <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"max-width:600px">
+        <tr>
+            <td width=3D"100%" height=3D"1" style=3D"border-top:solid 5px #=
+F3D900;display:block;font-size:1px">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style=3D"padding:10px 0 0 0">
+                <span style=3D"color:#999999;font-size:11px;font-family:Ari=
+al">Se voc=EA n=E3o quer receber avisos por e-mail quando fizer perguntas, =
+<a href=3D"https://www.mercadolibre.com/jms/mlb/lgz/login/otp?otp=3DSD-fb44=
+cf0dd2ed04c9492614ec3898469a3dkvlCjYG8__-et1510789082088-__RESTO&go=3Dhttp%=
+3A%2F%2Fwww.mercadolivre.com.br%2Fjm%2Fmyemails%3Faxn%3DAUTO_CONFIG" style=
+=3D"text-decoration:none;font-family:Arial;color:#0637b3;">modifique as sua=
+s prefer=EAncias de e-mail</a>.</span>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"spacer" height=3D"15" style=3D"font-size:1px">&nbs=
+p;</td>
+        </tr>
+        <tr>
+            <td>
+                <!-- Banner PUSH APP -->
+                <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" sty=
+le=3D"float:left; height:45px;" class=3D"slogan-app">
+                    <tr>
+                        <td style=3D"font-family:Arial, San Serif; color:#9=
+99999;">
+                            Compre e venda direto do seu celular!
+                        </td>
+                    </tr>
+                </table>
+                <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" sty=
+le=3D"float: right;">
+                    <tr>
+                        <td width=3D"5">&nbsp;</td>
+                        <td class=3D"logo-left">
+                            <a href=3D"http://itunes.apple.com/app/mercadol=
+ibre/id463624852">
+                                <img src=3D"http://static.mlstatic.com/org-=
+img/emails/appStore-2x_pt_c.png" border=3D"0" width=3D"138" height=3D"43" t=
+itle=3D"Baixe o aplicativo para iOS" alt=3D"Baixe o aplicativo para iOS">
+                            </a>
+                        </td>
+                        <td width=3D"5">&nbsp;</td>
+                        <td class=3D"logo-right">
+                            <a href=3D"https://play.google.com/store/apps/d=
+etails?id=3Dcom.mercadolibre&hl=3Dpt" >
+                                <img src=3D"http://static.mlstatic.com/org-=
+img/emails/googlePlay-2x_pt_c.png" border=3D"0" width=3D"138" height=3D"43"=
+ title=3D"Baixe o aplicativo para Android" alt=3D"Baixe o aplicativo para A=
+ndroid">
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td height=3D"15" style=3D"font-size:1px">&nbsp;</td>
+        </tr>
+    </table>
+   =20
+    <img src=3D"http://www.mercadolivre.com.br/notifications/pixel?notifica=
+tion_source=3Dmail-question-answered&amp;notification_id=3D5116520585-MLB92=
+5565961&amp;notification_user_id=3D66289464&amp;notification_hash=3D3dfe09a=
+c1ce83f6640067bac424808339123ab1f" width=3D"1" height=3D"1" />
+<img width=3D"1" height=3D"1" border=3D"0" style=3D"mso-hide: all !importan=
+t; display:none !important; visibility:hidden !important; opacity:0 !import=
+ant;" src=3D"https://www.mercadolivre.com.br/gz/emails/pixel?email_id=3D118=
+33092966&email_template=3DRESPUESTA_G&user_id=3D66289464&email_address=3Din=
+stituto@agriverdes.com.br&site_id=3DMLB&sent_date=3D2017-11-14T07:38:02.525=
+-04:00&v=3D2&business=3Dmercadolibre&hash=3Df959a82bfc9dae8b08e7939bf3bea70=
+e7b90e5dc"></body>=20
+</html>
+------=_Part_30746599_1149685825.1510659482531--
+
+------=_Part_30746598_2033833932.1510659482531--

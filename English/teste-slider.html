@@ -1,0 +1,419 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+    <style type="text/css">
+      .mi-slider {
+          position: relative;
+          margin-top: 30px;
+          height: 490px;
+      }
+      .mi-slider ul {
+          list-style-type: none;
+          position: absolute;
+          width: 100%;
+          left: 0;
+          bottom: 140px;
+          overflow: hidden;
+          text-align: center;
+          pointer-events: none;
+      }
+      .mi-slider ul.mi-current {
+          pointer-events: auto;
+      }
+      .no-js .mi-slider ul {
+          position: relative;
+          left: auto;
+          bottom: auto;
+          margin: 0;
+          overflow: visible;
+      }
+      .mi-slider ul li {
+          display: inline-block;
+          padding: 20px;
+          width: 20%;
+          max-width: 300px;
+          transform: translateX(600%);
+          transition: opacity 0.2s linear;
+      }
+      .no-js .mi-slider ul li {
+          transform: translateX(0);
+      }
+      .mi-slider ul li a,
+      .mi-slider ul li img {
+          display: block;
+          margin: 0 auto;
+      }
+
+      .mi-slider ul li a {
+          outline: none;
+          cursor: pointer;
+      }
+
+      .mi-slider ul li img {
+          max-width: 100%;
+          border: none;
+      }
+
+      .mi-slider ul li h4 {
+          display: inline-block;
+          font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", serif;
+          font-style: italic;
+          font-weight: 400;
+          font-size: 18px;
+          padding: 20px 10px 0;
+      }
+      .mi-slider ul li:hover {
+          opacity: 0.7;
+      } 
+      .mi-slider nav {
+          position: relative;
+          top: 400px;
+          text-align: center;
+          max-width: 800px;
+          margin: 0 auto;
+          border-top: 5px solid #333;
+      }
+      .no-js nav {
+          display: none;
+      }
+      .mi-slider nav a {
+          display: inline-block;
+          text-transform: uppercase;
+          letter-spacing: 5px;
+          padding: 40px 30px 30px 34px;
+          position: relative;
+          color: #888;
+          outline: none;
+          transition: color 0.2s linear;
+      }
+
+      .mi-slider nav a:hover,
+      .mi-slider nav a.mi-selected {
+          color: #000;
+      }
+      .mi-slider nav a.mi-selected:after,
+      .mi-slider nav a.mi-selected:before {
+          content: '';
+          position: absolute;
+          top: -5px;
+          border: solid transparent;
+          height: 0;
+          width: 0;
+          position: absolute;
+          pointer-events: none;
+      }
+
+      .mi-slider nav a.mi-selected:after {
+          border-color: transparent;
+          border-top-color: #fff;
+          border-width: 20px;
+          left: 50%;
+          margin-left: -20px;
+      }
+
+      .mi-slider nav a.mi-selected:before {
+          border-color: transparent;
+          border-top-color: #333;
+          border-width: 27px;
+          left: 50%;
+          margin-left: -27px;
+      }
+      .mi-slider ul:first-child li,
+      .no-js .mi-slider ul li {
+          animation: scaleUp 350ms ease-in-out both;
+      }
+
+      @keyframes scaleUp {
+          0% { transform: translateX(0) scale(0); }
+          100% { transform: translateX(0) scale(1); }
+      }
+      .mi-slider ul:first-child li:first-child {
+          animation-delay: 90ms;
+      }
+
+      .mi-slider ul:first-child li:nth-child(2) {
+          animation-delay: 180ms;
+      }
+
+      .mi-slider ul:first-child li:nth-child(3) {
+          animation-delay: 270ms;
+      }
+
+      .mi-slider ul:first-child li:nth-child(4) {
+          animation-delay: 360ms;
+      }
+      /* Deslizar da direita */
+
+      .mi-slider ul.mi-moveFromRight li {
+          animation: moveFromRight 350ms ease-in-out both;
+      }
+
+      /* Deslizar da esquerda */
+
+      .mi-slider ul.mi-moveFromLeft li {
+          animation: moveFromLeft 350ms ease-in-out both;
+      }
+
+      /* Deslizar para a direita */
+
+      .mi-slider ul.mi-moveToRight li {
+          animation: moveToRight 350ms ease-in-out both;
+      }
+
+      /* Deslizar para a esquerda */
+
+      .mi-slider ul.mi-moveToLeft li {
+          animation: moveToLeft 350ms ease-in-out both;
+      }
+      .mi-slider ul.mi-moveToLeft li:first-child,
+      .mi-slider ul.mi-moveFromRight li:first-child,
+      .mi-slider ul.mi-moveToRight li:nth-child(4),
+      .mi-slider ul.mi-moveFromLeft li:nth-child(4) {
+          animation-delay: 0ms;
+      }
+      .mi-slider ul.mi-moveToLeft li:nth-child(2),
+      .mi-slider ul.mi-moveFromRight li:nth-child(2),
+      .mi-slider ul.mi-moveToRight li:nth-child(3),
+      .mi-slider ul.mi-moveFromLeft li:nth-child(3) {
+          -webkit-animation-delay: 90ms;
+          animation-delay: 90ms;
+      }
+
+      .mi-slider ul.mi-moveToLeft li:nth-child(3),
+      .mi-slider ul.mi-moveFromRight li:nth-child(3),
+      .mi-slider ul.mi-moveToRight li:nth-child(2),
+      .mi-slider ul.mi-moveFromLeft li:nth-child(2) {
+          -webkit-animation-delay: 180ms;
+          animation-delay: 180ms;
+      }
+
+      .mi-slider ul.mi-moveToLeft li:nth-child(4),
+      .mi-slider ul.mi-moveFromRight li:nth-child(4),
+      .mi-slider ul.mi-moveToRight li:first-child,
+      .mi-slider ul.mi-moveFromLeft li:first-child  {
+          -webkit-animation-delay: 270ms;
+          animation-delay: 270ms;
+      }
+      @keyframes moveFromRight {
+          0% { transform: translateX(600%); }
+          100% { transform: translateX(0); }
+      }
+
+      @keyframes moveFromLeft {
+          0% { transform: translateX(-600%); }
+          100% { transform: translateX(0); }
+      }
+
+      @keyframes moveToRight {
+          0% { transform: translateX(0%); }
+          100% { transform: translateX(600%); }
+      }
+
+      @keyframes moveToLeft {
+          0% { transform: translateX(0%); }
+          100% { transform: translateX(-600%); }
+      }
+      @media screen and (max-width: 910px){
+          .mi-slider nav {
+              max-width: 90%;
+          }
+
+          .mi-slider nav a {
+              font-size: 12px;
+              padding: 40px 10px 30px 14px;
+          }
+      }
+      @media screen and (max-width: 740px){
+          .mi-slider {
+              height: 300px;
+          }
+
+          .mi-slider nav {
+              top: 220px;
+          }
+      }
+      @media screen and (max-width: 490px){ 
+          .mi-slider {
+              text-align: center;
+              height: auto;
+          }
+
+          .mi-slider ul {
+              position: relative;
+              display: inline;
+              bottom: auto;
+              pointer-events: auto;
+          }
+
+          .mi-slider ul li {
+              animation: none !important;
+              transform: translateX(0) !important;
+              padding: 10px 3px;
+              min-width: 140px;
+          }
+
+          .mi-slider nav {
+              display: none;
+          }
+      }
+    </style>
+    <div id="mi-slider" class="mi-slider">
+    <ul>
+      <li><a href="#"><img src="Image/speakers/1.jpg" alt="img01">
+          <h4>Boots</h4></a></li>
+      <li><a href="#"><img src="Image/speakers/1.jpg" alt="img02">
+          <h4>Oxfords</h4></a></li>
+      <li><a href="#"><img src="Image/speakers/1.jpg" alt="img03">
+          <h4>Loafers</h4></a></li>
+      <li><a href="#"><img src="Image/speakers/1.jpg" alt="img04">
+          <h4>Sneakers</h4></a></li>
+    </ul>
+    <ul>
+      <li><a href="#"><img src="images/5.jpg" alt="img05">
+          <h4>Belts</h4></a></li>
+      <li><a href="#"><img src="images/6.jpg" alt="img06">
+          <h4>Hats & Caps</h4></a></li>
+      <li><a href="#"><img src="images/7.jpg" alt="img07">
+          <h4>Sunglasses</h4></a></li>
+      <li><a href="#"><img src="images/8.jpg" alt="img08">
+          <h4>Scarves</h4></a></li>
+    </ul>
+    <ul>
+      <li><a href="#"><img src="images/9.jpg" alt="img09">
+          <h4>Casual</h4></a></li>
+      <li><a href="#"><img src="images/10.jpg" alt="img10">
+          <h4>Luxury</h4></a></li>
+      <li><a href="#"><img src="images/11.jpg" alt="img11">
+          <h4>Sport</h4></a></li>
+    </ul>
+    <ul>
+      <li><a href="#"><img src="images/12.jpg" alt="img12">
+          <h4>Carry-Ons</h4></a></li>
+      <li><a href="#"><img src="images/13.jpg" alt="img13">
+          <h4>Duffel Bags</h4></a></li>
+      <li><a href="#"><img src="images/14.jpg" alt="img14">
+          <h4>Laptop Bags</h4></a></li>
+      <li><a href="#"><img src="images/15.jpg" alt="img15">
+          <h4>Briefcases</h4></a></li>
+    </ul>
+    <nav>
+      <a href="#">Shoes</a>
+      <a href="#">Accessories</a>
+      <a href="#">Watches</a>
+      <a href="#">Bags</a>
+    </nav>
+  </div>
+  <script type="text/javascript">
+      _init : function( options ) {
+
+      // As categorias (ul)
+      this.$categories = this.$el.children( 'ul' );
+      // A navegação
+      this.$navcategories = this.$el.find( 'nav > a' );
+      var animEndEventNames = {
+          'WebkitAnimation' : 'webkitAnimationEnd',
+          'OAnimation' : 'oAnimationEnd',
+          'msAnimation' : 'MSAnimationEnd',
+          'animation' : 'animationend'
+      };
+      // Nomes de eventos e animações
+      this.animEndEventName = animEndEventNames[ Modernizr.prefixed( 'animation' ) ];
+      // Suporte a animações e transformações
+      this.support = Modernizr.csstransforms && Modernizr.cssanimations;
+      // Se está sendo animado
+      this.isAnimating = false;
+      // Categoria atual
+      this.current = 0;
+      var $currcat = this.$categories.eq( 0 );
+      if( !this.support ) {
+          this.$categories.hide();
+          $currcat.show();
+      }
+      else {
+          $currcat.addClass( 'mi-current' );
+      }
+      // Categoria atual na navegação
+      this.$navcategories.eq( 0 ).addClass( 'mi-selected' );
+      // initialize the events
+      this._initEvents();
+
+  }
+  _initEvents : function() {
+
+    var self = this;
+    this.$navcategories.on( 'click.catslider', function() {
+        self.showCategory( $( this ).index() );
+        return false;
+    } );
+
+    // reseta ao redimensionar a janela.
+    $( window ).on( 'resize', function() {
+        self.$categories.removeClass().eq( 0 ).addClass( 'mi-current' );
+        self.$navcategories.eq( self.current ).removeClass( 'mi-selected' ).end().eq( 0 ).addClass( 'mi-selected' );
+        self.current = 0;
+    } );
+
+}
+
+showCategory : function( catidx ) {
+
+    if( catidx === this.current || this.isAnimating ) {
+        return false;
+    }
+    this.isAnimating = true;
+    // Atualiza a navegação selecionada
+    this.$navcategories.eq( this.current ).removeClass( 'mi-selected' ).end().eq( catidx ).addClass( 'mi-selected' );
+
+    var dir = catidx > this.current ? 'right' : 'left',
+        toClass = dir === 'right' ? 'mi-moveToLeft' : 'mi-moveToRight',
+        fromClass = dir === 'right' ? 'mi-moveFromRight' : 'mi-moveFromLeft',
+        // current category
+        $currcat = this.$categories.eq( this.current ),
+        // new category
+        $newcat = this.$categories.eq( catidx ),
+        $newcatchild = $newcat.children(),
+        lastEnter = dir === 'right' ? $newcatchild.length - 1 : 0,
+        self = this;
+
+    if( this.support ) {
+
+        $currcat.removeClass().addClass( toClass );
+
+        setTimeout( function() {
+
+            $newcat.removeClass().addClass( fromClass );
+            $newcatchild.eq( lastEnter ).on( self.animEndEventName, function() {
+
+                $( this ).off( self.animEndEventName );
+                $newcat.addClass( 'mi-current' );
+                self.current = catidx;
+                var $this = $( this );
+                // Resolve um bug no Chrome
+                self.forceRedraw( $this.get(0) );
+                self.isAnimating = false;
+
+            } );
+
+        }, $newcatchild.length * 90 );
+
+    }
+    else {
+
+        $currcat.hide();
+        $newcat.show();
+        this.current = catidx;
+        this.isAnimating = false;
+
+    }
+
+}
+  </script>
+  </body>
+</html>
+
+

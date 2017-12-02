@@ -1,0 +1,284 @@
+Return-Path: <tavofor3@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id uAyoH4xUzlkp1gkAVsPpow
+	for <instituto@agriverdes.com.br>; Fri, 29 Sep 2017 11:11:24 -0300
+Return-path: <tavofor3@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Fri, 29 Sep 2017 11:11:24 -0300
+Received: from mail-qk0-f170.google.com ([209.85.220.170]:46871)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <tavofor3@gmail.com>)
+	id 1dxw0i-002xhV-62
+	for instituto@agriverdes.com.br; Fri, 29 Sep 2017 11:11:24 -0300
+Received: by mail-qk0-f170.google.com with SMTP id z143so1285742qkb.3
+        for <instituto@agriverdes.com.br>; Fri, 29 Sep 2017 07:11:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=message-id:mime-version:to:from:subject:date:importance:in-reply-to
+         :references;
+        bh=ERRKoMoPKoD9idjthI3uxaj6xJFEKJDNwbIm8/9s93M=;
+        b=YrbwtHq3zrqlONNEe0oa6RbLY85nFXCs2tbV7ihktJsNVyGZXG1dAj2PaGyOHDHkFr
+         YIBJnbpZBNlOkpWRmMg8lMxxdJern/bKxZ29JjT+DSFq3tz0P04GqWJKwBb2OOotmZUx
+         sLxDD3yI2DXZbV6ThBmGPYSjkYYJllBtGXLQjKe7soAb7IR8eSu5+ugxWN/Qfxz8rNJP
+         sbhjPuOYOeUjRQo/DhXnEh9Gwp0VR1TXYlflrwRPScfU/F+gNJMQfjDwd4xFBZMQsn4N
+         Zlf7gHRWH2TMTX5q+Un0A0OP9YfD/YxhDt42GZEJkkMD6tmbPzJsZ07m2nCaAqGI2HqT
+         7SQQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:mime-version:to:from:subject:date
+         :importance:in-reply-to:references;
+        bh=ERRKoMoPKoD9idjthI3uxaj6xJFEKJDNwbIm8/9s93M=;
+        b=CV/0kJL+sEgg51efr++UiWdfcQI3rY7pQ5uDTMZEv+gBp0z821vP4GA7lqWIgg96+4
+         U+8blMcAz9Wi12L+Hufvmlg6WMql5Gy6ehceKquXkxDXTS9mM6or6H5JuBEFcSd98IkR
+         MLdewMl/5Xp6nY2wQViHRQmY+5x5UNr4L2x/2hDJYqXE3sxzsx3MRNTkOGiT1zjCZQzq
+         Nnx+7lLL4crFShCuXN1K1MO7pc0LkghVYYqaKOH2lilf2NZ7aO4swu5uhPZGTdAdknoq
+         Hn0NCFgXEeFVaDFSDZ34n/o2gg9n/U5tkFruHdQfv+CSJmqiUumfJyTu3/v1lbb8gYj4
+         ICYA==
+X-Gm-Message-State: AMCzsaWUczFp2W3Dif9/3D5SthcChU4y3A1XC5xBffURlbSzrL/QZ7VS
+	AD0Vuc3QwFbHjP9kPRoLPbgP0RKV
+X-Google-Smtp-Source: AOwi7QAvimmkt8uWEva7PzICTH8KhxQ2NtCE6idpFyr16uC+/HAaoZ7JIpTKGe/vkydmDWVBl41Sog==
+X-Received: by 10.55.212.93 with SMTP id l90mr3423364qki.30.1506694242213;
+        Fri, 29 Sep 2017 07:10:42 -0700 (PDT)
+Received: from ?IPv6:::ffff:192.168.1.12? ([181.115.231.129])
+        by smtp.gmail.com with ESMTPSA id x68sm2607015qkc.84.2017.09.29.07.10.40
+        for <instituto@agriverdes.com.br>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 29 Sep 2017 07:10:41 -0700 (PDT)
+Message-ID: <59ce5461.477c370a.1e700.0fea@mx.google.com>
+MIME-Version: 1.0
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+From: Gustavo Benitez Alvarez <tavofor3@gmail.com>
+Subject: RE: Agradecimientos
+Date: Fri, 29 Sep 2017 10:10:42 -0400
+Importance: normal
+X-Priority: 3
+In-Reply-To: <-2t02KlSR3WCFQhHclEo0g@ismtpd0006p1lon1.sendgrid.net>
+References: <-2t02KlSR3WCFQhHclEo0g@ismtpd0006p1lon1.sendgrid.net>
+Content-Type: multipart/mixed;
+	boundary="_6D1EE181-C347-482C-BC54-2A0544A87013_"
+
+--_6D1EE181-C347-482C-BC54-2A0544A87013_
+Content-Type: multipart/alternative;
+	boundary="_9900B047-F322-4FCC-8D84-5B70B0540D1C_"
+
+--_9900B047-F322-4FCC-8D84-5B70B0540D1C_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Mediante la presente agradezco formar parte de este congreso, agradecer=C3=
+=ADa que los links me los env=C3=ADen a mi correo para poder estar bien inf=
+ormado y participar de manera activa en los mismos.
+
+Atte.  Gustavo Ben=C3=ADtez =C3=81lvarez
+
+Enviado desde Correo para Windows 10
+
+De: Instituto Agriverdes
+Enviado: jueves, 28 de septiembre de 2017 06:20 p.m.
+Para: tavofor3@gmail.com
+Asunto: IMPORTANTE - INSTRU=C3=87=C3=95ES PARA O CONGRESSO
+
+Ol=C3=A1 Gustavo Benitez.=C2=A0Tudo bem por ai???
+Aqui estamos a todo vapor, as palestras j=C3=A1 chegaram e estamos subindo =
+para a plataforma. Posso te dizer que esse ano superamos todas as expectati=
+vas de p=C3=BAblico, de qualidade das palestras, dos palestrantes, dos curs=
+os e muito mais.=20
+Se eu pudesse te dar um conselho...
+
+Eu diria pra voc=C3=AA n=C3=A3o perder por nada esse congresso. Falando nis=
+so vamos conversar um pouco sobre a din=C3=A2mica dele...
+O congresso vai ocorrer do dia 04/10 ao dia 10/10, todos os dias haver=C3=
+=A1 5 palestras (8h, 10h, 16h, 18h e 21h), no hor=C3=A1rio de bras=C3=ADlia=
+. Sempre um dia antes voc=C3=AA vai receber nesse email os links que d=C3=
+=A3o acesso as salas de transmiss=C3=A3o das palestras do pr=C3=B3ximo dia.=
+=20
+Caso n=C3=A3o receba o email entre de imediato em contato conosco pedindo o=
+s links, n=C3=A3o esque=C3=A7a de dar uma olhada na caixa de spam ou lixo. =
+A conex=C3=A3o de internet ideal seria no m=C3=ADnimo de 3mb de velocidade =
+para o funcionamento perfeito da palestra.
+Menos que isso pode ocorrer travamento.=C2=A0Durante a palestra feche todas=
+ janelas do navegador, poss=C3=ADveis downloads ou qualquer fato que possa =
+sobrecarregar a conex=C3=A3o.=20
+Deixando apenas a p=C3=A1gina da transmiss=C3=A3o. Cada Palestra iniciar=C3=
+=A1 com um contador de 3 minutos para dar tempo das pessoas entrarem na sal=
+a.
+O primeiro dia de palestra ser=C3=A1 na quarta que vem, na ter=C3=A7a ser=
+=C3=A1 enviado o email com os links e assim todos os dias subsequentes. Tam=
+b=C3=A9m colocaremos os links no grupo oficial do congresso no facebook se =
+voc=C3=AA ainda n=C3=A3o est=C3=A1 l=C3=A1 Clique Aqui para entrar.
+No nosso App tamb=C3=A9m haver=C3=A1 um bot=C3=A3o que dar=C3=A1 acesso aos=
+ links, portanto se voc=C3=AA ainda n=C3=A3o baixou nosso Aplicativo, n=C3=
+=A3o perde tempo, vai na Google play ou na Apple Store digite "Agroecoweb" =
+e baixe no seu celular.
+Bom eu acho que =C3=A9 isso, se tu tiver alguma d=C3=BAvida n=C3=A3o hesite=
+ em me mandar um email, estou aqui pra te ajudar...ok?
+Sauda=C3=A7=C3=B5es Agroecol=C3=B3gicas
+F=C3=A1bio Mariani=0D=0D
+
+
+
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+Caso n=C3=A3o queira mais receber meus e-mails, acesse esse link. (Unsubscr=
+ibe).
+
+
+Enviado com amor por leadlovers Lead Lovers=20
+
+
+--_9900B047-F322-4FCC-8D84-5B70B0540D1C_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dutf-8"><meta name=3DGenerator content=3D"Microsoft=
+ Word 15 (filtered medium)"><!--[if !mso]><style>v\:* {behavior:url(#defaul=
+t#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DES-BO link=3Dblue vlink=3D"#954F72"><div cla=
+ss=3DWordSection1><p class=3DMsoNormal>Mediante la presente agradezco forma=
+r parte de este congreso, agradecer=C3=ADa que los links me los env=C3=ADen=
+ a mi correo para poder estar bien informado y participar de manera activa =
+en los mismos.</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoN=
+ormal>Atte.=C2=A0 Gustavo Ben=C3=ADtez =C3=81lvarez</p><p class=3DMsoNormal=
+><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Enviado desde <a href=3D"https:/=
+/go.microsoft.com/fwlink/?LinkId=3D550986">Correo</a> para Windows 10</p><p=
+ class=3DMsoNormal><o:p>&nbsp;</o:p></p><div style=3D'mso-element:para-bord=
+er-div;border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm=
+'><p class=3DMsoNormal style=3D'border:none;padding:0cm'><b>De: </b><a href=
+=3D"mailto:instituto@agriverdes.com.br">Instituto Agriverdes</a><br><b>Envi=
+ado: </b>jueves, 28 de septiembre de 2017 06:20 p.m.<br><b>Para: </b><a hre=
+f=3D"mailto:tavofor3@gmail.com">tavofor3@gmail.com</a><br><b>Asunto: </b>IM=
+PORTANTE - INSTRU=C3=87=C3=95ES PARA O CONGRESSO</p></div><p class=3DMsoNor=
+mal><o:p>&nbsp;</o:p></p><div align=3Dcenter><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0><tr><td style=3D'padding:0cm 0cm=
+ 0cm 0cm'><table class=3DMsoNormalTable border=3D0 cellspacing=3D3 cellpadd=
+ing=3D0 style=3D'max-width:487.5pt;background:white'><tr><td style=3D'paddi=
+ng:15.0pt 15.0pt 15.0pt 15.0pt'><p class=3DMsoNormal><strong><span style=3D=
+'font-size:14.0pt;font-family:"Calibri",sans-serif'>Ol=C3=A1 </span></stron=
+g><strong><span style=3D'font-size:14.0pt;font-family:"Trebuchet MS",sans-s=
+erif'>Gustavo Benitez<span style=3D'color:#1D2129'>.</span></span></strong>=
+<strong><span style=3D'font-size:14.0pt;font-family:"Calibri",sans-serif'>&=
+nbsp;Tudo bem por ai???</span></strong></p><p><strong><span style=3D'font-s=
+ize:12.0pt;font-family:"Calibri",sans-serif;color:navy'>Aqui estamos a todo=
+ vapor, as palestras j=C3=A1 chegaram e estamos subindo para a plataforma. =
+Posso te dizer que esse ano superamos todas as expectativas de p=C3=BAblico=
+, de qualidade das palestras, dos palestrantes, dos cursos e muito mais. </=
+span></strong></p><p><strong><span style=3D'font-size:12.0pt;font-family:"C=
+alibri",sans-serif;color:navy'>Se eu pudesse te dar um conselho...</span></=
+strong><b><span style=3D'font-size:12.0pt;color:navy'><br><br><strong><span=
+ style=3D'font-family:"Calibri",sans-serif'>Eu diria pra voc=C3=AA n=C3=A3o=
+ perder por nada esse congresso. Falando nisso vamos conversar um pouco sob=
+re a din=C3=A2mica dele...</span></strong></span></b></p><p><strong><span s=
+tyle=3D'font-size:12.0pt;font-family:"Calibri",sans-serif;color:navy'>O con=
+gresso vai ocorrer do dia 04/10 ao dia 10/10, todos os dias haver=C3=A1 5 p=
+alestras (8h, 10h, 16h, 18h e 21h), no hor=C3=A1rio de bras=C3=ADlia. Sempr=
+e um dia antes voc=C3=AA vai receber nesse email os links que d=C3=A3o aces=
+so as salas de transmiss=C3=A3o das palestras do pr=C3=B3ximo dia. </span><=
+/strong></p><p><strong><span style=3D'font-size:12.0pt;font-family:"Calibri=
+",sans-serif;color:navy'>Caso n=C3=A3o receba o email entre de imediato em =
+contato conosco pedindo os links, n=C3=A3o esque=C3=A7a de dar uma olhada n=
+a caixa de spam ou lixo. A conex=C3=A3o de internet ideal seria no m=C3=ADn=
+imo de 3mb de velocidade para o funcionamento perfeito da palestra.</span><=
+/strong></p><p><strong><span style=3D'font-size:12.0pt;font-family:"Calibri=
+",sans-serif;color:navy'>Menos que isso pode ocorrer travamento.&nbsp;Duran=
+te a palestra feche todas janelas do navegador, poss=C3=ADveis downloads ou=
+ qualquer fato que possa sobrecarregar a conex=C3=A3o. </span></strong></p>=
+<p><strong><span style=3D'font-size:12.0pt;font-family:"Calibri",sans-serif=
+;color:navy'>Deixando apenas a p=C3=A1gina da transmiss=C3=A3o. Cada Palest=
+ra iniciar=C3=A1 com um contador de 3 minutos para dar tempo das pessoas en=
+trarem na sala.</span></strong></p><p><strong><span style=3D'font-size:12.0=
+pt;font-family:"Calibri",sans-serif;color:navy'>O primeiro dia de palestra =
+ser=C3=A1 na quarta que vem, na ter=C3=A7a ser=C3=A1 enviado o email com os=
+ links e assim todos os dias subsequentes. Tamb=C3=A9m colocaremos os links=
+ no grupo oficial do congresso no facebook se voc=C3=AA ainda n=C3=A3o est=
+=C3=A1 l=C3=A1 <a href=3D"http://www.congresso.agroecoweb.com.br/redirect/r=
+edirect.aspx?A=3DR&amp;l=3DE810F883-3EEE-477F-8D6B-64267791AD58&amp;u=3D249=
+1a73b-fe7e-4538-83cf-3709080f643b" target=3D"_blank"><span style=3D'color:n=
+avy'>Clique Aqui</span></a> para entrar.</span></strong></p><p><strong><spa=
+n style=3D'font-size:12.0pt;font-family:"Calibri",sans-serif;color:navy'>No=
+ nosso App tamb=C3=A9m haver=C3=A1 um bot=C3=A3o que dar=C3=A1 acesso aos l=
+inks, portanto se voc=C3=AA ainda n=C3=A3o baixou nosso Aplicativo, n=C3=A3=
+o perde tempo, vai na Google play ou na Apple Store digite &quot;Agroecoweb=
+&quot; e baixe no seu celular.</span></strong></p><p><strong><span style=3D=
+'font-size:12.0pt;font-family:"Calibri",sans-serif;color:navy'>Bom eu acho =
+que =C3=A9 isso, se tu tiver alguma d=C3=BAvida n=C3=A3o hesite em me manda=
+r um email, estou aqui pra te ajudar...ok?</span></strong></p><p><strong><s=
+pan style=3D'font-size:12.0pt;font-family:"Calibri",sans-serif;color:green'=
+>Sauda=C3=A7=C3=B5es Agroecol=C3=B3gicas</span></strong></p><p><strong><spa=
+n style=3D'font-size:12.0pt;font-family:"Calibri",sans-serif;color:navy'>F=
+=C3=A1bio Mariani</span></strong></p></td></tr></table></td></tr></table></=
+div><p class=3DMsoNormal><span style=3D'font-size:10.0pt'><o:p>&nbsp;</o:p>=
+</span></p><p class=3DMsoNormal><span style=3D'font-size:10.0pt'><img borde=
+r=3D0 width=3D566 height=3D1 style=3D'width:5.9in;height:.0083in' id=3D"Hor=
+izontal_x0020_Line_x0020_1" src=3D"cid:image002.png@01D3390B.32A9AB00"></sp=
+an><span style=3D'font-size:10.0pt'><o:p></o:p></span></p><p class=3DMsoNor=
+mal><span style=3D'font-size:10.0pt'><br><br>Rua Joaquim Alves Taveira 1615=
+ - Dourados - MS - 79824100<br>Caso n=C3=A3o queira mais receber meus e-mai=
+ls, <a href=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.asp=
+x?A=3DU&amp;u=3D2491a73b-fe7e-4538-83cf-3709080f643b" target=3D"_blank">ace=
+sse esse link. (Unsubscribe)</a>.<br><br></span><span style=3D'font-size:10=
+.0pt'><img border=3D0 width=3D2 height=3D2 style=3D'width:.0166in;height:.0=
+166in' id=3D"_x0000_i1025" src=3D"http://www.congresso.agroecoweb.com.br/re=
+direct/redirect.aspx?A=3DV&amp;u=3D2491a73b-fe7e-4538-83cf-3709080f643b&amp=
+;IMG=3D2491a73b-fe7e-4538-83cf-3709080f643b.png" alt=3D"http://www.congress=
+o.agroecoweb.com.br/redirect/redirect.aspx?A=3DV&amp;u=3D2491a73b-fe7e-4538=
+-83cf-3709080f643b&amp;IMG=3D2491a73b-fe7e-4538-83cf-3709080f643b.png"></sp=
+an><span style=3D'font-size:10.0pt'><br>Enviado com amor por leadlovers <a =
+href=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR=
+&amp;l=3DA6A1F6A0-1F94-4170-B541-EB857C987253&amp;u=3D2491a73b-fe7e-4538-83=
+cf-3709080f643b">Lead Lovers</a> <o:p></o:p></span></p><p class=3DMsoNormal=
+><o:p>&nbsp;</o:p></p></div></body></html>=
+
+--_9900B047-F322-4FCC-8D84-5B70B0540D1C_--
+
+--_6D1EE181-C347-482C-BC54-2A0544A87013_
+Content-Type: image/png; name="53E416DFDC5D4BCB9943178F8AE4092A.png"
+Content-ID: <image002.png@01D3390B.32A9AB00>
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="53E416DFDC5D4BCB9943178F8AE4092A.png"
+
+iVBORw0KGgoAAAANSUhEUgAAAsQAAAABCAYAAAGu6Ig7AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAApSURBVEhLY9h/9vb/UUxbPBrINMajATyKhzwe
+TcSjeBSP4lE8oPj2fwCdsWaglWnIHAAAAABJRU5ErkJggg==
+
+--_6D1EE181-C347-482C-BC54-2A0544A87013_--
+

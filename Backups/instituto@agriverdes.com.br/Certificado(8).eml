@@ -1,0 +1,83 @@
+Return-Path: <waninha.ban@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id cBW+ETSI+Fk0pwkAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 31 Oct 2017 12:27:00 -0200
+Return-path: <waninha.ban@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 31 Oct 2017 12:27:00 -0200
+Received: from mail-qt0-f194.google.com ([209.85.216.194]:56515)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <waninha.ban@gmail.com>)
+	id 1e9XVM-002fxp-3w
+	for instituto@agriverdes.com.br; Tue, 31 Oct 2017 12:27:00 -0200
+Received: by mail-qt0-f194.google.com with SMTP id z28so20881369qtz.13
+        for <instituto@agriverdes.com.br>; Tue, 31 Oct 2017 07:26:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=date:subject:message-id:importance:from:to:mime-version;
+        bh=WU/3BfAWA6Vk18eLvEONmssNjevh+0bJKTCOZqaQoxI=;
+        b=h35g84OpNN7sYiwP+bOAMKMfCCvOWHtxaOamtJW8rz2Br+YdgNQVRV0H0EvScEkR1T
+         1KDpnOuMmxXcvHwTwX/AiuvY7MpZb8IEJxrb9KUBp3So7CRqkGJUTCp+6XISnqdlKGAN
+         HL5xYgfiu5iz6j2ZUsN/gn5QmGQiM4+0rI8OFJ7YSM1DK9XkzaoYltZfnLQTxioD4qwv
+         LxYGatUkoZodeVp1nZmYlz9qWasFQL31KozjQ2tNw25RxQqMg7twOdZRO8bTkgEckq69
+         chIe5yLFULB/XEv5RMGhoTjmGWvYBUxEi8vVhwzFmZzSTF7dCTYdx1R1fUD/3coy1Fe6
+         JflA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:date:subject:message-id:importance:from:to
+         :mime-version;
+        bh=WU/3BfAWA6Vk18eLvEONmssNjevh+0bJKTCOZqaQoxI=;
+        b=s9TlK4Mhar/ym7RxbpBTlCnna9Rfx9RsPCPHsnaCCyIWwxFJZW3sxBuuNEAYD8XNjO
+         dqx/yJ63XvjtDiW3nLE09i2N5apDoQGslaP8uzd3MWSnL0uQPKbamAipeIpnPSI3iqEq
+         LHsBtpJEi5M+JnnHgTIQpC27S4oBsk+XcGlZE/SFsqtHAvSn8G+uZeIXpDBKkGFaNfeo
+         iP+2MPC0QVbET5nJECVf/ybb6pjAkiX8EhYZHKAMJyd7Y+xdbKkFwT4XtIpccLENKinM
+         ej/tHqJM8DSIv2844T6L4hNHbNyL6AHJkaFzS6IcV/pLBMtAKwUxxqNo8uMdVqng4MDI
+         be/A==
+X-Gm-Message-State: AMCzsaXgtjRf/e5QLaYi4SSPhe3OF/xP+g+FA3xwkiAetplfmkVCz6nu
+	X47/dtLDicfrd8z832YShH+xenUG
+X-Google-Smtp-Source: ABhQp+SoMwjijsoYOtJZ0rOTP5Vzsx6SCl1aaTQyQ60UeF/Ue0mdD8ZnAOI2cdXO3BhDryggj7MO0A==
+X-Received: by 10.200.63.167 with SMTP id d36mr3228919qtk.7.1509459978166;
+        Tue, 31 Oct 2017 07:26:18 -0700 (PDT)
+Received: from [10.0.0.103] ([186.243.81.159])
+        by smtp.gmail.com with ESMTPSA id n31sm953841qtf.62.2017.10.31.07.26.15
+        for <instituto@agriverdes.com.br>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 31 Oct 2017 07:26:17 -0700 (PDT)
+Date: Tue, 31 Oct 2017 12:26:12 -0200
+Subject: Certificado
+Message-ID: <ii7b6d2l5wlbi1ofr9vswusq.1509459972476@email.android.com>
+Importance: normal
+From: waninha <waninha.ban@gmail.com>
+To: instituto@agriverdes.com.br
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.samsung.android.email_109009523949010"
+
+----_com.samsung.android.email_109009523949010
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CgpCb2EgdGFyZGUhIVBhcnRpY2lwZWkgZG8gY29uZ3Jlc3NvIGUgbsOjb8KgIGNvbnNlZ3VpIGZh
+emVyIHBlbG8gbGluayBhdGUgZXNzYSBkYXRhIGEgc29saWNpdGHDp8OjbyBkbyBtZXUgY2VydGlm
+aWNhZG8uIEdvc3RhcmlhIHBvciBmYXZvciBkZSBmYXrDqi1sbyBwb3IgYWtpLgpTZW0gbWFpcywg
+YWdyYWRlw6dvIGEgYXRlbsOnw6NvIQpFbnZpYWRvIGRvIG1ldSBzbWFydHBob25lIFNhbXN1bmcg
+R2FsYXh5Lg==
+
+----_com.samsung.android.email_109009523949010
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keT48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxi
+cj48L2Rpdj48ZGl2PkJvYSB0YXJkZSEhPC9kaXY+PGRpdj5QYXJ0aWNpcGVpIGRvIGNvbmdyZXNz
+byBlIG7Do28mbmJzcDsgY29uc2VndWkgZmF6ZXIgcGVsbyBsaW5rIGF0ZSBlc3NhIGRhdGEgYSBz
+b2xpY2l0YcOnw6NvIGRvIG1ldSBjZXJ0aWZpY2Fkby4gR29zdGFyaWEgcG9yIGZhdm9yIGRlIGZh
+esOqLWxvIHBvciBha2kuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5TZW0gbWFpcywgYWdyYWRl
+w6dvIGEgYXRlbsOnw6NvITwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXYgaWQ9ImNvbXBvc2VyX3Np
+Z25hdHVyZSI+PGRpdiBzdHlsZT0iZm9udC1zaXplOjg1JTtjb2xvcjojNTc1NzU3IiBkaXI9ImF1
+dG8iPkVudmlhZG8gZG8gbWV1IHNtYXJ0cGhvbmUgU2Ftc3VuZyBHYWxheHkuPC9kaXY+PC9kaXY+
+PC9ib2R5PjwvaHRtbD4=
+
+----_com.samsung.android.email_109009523949010--
+

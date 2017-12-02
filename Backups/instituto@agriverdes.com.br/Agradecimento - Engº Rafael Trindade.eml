@@ -1,0 +1,138 @@
+Return-Path: <eng.raf7@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br (Dovecot) with LMTP id MRSVF/IlpFmBUwEAVsPpow
+	for <instituto@agriverdes.com.br>; Mon, 28 Aug 2017 11:17:22 -0300
+Return-path: <eng.raf7@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Mon, 28 Aug 2017 11:17:22 -0300
+Received: from mail-it0-f41.google.com ([209.85.214.41]:36349)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <eng.raf7@gmail.com>)
+	id 1dmKqw-000U0b-5t
+	for instituto@agriverdes.com.br; Mon, 28 Aug 2017 11:17:22 -0300
+Received: by mail-it0-f41.google.com with SMTP id o132so2547558itc.1
+        for <instituto@agriverdes.com.br>; Mon, 28 Aug 2017 07:17:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=XEuCrqrKlHDO9Mdls73BHru1Cfj/GqM3+kRulpktilA=;
+        b=cSnk1kBcGd4x2E/N52q4RcLWz87zHL+jvUKOO5LlHME0pXFgviRVL714BMDB4gF9or
+         gGAAdsrvKu7gg1lohT1GMuhNGNCOcrlp93/hsp7tkzF4/YD9IDXBVkgJWTzgt6zhMftc
+         t1MRwe2ngHVwTt1gOshsEXVD76yYAUBIILaE5/bTJKei8mdvezHeCW7hCaGXzmqjgyXJ
+         b6p88w8WKelojVV2DiT55t5HXF2YpCWgacBxelB3MBmo9CHGX9AZmvMl4+sGJzQZTRCt
+         C4ml8EAWLqg9EPaEtoC07GJQtPtDs+7yaPi6Ae/6phHyPROeX7d1u4tzQEiykl2ghgMa
+         I+dw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=XEuCrqrKlHDO9Mdls73BHru1Cfj/GqM3+kRulpktilA=;
+        b=f2rKdC84YMBvyQy0zMKzloIH3Q7SI98QNirkH1FtA3yDJPvExYxrsYKafWXFthSksI
+         /X26kK34buTmHipKIZwIpZny1byzItRWnDLemutoMS1Ie0hVeHw+6bhSiccm1pxuoI+p
+         3bg0mF6o3QLCCb+qmErUTYoBC1dQtWvgkSexWHDsfcHV6UnvFjFl+oPzHMntcPp+DZSV
+         4pzxo/HUeXP7ErjGWo3VKz6XXtv3+CZFTmrhdeLrRmoroRA+bxV+hiqQKhoXt4+ui5VW
+         LRZUPukFp5YcxUFCgD+0ltGGO0AoJOLqjuRJi0mbc3KuOVotsw6bMgy0AbR/pD04J96h
+         1zcA==
+X-Gm-Message-State: AHYfb5gt1sQUSqvRodNN+N4X5AtRg8SbUhDzqgYEOElkIVBmLUWSmhCx
+	1j+37NGImYi8vjne6sZg5eU3fBbcDQ==
+X-Google-Smtp-Source: ADKCNb5WBRm26ZlG/dt9IA5TeR3wJbzExre+jF3THTE9jToh6ox+Q+SMbr9Vrt3lhtyrLJZ5F9makHS/04k5B53P3A0=
+X-Received: by 10.36.165.69 with SMTP id w5mr731651iti.28.1503929799239; Mon,
+ 28 Aug 2017 07:16:39 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.2.50.24 with HTTP; Mon, 28 Aug 2017 07:16:38 -0700 (PDT)
+From: Rafael Trindade <eng.raf7@gmail.com>
+Date: Mon, 28 Aug 2017 11:16:38 -0300
+Message-ID: <CA+yUO9SPgb03MwtYzJu2RSact=ssA+ZfNR_82LBg7CyVADRZfA@mail.gmail.com>
+Subject: =?UTF-8?Q?Agradecimento_=2D_Eng=C2=BA_Rafael_Trindade?=
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="f403045fb750736c6f0557d0f15f"
+
+--f403045fb750736c6f0557d0f15f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Prezados,
+
+Gostaria de agradecer muito pela confirma=C3=A7=C3=A3o de inscri=C3=A7=C3=
+=A3o do evento.
+
+Bem, meu nome =C3=A9 Rafael Trindade , tenho 26 anos , sou engenheiro ambie=
+ntal
+formado em 2015. Antes de terminar o curso tive a brilhante ou n=C3=A3o ide=
+ia de
+montar uma equipe de consultoria ambiental com tr=C3=AAs amigos meus , tamb=
+=C3=A9m
+engenheiros ambientais, criamos uma pagina no facebook pra divulgar nossos
+servi=C3=A7os. A pagina ainda existe, no entanto, apenas eu perseverei em
+continuar na =C3=A1rea ambiental como empreendedor consultor. tenho tido mu=
+ita
+dificuldade em encontrar clientes. Sei que o momento que vivemos no Brasil
+=C3=A9 ainda de muita instabilidade, politica e econ=C3=B4mica. Mas, tamb=
+=C3=A9m entendo
+que esse =C3=A9 o momento mais propicio pra que a inova=C3=A7=C3=A3o aconte=
+=C3=A7a e o
+Congresso Agro Web 2017 tem muito a contribuir com a minha vida. Acredito
+que a vida n=C3=A3o =C3=A9 s=C3=B3 dinheiro. Precisamos ajudar as pessoas c=
+om o nosso
+conhecimento pra que a vida delas seja melhor e mais agrad=C3=A1vel, mesmo
+sabendo que n=C3=A3o d=C3=A1 pra extirpar os males da sociedade.
+
+Eu realmente tenho muita expectativa a respeito do AgroWeb 2017, embora
+seja minha primeira vez no evento.
+
+Mais uma vez agrade=C3=A7o a oportunidade de participar.
+
+Att,
+
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>
+Livre
+de v=C3=ADrus. www.avast.com
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>.
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+--f403045fb750736c6f0557d0f15f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Prezados,=C2=A0<div><br></div><div>Gostaria de agradecer m=
+uito pela confirma=C3=A7=C3=A3o de inscri=C3=A7=C3=A3o do evento.</div><div=
+><br></div><div>Bem, meu nome =C3=A9 Rafael Trindade , tenho 26 anos , sou =
+engenheiro ambiental formado em 2015. Antes de terminar o curso tive a bril=
+hante ou n=C3=A3o ideia de montar uma equipe de consultoria ambiental com t=
+r=C3=AAs amigos meus , tamb=C3=A9m engenheiros ambientais, criamos uma pagi=
+na no facebook pra divulgar nossos servi=C3=A7os. A pagina ainda existe, no=
+ entanto, apenas eu perseverei em continuar na =C3=A1rea ambiental como emp=
+reendedor consultor. tenho tido muita dificuldade em encontrar clientes. Se=
+i que o momento que vivemos no Brasil =C3=A9 ainda de muita instabilidade, =
+politica e econ=C3=B4mica. Mas, tamb=C3=A9m entendo que esse =C3=A9 o momen=
+to mais propicio pra que a inova=C3=A7=C3=A3o aconte=C3=A7a e o Congresso A=
+gro Web 2017 tem muito a contribuir com a minha vida. Acredito que a vida n=
+=C3=A3o =C3=A9 s=C3=B3 dinheiro. Precisamos ajudar as pessoas com o nosso c=
+onhecimento pra que a vida delas seja melhor e mais agrad=C3=A1vel, mesmo s=
+abendo que n=C3=A3o d=C3=A1 pra extirpar os males da sociedade.=C2=A0</div>=
+<div><br></div><div>Eu realmente tenho muita expectativa a respeito do Agro=
+Web 2017, embora seja minha primeira vez no evento.</div><div><br></div><di=
+v>Mais uma vez agrade=C3=A7o a oportunidade de participar.</div><div><br></=
+div><div>Att,</div></div><div id=3D"DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><=
+br> <table style=3D"border-top:1px solid #d3d4de">
+	<tr>
+      <td style=3D"width:55px;padding-top:18px"><a href=3D"https://www.avas=
+t.com/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campaign=
+=3Dsig-email&amp;utm_content=3Dwebmail" target=3D"_blank"><img src=3D"https=
+://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-n=
+o-repeat-v1.gif" alt=3D"" width=3D"46" height=3D"29" style=3D"width: 46px; =
+height: 29px;"></a></td>
+		<td style=3D"width:470px;padding-top:17px;color:#41424e;font-size:13px;fo=
+nt-family:Arial,Helvetica,sans-serif;line-height:18px">Livre de v=C3=ADrus.=
+ <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&amp;utm_sour=
+ce=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3Dwebmail" target=3D=
+"_blank" style=3D"color:#4453ea">www.avast.com</a>. 		</td>
+	</tr>
+</table>
+<a href=3D"#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width=3D"1" height=3D"1">=
+</a></div>
+
+--f403045fb750736c6f0557d0f15f--

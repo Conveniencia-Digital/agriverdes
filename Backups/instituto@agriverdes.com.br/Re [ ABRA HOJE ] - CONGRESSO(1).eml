@@ -1,0 +1,280 @@
+Return-Path: <nobrea1@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id MBh7N3Fj1Vkv8gYAVsPpow
+	for <instituto@agriverdes.com.br>; Wed, 04 Oct 2017 19:40:49 -0300
+Return-path: <nobrea1@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Wed, 04 Oct 2017 19:40:49 -0300
+Received: from mail-oln040092001086.outbound.protection.outlook.com ([40.92.1.86]:28159 helo=NAM01-BY2-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <nobrea1@hotmail.com>)
+	id 1dzsLR-001urD-Gj
+	for instituto@agriverdes.com.br; Wed, 04 Oct 2017 19:40:49 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=LjvGmRtI5ev0iNRdYesXfUeYd8Bg0DfG5x2+1GoDQDE=;
+ b=ihHCWnMXi/cgJYe1tgI9VWOO8HZuvrtZc9xQxGxUlOFj2ttIdXiVpYGOQvnTbgRQRBplSvTQe4JS6+/e/wG4aHYKDayLmO+GV27oab2kuDAGeL32kWRNmhYA0enul1GpXWfK9ZPxEPvjbCp3uHch9GdXyDDcodY94q9XowPoQAgoebz5EfuqVuLZhmVADdQdxgk3c2A0nj2HlkmBYkWGYs6+rIbbipEHAmkKL0JNC6afe5pDtjvzEJuERD/xgv8wrlQc92MVPfIHhX7Lvu040pnCVaNEi+XdR+55hR71BbnA9Z9cz1jZdtzDut7ECnqCQSRhl1pwhhNDoKP86oHujw==
+Received: from BY2NAM01FT060.eop-nam01.prod.protection.outlook.com
+ (10.152.68.56) by BY2NAM01HT135.eop-nam01.prod.protection.outlook.com
+ (10.152.68.85) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.56.11; Wed, 4 Oct
+ 2017 22:40:04 +0000
+Received: from MWHPR2001MB1117.namprd20.prod.outlook.com (10.152.68.51) by
+ BY2NAM01FT060.mail.protection.outlook.com (10.152.68.214) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.77.10 via Frontend Transport; Wed, 4 Oct 2017 22:40:04 +0000
+Received: from MWHPR2001MB1117.namprd20.prod.outlook.com ([10.172.101.8]) by
+ MWHPR2001MB1117.namprd20.prod.outlook.com ([10.172.101.8]) with mapi id
+ 15.20.0077.018; Wed, 4 Oct 2017 22:40:04 +0000
+From: Andrea Nobre <nobrea1@hotmail.com>
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Subject: Re: [ ABRA HOJE ] - CONGRESSO
+Thread-Topic: [ ABRA HOJE ] - CONGRESSO
+Thread-Index: AQHTMM/KA0X4k48GbkORc01K4u9lUaLUYbW8
+Date: Wed, 4 Oct 2017 22:40:03 +0000
+Message-ID: <MWHPR2001MB1117649B78A85A5530B4436AEB730@MWHPR2001MB1117.namprd20.prod.outlook.com>
+References: <eWymG8yJSbWch94X8wRlmg@ismtpd0003p1lon1.sendgrid.net>
+In-Reply-To: <eWymG8yJSbWch94X8wRlmg@ismtpd0003p1lon1.sendgrid.net>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:5B38098931016460553FCBF1F17DA88F2A4B73512CFC942CCED65BB4FD07F093;UpperCasedChecksum:11868F97657AC94955DD40E80253F3A8C32E2BAC2D3717A06EBF93BC2FFF5D53;SizeAsReceived:6984;Count:46
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [E63HqoIjYKLvI3sjfob3HCYPwY8Eg71C]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY2NAM01HT135;6:CFErjqzn0YIMjucgqbZMEbt+FmhXD/IX/LkacFsIw7ZipGiF7/S/iLygETzHNn+TzpDO57AoUpafG0ghyz+d1QCcNu6zzeWvEPgT7F+c2xYdUyLsx+joH107pIxDqTVh76LhLuP+L3oNAKFAY107Z69r9Bq1TcJPzBELFOrqRvi2zMSdIxYu0X3Z936sBVyOc0rJV5Id5TYv3X6+xH48wLwZl4J61XQ1F00Tujb6m5rK2U4i4CEOno6euPJbgY6dL8AoxcLhaAlMpmEl0LMHCmnEpRvzzwluoxiy018yk11Z/htKJjEfO7k4CuAeXrrGT1i3R+MWh3K6vqrGiXOcNQ==;5:h7KPr2WPYC6R9QYDG5KSrXXh8in4NQ9FHylZIOD6gmCNUjZDy4/Gq4BB5P4JeO3HkN9Fw2+bR6dwkXYzzLtSrNx/bJWNioUi520WUlRMVOSLEGOxu9suqZO30+ZPJOqFd2iScD4XYMTTjjVMPwsyTg==;24:Cq7qRZxT8elnCmEVn6uGcLIeIx+36qX1z/EzsgEmYvXR/F9M6EqS0YuwGrOxwGmlrBBg5b0y24h62Shnq12uZ21s2ZBBxq4VsIPe5nxEiBI=;7:KdMu1DddZ7/TVzoFZh/K8uhoasEO8xFvEUytWJQ3KNqcgtutU8KgoY9ZmPt2t2wrF3FrHmfN2YmEnKlBZHqyfylYeGlhIQT+tddWh2ucfcrHOls60gHIDwSZHa9Xy0Ac16W/+76f5Gce6rKu5MpF0rJ2mP8NAJW4+1K8hdyQz3VEXjC8m7n7AIzgcE/xyfdd0UU2W3lTzRvsbHKAV+xI9Mh3Zy20l8++G81FGw7+iyc=
+x-incomingheadercount: 46
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: dd7850cb-1166-46db-e80b-08d50b78daf4
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:BY2NAM01HT135;
+x-ms-traffictypediagnostic: BY2NAM01HT135:
+x-exchange-antispam-report-test: UriScan:(166494164430575)(194151415913766);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:BY2NAM01HT135;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BY2NAM01HT135;
+x-forefront-prvs: 0450A714CB
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:BY2NAM01HT135;H:MWHPR2001MB1117.namprd20.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MWHPR2001MB1117649B78A85A5530B4436AEB730MWHPR2001MB1117_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 04 Oct 2017 22:40:03.9007
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM01HT135
+
+--_000_MWHPR2001MB1117649B78A85A5530B4436AEB730MWHPR2001MB1117_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+N=E3o recebi o link paa entrar no congresso.
+
+
+Enviado do Outlook<http://aka.ms/weboutlook>
+
+
+________________________________
+De: Instituto Agriverdes <instituto@agriverdes.com.br>
+Enviado: segunda-feira, 18 de setembro de 2017 19:45
+Para: nobrea1@hotmail.com
+Assunto: [ ABRA HOJE ] - CONGRESSO
+
+Ol=E1  Andrea Nobre Regina Nunes Pereira. T=E1 tudo bem?? Trago  boas novas=
+...
+
+Taaa chegandddooo a horaaa!!!!
+
+Falta pouco pra come=E7ar esse baita congresso e olha tenho pra te dizer qu=
+e tem cada Palestra imperd=EDvel. Esse ano o pessoal caprichou, vamos ter m=
+uitas palestras pr=E1ticas gravadas no campo ( tem uma incr=EDvel vinda l=
+=E1 da China ), trazendo o melhor da Agroecologia e da Permacultura.
+
+Fica ligado hein!!??!
+
+A partir de agora manteremos contato ass=EDduo por aqui, sugiro que coloque=
+ nosso email nos favoritos da sua caixa de emails para n=E3o correr o risco=
+ de nenhum email ir para o lixo ou caixa de spam, j=E1 que =E9 por aqui tam=
+b=E9m que vou te mandar os emails com os links das salas de transmiss=E3o. =
+Na semana que vem vou te mandar um email explicando melhor essa din=E2mica =
+do congresso, t=E1?
+
+Agora vamos a boa nova... acabou de sair do formo o aplicativo do congresso=
+ ( AgroecoWeb App ) e t=E1 dimaisss, tem muita coisa legal l=E1, biblioteca=
+ virtual, videoteca, radioweb, galeria de =E1udios para as suas caminhadas =
+e muitas mais.
+
+N=E3o perde essa n=E9, vai agora no Google Play ( se for Android) ou Apple =
+Store ( se for Iphone ) do seu celular e digita "AgroecoWeb" que vai ter a =
+op=E7=E3o para voc=EA instalar.
+
+Por l=E1 eu tamb=E9m vou te avisar das palestras e voc=EA n=E3o vai perder =
+nenhuma.
+
+Combinado??? Beleza te vejo essa semana ainda...
+
+Sauda=E7=F5es Agroecol=F3gicas
+
+F=E1bio Mariani
+
+
+
+
+
+________________________________
+
+
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+Caso n=E3o queira mais receber meus e-mails, acesse esse link. (Unsubscribe=
+)<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&u=3Dc=
+d42f1e3-3ffa-4f43-9761-7c260e2cd938>.
+
+[http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DV&u=3Dcd=
+42f1e3-3ffa-4f43-9761-7c260e2cd938&IMG=3Dcd42f1e3-3ffa-4f43-9761-7c260e2cd9=
+38.png]
+Enviado com amor por leadlovers Lead Lovers<http://www.congresso.agroecoweb=
+.com.br/redirect/redirect.aspx?A=3DR&l=3DE9C03FCD-2985-4AB3-94B2-3203812705=
+BA&u=3Dcd42f1e3-3ffa-4f43-9761-7c260e2cd938>
+
+--_000_MWHPR2001MB1117649B78A85A5530B4436AEB730MWHPR2001MB1117_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>N=E3o recebi o link paa entrar no congresso.</p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<p>Enviado do <a href=3D"http://aka.ms/weboutlook" id=3D"LPNoLP">Outlook</a=
+><br>
+</p>
+</div>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>De:</b> Instituto Agriverdes &l=
+t;instituto@agriverdes.com.br&gt;<br>
+<b>Enviado:</b> segunda-feira, 18 de setembro de 2017 19:45<br>
+<b>Para:</b> nobrea1@hotmail.com<br>
+<b>Assunto:</b> [ ABRA HOJE ] - CONGRESSO</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D"LLCentere=
+dColumn" style=3D"border:none">
+<tbody>
+<tr>
+<td style=3D"border:none">
+<table class=3D"table01 k-table" style=3D"background-color:#ffffff; margin:=
+auto; width:100%; max-width:650px">
+<tbody>
+<tr>
+<td id=3D"LLCenteredColumn01" style=3D"border:none; margin:0px; padding:20p=
+x; text-align:left; white-space:normal">
+<h3 style=3D"line-height:22.5px; font-size:18px; font-family:Helvetica; fon=
+t-weight:bold; margin:0px 0px 5px; padding:0px; letter-spacing:-0.5px; colo=
+r:#606060">
+<span style=3D"color:#000000">Ol=E1 &nbsp;<span style=3D"line-height:1.4285=
+7; font-family:'Trebuchet MS',Helvetica,sans-serif">Andrea Nobre Regina Nun=
+es Pereira</span><span style=3D"line-height:1.42857; font-family:'Trebuchet=
+ MS',sans-serif">.</span>&nbsp;T=E1 tudo bem?? Trago
+ &nbsp;boas novas...<br>
+</span></h3>
+<p><span style=3D"font-size:14pt">Taaa chegandddooo a horaaa!!!!</span></p>
+<p><span style=3D"font-size:14pt">Falta pouco pra come=E7ar esse baita cong=
+resso e olha tenho pra te dizer que tem cada Palestra imperd=EDvel. Esse an=
+o o pessoal caprichou, vamos ter muitas palestras pr=E1ticas gravadas no ca=
+mpo ( tem uma incr=EDvel vinda l=E1 da China
+ ), trazendo o melhor da <span style=3D"color:#008000"><strong>Agroecologia=
+ e da Permacultura.
+<br>
+</strong></span></span></p>
+<p><span style=3D"font-size:14pt">Fica ligado hein!!??! <br>
+</span></p>
+<p><span style=3D"font-size:14pt">A partir de agora manteremos contato ass=
+=EDduo por aqui, sugiro que coloque nosso email nos favoritos da sua caixa =
+de emails para n=E3o correr o risco de nenhum email ir para o lixo ou caixa=
+ de spam, j=E1 que =E9 por aqui tamb=E9m que
+ vou te mandar os emails com os links das salas de transmiss=E3o. Na semana=
+ que vem vou te mandar um email explicando melhor essa din=E2mica do congre=
+sso, t=E1?<br>
+</span></p>
+<p><span style=3D"font-size:14pt">Agora vamos a boa nova... acabou de sair =
+do formo o aplicativo do congresso
+<strong><span style=3D"color:#008000">( AgroecoWeb App )</span></strong> e =
+t=E1 dimaisss, tem muita coisa legal l=E1, biblioteca virtual, videoteca, r=
+adioweb, galeria de =E1udios para as suas caminhadas e muitas mais.
+</span></p>
+<p><span style=3D"font-size:14pt">N=E3o perde essa n=E9, vai agora no Googl=
+e Play ( se for Android) ou Apple Store ( se for Iphone ) do seu celular e =
+digita
+<strong><span style=3D"color:#008000">&quot;AgroecoWeb&quot;</span></strong=
+> que vai ter a op=E7=E3o para voc=EA instalar.
+<br>
+</span></p>
+<p><span style=3D"font-size:14pt">Por l=E1 eu tamb=E9m vou te avisar das pa=
+lestras e voc=EA n=E3o vai perder nenhuma.</span></p>
+<p><span style=3D"font-size:14pt">Combinado??? Beleza te vejo essa semana a=
+inda...<br>
+</span></p>
+<p style=3D"line-height:22.5px; margin-bottom:1.35em; font-size:15px; color=
+:#606060; font-family:Helvetica; padding-right:0px; padding-left:0px">
+<span style=3D"line-height:normal; font-family:arial,sans-serif; font-size:=
+14pt"><span style=3D"line-height:19.88px; font-family:arial,helvetica,sans-=
+serif"><span style=3D"line-height:22.72px"><strong><span style=3D"color:#00=
+8000">Sauda=E7=F5es Agroecol=F3gicas</span></strong><br>
+<br style=3D"line-height:22.72px">
+<span style=3D"color:#000000"><strong>F=E1bio Mariani</strong></span></span=
+></span></span></p>
+<p style=3D"line-height:22.5px; margin-bottom:1.35em; font-size:15px; color=
+:#606060; font-family:Helvetica; padding-right:0px; padding-left:0px">
+&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<hr>
+<br>
+<br>
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100<br>
+Caso n=E3o queira mais receber meus e-mails, <a href=3D"http://www.congress=
+o.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&amp;u=3Dcd42f1e3-3ffa-4f43=
+-9761-7c260e2cd938" target=3D"_blank">
+acesse esse link. (Unsubscribe)</a>.<br>
+<br>
+<img alt=3D"" style=3D"width: 100%; height: 5px; max-height: 5px; user-sele=
+ct: none;" src=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.=
+aspx?A=3DV&amp;u=3Dcd42f1e3-3ffa-4f43-9761-7c260e2cd938&amp;IMG=3Dcd42f1e3-=
+3ffa-4f43-9761-7c260e2cd938.png"><br>
+Enviado com amor por leadlovers <a href=3D"http://www.congresso.agroecoweb.=
+com.br/redirect/redirect.aspx?A=3DR&amp;l=3DE9C03FCD-2985-4AB3-94B2-3203812=
+705BA&amp;u=3Dcd42f1e3-3ffa-4f43-9761-7c260e2cd938">
+Lead Lovers</a> </div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_MWHPR2001MB1117649B78A85A5530B4436AEB730MWHPR2001MB1117_--

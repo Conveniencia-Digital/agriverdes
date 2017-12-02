@@ -1,0 +1,325 @@
+Return-Path: <nao-responder@mercadolivre.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br (Dovecot) with LMTP id ScXmAXKPXlkvfwMAVsPpow
+	for <instituto@agriverdes.com.br>; Thu, 06 Jul 2017 16:28:50 -0300
+Return-path: <nao-responder@mercadolivre.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Thu, 06 Jul 2017 16:28:50 -0300
+Received: from iron06-e.mercadolibre.com ([216.33.196.184]:32515)
+	by nuvem28br.hoteldaweb.com.br with esmtp (Exim 4.89)
+	(envelope-from <nao-responder@mercadolivre.com>)
+	id 1dTCSH-000zgH-Gf
+	for instituto@agriverdes.com.br; Thu, 06 Jul 2017 16:28:50 -0300
+DomainKey-Signature: s=iron05; d=mercadolivre.com; c=nofws; q=dns;
+  h=Received:Date:From:To:Message-ID:Subject:MIME-Version:
+   Content-Type;
+  b=kqAUkugzxL95tgjCF3n5UPt+Qhzt08BYGy8jdtzJA2h/A6NjyvgdnLmW
+   rNEd1rxGXB3mBahlITpdqwrOjzD5f6Lu/cA2Y6nC+i8Wt8lEl/jxdR5WV
+   PttT2l4XybOg64xTebzfr4TgRpWINMBVGttZNsgDVktd6tAFLKmadX2NL
+   o=;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mercadolivre.com; i=@mercadolivre.com; q=dns/txt;
+  s=iron05; t=1499369328; x=1530905328;
+  h=from:to:message-id:subject:mime-version:date;
+  bh=V77mDqiCUSLQwGCA4CJu0kBGxxyElCqB5gzC+KDKiGo=;
+  b=i6rq4oS0UEE7Zpp6HPN2WhhBbB96dgSgxgbsTG0T8FZjmUhzrwvSgoCi
+   q7JtmVioBllvhC/QnzSLWOsF5/2JoR6y45J6ZPcCBIRO8T2HHw5NK+zLn
+   uBXCBS5Z2e80DFPlZIuVSeey07wrHnHJ2j0unEc1rn4CRu3knUN/0f4Cq
+   o=;
+Received: from unknown (HELO e-0000af5f) ([10.34.33.123])
+  by iron06-e.mercadolibre.com with ESMTP; 06 Jul 2017 15:28:07 -0400
+Date: 06 Jul 2017 15:28:07 -0400
+From: Mercado Livre <nao-responder@mercadolivre.com>
+To: instituto@agriverdes.com.br
+Message-ID: <659575452.407080.1499369287421.JavaMail.oraweb@e-0000af5f>
+Subject: =?ISO-8859-1?Q?Boas_not=EDcias!_O_produto_qu?=
+ =?ISO-8859-1?Q?e_voc=EA_comprou_est=E1_chegando?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_407078_288207858.1499369287397"
+
+------=_Part_407078_288207858.1499369287397
+Content-Type: multipart/related; 
+	boundary="----=_Part_407079_1333845421.1499369287397"
+
+------=_Part_407079_1333845421.1499369287397
+Content-Type: text/html;charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D'http://www.w3.org/1999/xhtml'>
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+"/>
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0, minimum-scale=3D1.0, maximum-scale=3D1.0"/>
+    <meta name=3D"format-detection" content=3D"telephone=3Dno"/>
+    <meta charset=3D"utf-8"/>
+    <style type=3D'text/css'>=20
+      table, tr, td, span, a {
+        -webkit-text-size-adjust:none;
+      }
+      @media only screen and (max-width: 480px){
+        td[class=3D'logo']{
+          text-align: center &#33;important;
+        }
+      }
+    </style>
+      <script type=3D"application/ld+json">
+   {
+     "@context" : "http://schema.org",
+     "@type" : "ParcelDelivery",
+     "itemShipped" : {
+       "@type" : "Product",
+       "name" : "Mem=F3ria 4gb Ddr3 1600 Mhz (1x4gb) Veteke Pc3-12800 Pc Or=
+igin",
+       "image": "http://mlb-s2-p.mlstatic.com/988115-MLB25180605343_112016-=
+I.jpg",
+       "url" : "http://produto.mercadolivre.com.br/MLB-759362620-memoria-4g=
+b-ddr3-1600-mhz-1x4gb-veteke-pc3-12800-pc-origin-_JM"
+     },
+     "expectedArrivalFrom": "2017-07-18T00:00:00.000-0300",
+     "expectedArrivalUntil": "2017-07-20T00:00:00.000-0300",
+       "deliveryAddress" : {
+           "@type" : "PostalAddress",
+           "streetAddress" : "Joaquim Alves Taveira 1615",
+           "addressLocality" : "Dourados",
+           "addressRegion" : "Mato Grosso do Sul",
+           "postalCode" : "",
+           "addressCountry" : ""
+     },
+     "partOfOrder": {
+       "@type": "Order",
+       "orderNumber": "1415172370",
+       "orderStatus": "http://schema.org/OrderInTransit",
+       "merchant": {
+         "@type": "Organization",
+         "name": "MercadoLibre",
+         "sameAs": "http://mercadolibre.com"
+       }
+     },
+     "carrier" :{
+        "name": "MercadoLivre"
+     },
+     "trackingNumber" : "PO434269804BR",
+     "trackingUrl": "https://shipping-frontend.mercadolivre.com.br/tracking=
+?tracking_number=3DPO434269804BR&utm_source=3Demail&utm_medium=3Dshipped&ut=
+m_campaign=3DgoogleNow"
+   }
+   </script>
+
+
+
+  </head>
+  <body style=3D"padding:0">
+    <span style=3D'color:#fff;font-size:1px;display:none &#33;important;'><=
+/span>  =20
+    <table width=3D'100%' cellspacing=3D'0' cellpadding=3D'0' border=3D'0' =
+style=3D'max-width:560px'>
+      <tr>
+        <td>
+          <table width=3D'100%' cellspacing=3D'0' cellpadding=3D'0' border=
+=3D'0'>
+            <tr>
+              <td class=3D'logo' align=3D'left' style=3D'padding:10px 20px =
+15px 0'>
+                <a href=3D'http://www.mercadolivre.com.br'>
+                  <img alt=3D'MercadoLivre' border=3D'0' width=3D'132' heig=
+ht=3D'33' src=3D'https://secure.mlstatic.com/org-img/emails/logos/logo-merc=
+adolivre-new.gif'/></a>
+              </td>
+            </tr>
+            <tr>
+              <td width=3D'100%' height=3D'1' style=3D'border-top:solid 1px=
+ #E8E8E8;display:block;font-size:1px'>&nbsp;</td>
+            </tr>
+            <tr>
+              <td height=3D'30' style=3D'font-size:1px'> </td>
+            </tr>
+          </table>
+          <table width=3D'100%' cellspacing=3D'0' cellpadding=3D'0' border=
+=3D'0' style=3D'padding-right:20px'>
+            <tr valign=3D'top'>
+              <td style=3D'width:32px;padding-right:10px;vertical-align:top=
+'>
+                <img src=3D'http://static.mlstatic.com/org-img/emails/icons=
+/ico_info1.gif' width=3D'32' height=3D'32'/>
+              </td>
+              <td>
+              <span style=3D'font-size:20px;font-family:Arial;color:#3A87AD=
+;font-weight:normal;padding-top:6px;display:block'>
+                 =20
+                     =20
+                          Chegar=E1 entre os dias 18 e 20 de julho
+                     =20
+                 =20
+              </span>
+              </td>
+            </tr>
+            <tr>
+              <td height=3D'30' style=3D'font-size:1px'>&nbsp;</td>
+              <td height=3D'30' style=3D'font-size:1px'>&nbsp;</td>
+            </tr>
+          </table>
+          <table width=3D'100%' cellspacing=3D'0' cellpadding=3D'0' border=
+=3D'0' style=3D'padding-right:20px'>
+            <tr>
+              <td>
+                <span style=3D'font-family:Arial;font-size:14px;line-height=
+:18px;color:#333333;padding-right:20px;'>
+                Voc&ecirc; pode acompanhar o envio com o c&oacute;digo de r=
+astreamento <a href=3D'https://shipping-frontend.mercadolivre.com.br/tracki=
+ng?tracking_number=3DPO434269804BR' style=3D'text-decoration:none;font-fami=
+ly:Arial;color:#0637b3;'>PO434269804BR</a>.</span>
+              </td>
+            </tr>
+            <tr>
+              <td height=3D'30' style=3D'font-size:1px'>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <table width=3D'100%' cellspacing=3D'0' cellpadding=3D'0' b=
+order=3D'0'>
+                  <tr valign=3D'top'>
+                    <td style=3D'width:90px'>
+                       =20
+                        <span style=3D'border:1px solid #cccccc;display:blo=
+ck;'>
+                            <img src=3D'http://mlb-s2-p.mlstatic.com/988115=
+-MLB25180605343_112016-I.jpg' width=3D'90' height=3D'90' style=3D'display:b=
+lock'>
+                        </span>
+                    </td>
+                    <td>
+                      <table cellpadding=3D'0' cellspacing=3D'0' border=3D'=
+0'>
+                        <tr>
+                          <td style=3D'font-family:Arial; font-size:16px; c=
+olor:#333333; padding:0 20px 6px 15px'>Mem=F3ria 4gb Ddr3 1600 Mhz (1x4gb) =
+Veteke Pc3-12800 Pc Origin</td>
+                        </tr>
+                       =20
+=09                        <tr>
+=09                          <td style=3D'font-family:Arial; font-size:13px=
+; color:#666666; padding:0 20px 6px 15px'>Quantidade: 2</td>
+=09                        </tr>
+                       =20
+                        <tr>
+                          <td style=3D'font-family:Arial; font-size:16px; c=
+olor:#B22C00; padding:0 20px 0 15px'> R$ 123,90 <span style=3D'font-family:=
+Arial; font-size:13px; color:#666666;'> unid.</span></td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td height=3D'30' style=3D'font-size:1px'>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <table width=3D'100%' cellspacing=3D'0' cellpadding=3D'0' b=
+order=3D'0' style=3D'padding:0 20px 0 0'>
+                  <tr>
+                    <td style=3D'font-family:Arial; font-size:18px; color:#=
+333333;line-height:1.4;'>Dados do envio</td>
+                  </tr>
+                  <tr>
+                    <td height=3D'5' style=3D'font-size:1px'> </td>
+                  </tr>
+                  <tr>
+                    <td style=3D'font-family:Arial; font-size:14px; color:#=
+333333;line-height:1.4;'>Fabio Mariani</td>
+                  </tr>
+                  <tr>
+                    <td height=3D'3' style=3D'font-size:1px'> </td>
+                  </tr>
+                  <tr>
+                    <td style=3D'font-family:Arial; font-size:14px; color:#=
+666666;line-height:1.4;'>
+                      Tel.: 67 34230203
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height=3D'3' style=3D'font-size:1px'> </td>
+                  </tr>
+                  <tr>
+                    <td style=3D'font-family:Arial; font-size:14px; color:#=
+666666;line-height:1.4;'>
+                      Joaquim Alves Taveira 1615
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height=3D'3' style=3D'font-size:1px'> </td>
+                  </tr>
+                  <tr>
+                     <td style=3D'font-family:Arial; font-size:14px; color:=
+#666666;line-height:1.4;'>
+                       =20
+                            Dourados, Mato Grosso do Sul, CEP 79824100
+                       =20
+                     </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td height=3D'30' style=3D'font-size:1px'>&nbsp;</td>
+            </tr>
+          </table>
+          <table width=3D'100%' cellspacing=3D'0' cellpadding=3D'0' border=
+=3D'0'>
+            <tr>
+              <td>
+               =20
+                    <span style=3D'color:#333333;font-family:Arial;font-siz=
+e:14px'>Atenciosamente,</span>
+                    <br/>
+                    <span style=3D'color:#333333;font-family:Arial;font-siz=
+e:14px'>Equipe do Mercado Livre</span>
+               =20
+              </td>
+            </tr>
+            <tr>
+              <td height=3D'10' style=3D'font-size:1px'> </td>
+            </tr>
+          </table>
+          <table width=3D'100%' cellspacing=3D'0' cellpadding=3D'0' border=
+=3D'0'>
+            <tr>
+              <td width=3D'100%' style=3D'border-bottom:solid 1px #E8E8E8;d=
+isplay:block;padding-top:5px'></td>
+            </tr>
+            <tr>
+              <td style=3D'padding:10px 0 0 0'>
+                <span style=3D'color:#999999;font-size:11px;font-family:Ari=
+al'>N=E3o responda este e-mail.=20
+                <a href=3D'http://contato.mercadolivre.com.br/ajuda' style=
+=3D'text-decoration:none;font-family:Arial;color:#0637b3;'>Contato</a>.</sp=
+an>
+              </td>
+            </tr>
+            <tr>
+              <td height=3D'30' style=3D'font-size:1px'> </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  <img width=3D"1" height=3D"1" border=3D"0" style=3D"mso-hide: all !import=
+ant; display:none !important; visibility:hidden !important; opacity:0 !impo=
+rtant;" src=3D"https://www.mercadolivre.com.br/gz/emails/pixel?email_id=3D1=
+0536532590&email_template=3DSHIPPED_EMAIL&user_id=3D66289464&email_address=
+=3Dinstituto@agriverdes.com.br&site_id=3DMLB&sent_date=3D2017-07-06T15:28:0=
+7.392-04:00&v=3D2&business=3Dmercadolibre&hash=3D0a9ff9fcbcdc0a9b692b92c0d6=
+a8e8aa0f2853fb"></body>
+</html>
+<img src=3D"http://shipping-frontend.mercadolivre.com.br/notifications/pixe=
+l?source=3DSHIPPED_EMAIL&resource=3Dshipment&resource_id=3D26223483320&site=
+Id=3DMLB&hash=3Dcf95c66ea8b2744bde8a0268bec7a8c4a815050d" width=3D"1" heigh=
+t=3D"1"/>
+------=_Part_407079_1333845421.1499369287397--
+
+------=_Part_407078_288207858.1499369287397--

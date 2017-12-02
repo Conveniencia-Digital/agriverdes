@@ -1,0 +1,105 @@
+Return-Path: <chduartemaia@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id ELibMr5k1VlyAgcAVsPpow
+	for <instituto@agriverdes.com.br>; Wed, 04 Oct 2017 19:46:22 -0300
+Return-path: <chduartemaia@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Wed, 04 Oct 2017 19:46:22 -0300
+Received: from mail-io0-f170.google.com ([209.85.223.170]:54849)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <chduartemaia@gmail.com>)
+	id 1dzsQo-001w49-LB
+	for instituto@agriverdes.com.br; Wed, 04 Oct 2017 19:46:22 -0300
+Received: by mail-io0-f170.google.com with SMTP id h66so11874505ioh.11
+        for <instituto@agriverdes.com.br>; Wed, 04 Oct 2017 15:46:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=WD8k18PTn98c0BS43t/gnev29QvZXBQ3P/JfDfmma5M=;
+        b=cKzKhhvmSUMJ3NhE0kG4DTqZ6Gh+snulJ0TNBzgjr+KE4KFVbw8KcR83y5u+63KN9/
+         /iFZlu8sfJ831D0oqrC4Mqey9GzZfVU3IvSVpe8peNlX54UwDo18egQU5mwZH6RF+ms8
+         fhd9s2IxqwVGyI+6BEYTFw5YOmfUsACQCp9faiUkIc9aZflrrmpnoQ2mjVOPfqW8qlXs
+         Bcdds920kLcIQyuKnR+n1PFd1zFNBqZ6ylFoj9ToUI1XBaVwqO3C1ZE7adFuUZOKNuIw
+         NqGQ/Jx9xHjoQzkdP3qQkmwKxre78vOS7krWKJaIHcRw8uzJahgMuRiuWADkua8YszIw
+         6zwg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=WD8k18PTn98c0BS43t/gnev29QvZXBQ3P/JfDfmma5M=;
+        b=LCSrLTGlHLsbu3Nom3vtfTUJnOEWQ/DdtoI9ni8oxJOBi2bZ2LnBBEwixA5vZ2dDLa
+         QoxGelSi0EcUxrCQeBxypBjTvbOpCPMheUxbH3ppwNO8CjsFbZM34H8pidR1xYuq/1cd
+         CcwuX2zAcrX7AgPcqZaK3Q/f4wcke8JSIbK9+f0VBWynyRzjVDobXRdiBZfONXCYAAyU
+         FrqQnc4r5EPS0uKgJO8FD/3/KEkUB0LPNXwgKOFxoe0jMRl9gQVoVns8kAf1t3g+8Ilh
+         Sn4jKbwsJSVJ4lLNDRaYniLDYrRlldmk5TLPqQEJVjTiNJxLWJeDIIwEShm6r+tnc4W9
+         nbjw==
+X-Gm-Message-State: AMCzsaXsm+1XFMBPc5N4sB98Qh89IO0cT+QRN6KwgYYsK3dfffHfyrnm
+	wlNHRO/+aUBINeK8fRn8IWNEYOLinvakUVE8mz4=
+X-Google-Smtp-Source: AOwi7QCdyS+8Dm8LuZIc3exM0X364va3SFLRinKZoEDmVRlox9ehnoBATAZLuVetXQQdNaQH5BsmN+spJ4BrN+pBbcs=
+X-Received: by 10.107.169.208 with SMTP id f77mr36203751ioj.191.1507157138905;
+ Wed, 04 Oct 2017 15:45:38 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.2.161.20 with HTTP; Wed, 4 Oct 2017 15:45:38 -0700 (PDT)
+From: Christian duarte maia <chduartemaia@gmail.com>
+Date: Wed, 4 Oct 2017 19:45:38 -0300
+Message-ID: <CAJXBc9WcjxbWui-yjas+YKtQt72QGYzmu5c8wgpoxnw0TkmBEw@mail.gmail.com>
+Subject: 
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a1142792ee29e0e055ac05df3"
+
+--001a1142792ee29e0e055ac05df3
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Boa noite, n=C3=A3o estou encontrando
+link para as palestrars.
+
+att, Christian
+
+--=20
+*Christian Duarte Maia*
+
+*Eng. Ambiental e Agricultor agroflorestal**CREA/SC 102.887-9*
+*47 9753 7494*
+
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>
+Livre
+de v=C3=ADrus. www.avast.com
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>.
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+--001a1142792ee29e0e055ac05df3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Boa noite, n=C3=A3o estou encontrando<div>link para as pal=
+estrars.<br><br>att, Christian<br clear=3D"all"><div><br></div>-- <br><div =
+class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"lt=
+r"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><font size=3D"1"><i>Christia=
+n Duarte Maia</i></font></div><div dir=3D"ltr"><font size=3D"1"><i>Eng. Amb=
+iental e Agricultor agroflorestal<br></i></font><i style=3D"font-size:x-sma=
+ll">CREA/SC 102.887-9</i><div><font size=3D"1"><i>47 9753 7494</i></font></=
+div></div></div></div></div></div></div>
+</div></div><div id=3D"DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br> <table st=
+yle=3D"border-top:1px solid #d3d4de">
+	<tr>
+      <td style=3D"width:55px;padding-top:18px"><a href=3D"https://www.avas=
+t.com/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campaign=
+=3Dsig-email&amp;utm_content=3Dwebmail" target=3D"_blank"><img src=3D"https=
+://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-n=
+o-repeat-v1.gif" alt=3D"" width=3D"46" height=3D"29" style=3D"width: 46px; =
+height: 29px;"></a></td>
+		<td style=3D"width:470px;padding-top:17px;color:#41424e;font-size:13px;fo=
+nt-family:Arial,Helvetica,sans-serif;line-height:18px">Livre de v=C3=ADrus.=
+ <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&amp;utm_sour=
+ce=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3Dwebmail" target=3D=
+"_blank" style=3D"color:#4453ea">www.avast.com</a>. 		</td>
+	</tr>
+</table>
+<a href=3D"#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width=3D"1" height=3D"1">=
+</a></div>
+
+--001a1142792ee29e0e055ac05df3--

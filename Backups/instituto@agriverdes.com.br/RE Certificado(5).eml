@@ -1,0 +1,130 @@
+Return-Path: <lorenacristinabarbosa@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id qBmqOfen+FniRAwAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 31 Oct 2017 14:42:31 -0200
+Return-path: <lorenacristinabarbosa@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 31 Oct 2017 14:42:31 -0200
+Received: from mail-qt0-f177.google.com ([209.85.216.177]:52725)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <lorenacristinabarbosa@gmail.com>)
+	id 1e9ZcV-003Qmu-Ph
+	for instituto@agriverdes.com.br; Tue, 31 Oct 2017 14:42:31 -0200
+Received: by mail-qt0-f177.google.com with SMTP id 31so21491649qtz.9
+        for <instituto@agriverdes.com.br>; Tue, 31 Oct 2017 09:42:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=message-id:mime-version:to:from:subject:date:in-reply-to:references;
+        bh=qowjXcql/ztNzxJPZeRycSJg6daVKbbfm2Daz/TXHvg=;
+        b=lIxqg9qNRw/2n1jD8OVCSmK7QDgPu80stmIpr4LiSnKBIJHlZJWQHctI2GOgfYIg96
+         9l7ixyciMJjdYyBK1lxBOhvHlK+0rgi8O6D3QhF2lnae3SuvC8PgxZGq7O/YRqCF+BOx
+         CxNut7H1VKpEdSE+m6j/SC/Mu9bKvGjjVNgDc+TZvBLzWHiE8uHE0wjy6SBNugWETmk7
+         VwKL0EprCdpDOeh/MOpyCdyLyIOBWAK026yIpImlSOQFqblFWs629rjzRbywnAHwlFXU
+         Icurs4hbHnw4naXe6DnUhFGNQZ5x5b6XKFRmGD/IFC+2HZNVcFAqAK3QqaF20b0ezzFR
+         DeNw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:mime-version:to:from:subject:date
+         :in-reply-to:references;
+        bh=qowjXcql/ztNzxJPZeRycSJg6daVKbbfm2Daz/TXHvg=;
+        b=X47WCAKLh1dUJMFMs5YxKFQSBBJN1r8UiBZrWudnBuMjdZnnTwiHtR+6M/vfea/WN5
+         mPix2YxQFiQKViGdtfZ/KNgh48FkzIqmHrr+sUQxGJPpS8V7xnu/C3hJiQKbgDPEpMxh
+         FKkHxhDMScpy9i3TsztzFf6psLPiYUwHyvh49Ktu3nQdoE8gE9AiZzqSF5Xi+cJEB5vm
+         NdggaG3vhT9KaWmrm/9iZUHlapJYWE9axH7WK7hkKnqFOQKkV268aXW+bZY3eFnvA3gG
+         aI6vodVLR3jwBEJUtosU7mRI1Debt6TMbe0srd96UHYpziJ1L2OudsK1rq572ItGmkIL
+         0Fsg==
+X-Gm-Message-State: AMCzsaVAmjXisipQ/jexoMQOGCfbvudBXBtUA9vj6XtDBQK01y6Xu6B0
+	jW9/9mLY6LI0dw5XMtVU7UfjEx5s
+X-Google-Smtp-Source: ABhQp+QVMiSw1eMArm2Mlmp3M3k/2BGStxdPbCdnDbtZq+4wYuVOhv0uarLH6ikl12BhXhCtW4JdSA==
+X-Received: by 10.200.49.92 with SMTP id h28mr3936770qtb.340.1509468109898;
+        Tue, 31 Oct 2017 09:41:49 -0700 (PDT)
+Received: from [192.168.0.51] ([131.0.251.246])
+        by smtp.gmail.com with ESMTPSA id s27sm1158304qtj.3.2017.10.31.09.41.44
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 31 Oct 2017 09:41:48 -0700 (PDT)
+Message-ID: <59f8a7cc.9b18c80a.7627c.80db@mx.google.com>
+MIME-Version: 1.0
+To: "instituto@agriverdes.com.br" <instituto@agriverdes.com.br>
+From: Lorena <lorenacristinabarbosa@gmail.com>
+Subject: RE: Certificado
+Date: Tue, 31 Oct 2017 14:41:43 -0200
+In-Reply-To: <979bc44cf381c55a8e6ac2b0793402b2@agriverdes.com.br>
+References: <59f853d4.05b4370a.89881.3d7a@mx.google.com>
+ <979bc44cf381c55a8e6ac2b0793402b2@agriverdes.com.br>
+Content-Type: multipart/alternative;
+	boundary="_0CE1C7ED-1BC8-432E-8970-FF1C5A236FB7_"
+
+--_0CE1C7ED-1BC8-432E-8970-FF1C5A236FB7_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Sim ja paguei o boleto, pensei que seria enviado pelo correio ja que me ped=
+iu um endere=C3=A7o....=20
+
+-----Mensagem Original-----
+De: "instituto@agriverdes.com.br" <instituto@agriverdes.com.br>
+Enviada em: =E2=80=8E31/=E2=80=8E10/=E2=80=8E2017 10:20
+Para: "Lorena" <lorenacristinabarbosa@gmail.com>
+Assunto: Re: Certificado
+
+Ol=C3=A1 Lorena, voc=C3=AA j=C3=A1 me enviou o comprovante com o nome compl=
+eto? O certificado =C3=A9 digital e vai no seu email.
+---
+
+Sauda=C3=A7=C3=B5es Agroecol=C3=B3gicas
+F=C3=A1bio Mariani
+
+
+
+Em 2017-10-31 08:43, Lorena escreveu:
+Bom dia gostaria de saber se meu certificado ja foi postado, eu ainda n=C3=
+=A3o recebi...=
+
+--_0CE1C7ED-1BC8-432E-8970-FF1C5A236FB7_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body style=3D"font-family: Verdana,Geneva,sans-serif; fon=
+t-size: 10pt;"><div><div style=3D"font-family: Calibri,sans-serif; font-siz=
+e: 11pt;">Sim ja paguei o boleto, pensei que seria enviado pelo correio ja =
+que me pediu um endere=C3=A7o.... </div></div><div dir=3D"ltr"><hr><span st=
+yle=3D"font-family: Calibri,sans-serif; font-size: 11pt; font-weight: bold;=
+">De: </span><span style=3D"font-family: Calibri,sans-serif; font-size: 11p=
+t;"><a href=3D"mailto:instituto@agriverdes.com.br">instituto@agriverdes.com=
+.br</a></span><br><span style=3D"font-family: Calibri,sans-serif; font-size=
+: 11pt; font-weight: bold;">Enviada em: </span><span style=3D"font-family: =
+Calibri,sans-serif; font-size: 11pt;">=E2=80=8E31/=E2=80=8E10/=E2=80=8E2017=
+ 10:20</span><br><span style=3D"font-family: Calibri,sans-serif; font-size:=
+ 11pt; font-weight: bold;">Para: </span><span style=3D"font-family: Calibri=
+,sans-serif; font-size: 11pt;"><a href=3D"mailto:lorenacristinabarbosa@gmai=
+l.com">Lorena</a></span><br><span style=3D"font-family: Calibri,sans-serif;=
+ font-size: 11pt; font-weight: bold;">Assunto: </span><span style=3D"font-f=
+amily: Calibri,sans-serif; font-size: 11pt;">Re: Certificado</span><br><br>=
+</div>=0A=
+<p>Ol=C3=A1 Lorena, voc=C3=AA j=C3=A1 me enviou o comprovante com o nome co=
+mpleto? O certificado =C3=A9 digital e vai no seu email.</p>=0A=
+<div>---<br>=0A=
+<p>Sauda=C3=A7=C3=B5es Agroecol=C3=B3gicas</p>=0A=
+<p>F=C3=A1bio Mariani</p>=0A=
+<p><img width=3D"190" height=3D"110" alt=3D"" src=3D"cid:241cbec35f44dc0bea=
+7e4e46f7dc4bbc@agriverdes.com.br"></p>=0A=
+</div>=0A=
+<p><br></p>=0A=
+<p>Em 2017-10-31 08:43, Lorena escreveu:</p>=0A=
+<blockquote style=3D"margin: 0px; padding: 0px 0.4em; border-left-color: rg=
+b(16, 16, 255); border-left-width: 2px; border-left-style: solid;" type=3D"=
+cite"><!-- html ignored --><!-- head ignored --><!-- meta ignored -->=0A=
+<div>=0A=
+<div style=3D"font-family: Calibri,sans-serif; font-size: 11pt;">Bom dia go=
+staria de saber se meu certificado ja foi postado, eu ainda n=C3=A3o recebi=
+...</div>=0A=
+</div>=0A=
+</blockquote>=0A=
+=0A=
+</body></html>=
+
+--_0CE1C7ED-1BC8-432E-8970-FF1C5A236FB7_--
+

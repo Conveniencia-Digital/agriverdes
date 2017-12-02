@@ -1,0 +1,63 @@
+Return-Path: <souzadirce02@gmail.com>
+Delivered-To: Instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id 6N9dGy8R81mmyQEAVsPpow
+	for <Instituto@agriverdes.com.br>; Fri, 27 Oct 2017 08:57:51 -0200
+Return-path: <souzadirce02@gmail.com>
+Envelope-to: Instituto@agriverdes.com.br
+Delivery-date: Fri, 27 Oct 2017 08:57:51 -0200
+Received: from mail-io0-f176.google.com ([209.85.223.176]:54285)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <souzadirce02@gmail.com>)
+	id 1e82Kl-000YAX-8B
+	for Instituto@agriverdes.com.br; Fri, 27 Oct 2017 08:57:51 -0200
+Received: by mail-io0-f176.google.com with SMTP id e89so11822401ioi.11
+        for <Instituto@agriverdes.com.br>; Fri, 27 Oct 2017 03:57:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=2H0jo5DvYW9eeFyf7OcxcshQCODdvWYJgSLERch8kHI=;
+        b=XTRufmWVR/7MAGqD+HVkCy5JMrnIjLWS/C65yl1akaF1P53c9TUm8/A5yWG893dlPx
+         c5dNOi8Yb5h3vAQoIgSNL/WB7azibHgyZVKkqwN0S+ucO/b5dy9YyOgIluV+5M9cL5J5
+         4lLT653MMsF+efv1E15l/CH/d37WGXBVt4ehHXOOVFMeq5mw7LPFTb5L+JCFSahcAjyd
+         nQls5yMkgnTgjI1HY+5XrVCjsnyCA40KotK3J4pGnOWeMU47Iyg1pPN8sCpcn3FsFyAf
+         xWEOGlea7EdKjH+6RhGH1W2vYPvlj4jbzIT2bieobJek1jvvkVl7wZpDhZWnjWaNHZGX
+         FtPA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=2H0jo5DvYW9eeFyf7OcxcshQCODdvWYJgSLERch8kHI=;
+        b=U/Zcp5KXqAgU9OC96cXbAnZy2zE1q1q76IjNaKm7kjIBvBYuclaP+L+0QK9LRbhIk+
+         IbzEh8C84W615prK8rUa6iTCZI3rUId6pOVJwSycBLBO8w27sZ6S+DxlS8cryVKw9fdj
+         wVu4AnoHi738V2wHkdndW5Vf+Jg+CeqqxNwl5/pVc+1N3zuUSZIRTG+He+hVJI+P6+F6
+         9NnqGrA0AcW+AwzM3d/irt++kkOZuUoQ+2bcusc7fsxDp9GP/25UI7ElcUxMm60KzOW+
+         q6Rn4umFsaltfGQ9KmOfNDw0f/LvSpCM5GMSw6EFmvS4r9hvw3AEEU8C6HnRwOHta/2D
+         LIbw==
+X-Gm-Message-State: AMCzsaUS1usdw9bjcLt0fDVq9jQekZt2eQEAV4iaZAoHBCD0EZ0sRUvU
+	zgN1v2CH3w44Bp4jY5AK5lpbLxgRHw/pOWBbrs8=
+X-Google-Smtp-Source: ABhQp+QLE2dQRBE+jDtIs+YE6OCLrxv2lt8n0Qz7R86j70+lmhc8CpnHC9MRSH4Yx+zY22l5Rb/7cA9vn3OkgShxlPs=
+X-Received: by 10.107.164.76 with SMTP id n73mr56184ioe.175.1509101829028;
+ Fri, 27 Oct 2017 03:57:09 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.79.28.9 with HTTP; Fri, 27 Oct 2017 03:57:08 -0700 (PDT)
+From: Dirce Souza <souzadirce02@gmail.com>
+Date: Fri, 27 Oct 2017 08:57:08 -0200
+Message-ID: <CANWU2oiF2uYNs360-tqAL1OhTTtYR6_f9JSU+dnDT-h6-+_jgw@mail.gmail.com>
+Subject: Certificado
+To: Instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a1142249c7306d2055c85269a"
+
+--001a1142249c7306d2055c85269a
+Content-Type: text/plain; charset="UTF-8"
+
+Ola gostaria de receber o boleto de pagamento de meu certificado.
+Obrigada
+Dirce de Souza
+
+--001a1142249c7306d2055c85269a
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><div><div>Ola gostaria de receber o boleto de pagamento de meu certificado.<br></div>Obrigada<br></div>Dirce de Souza<br></div>
+
+--001a1142249c7306d2055c85269a--

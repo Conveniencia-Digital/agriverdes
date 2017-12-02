@@ -1,0 +1,175 @@
+Return-Path: <alan.agro.eng@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id yDNiAR5AC1oxLgkAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 17:12:30 -0200
+Return-path: <alan.agro.eng@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 17:12:30 -0200
+Received: from mail-wm0-f47.google.com ([74.125.82.47]:40424)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <alan.agro.eng@gmail.com>)
+	id 1eEgdJ-002ZuR-OD
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 17:12:29 -0200
+Received: by mail-wm0-f47.google.com with SMTP id b189so16763178wmd.5
+        for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 11:12:07 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=UdOs7lPrnZkvddd/tuRUS3aSzIeaCAQgZjA9yvICLmw=;
+        b=foyzSfLOKUlpken9dUek+++Hf8r/2fI8TMaYZtecsUj66dvxJnb5BPyWI/23gfUa1Z
+         afmu5eHX8g/HCNsrKHKmGIOr4Tk/hAB5+4kNfNqcBiEm8OEz2rcA5iVx9l2thC6HybiT
+         3oE/BRfCYWMhCREKRel420wKryePx1HVmjg4DLXxMLxbNof9tCPDYYbYHA6/I2HVfh1+
+         ZBdSPL26lv/i+5u3kXHFR3IiGlsFhYyl2prgcjGTZAGa6qCa09NOtlD1PszI61PSquxc
+         W9MY/Xe9yGJyUdsi0PjQaht6RT6kYOHKTNTWW6/d/npOjbKAaSHVcNPU77xyLaqgumEn
+         Pk7Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=UdOs7lPrnZkvddd/tuRUS3aSzIeaCAQgZjA9yvICLmw=;
+        b=FioOoVWmA/Lks0o6Iu7jSotwxOtjGxPgl3phsxTBWtTHEa2aGKxc3mb/hNAB/wJGQE
+         ojt9rBf07jA7PhPRZg8gzDwnz0DHHLxT/q8tVeMIGJJc+kYmBXhposF0m3GxUed97QS5
+         FSXtu+YV5EN9xc2l1tY8qZq94dVxbZSlYGnYm5MiyEZuhzjDlSFnVpDJVUgvLP0o8hbU
+         jh9s0M9t64YOHVb2SsNYaDhOhU1OdO065vMDVz9p9uhJm0wUOdMlxMb53vrQ4251fghQ
+         TFcs5jZO+mpyJ0EQACKlpc6Dml7hnWMVeT6Wn4Xmd6XM26Uhvt4kSbxfaktq0Gnv9MHJ
+         sk/w==
+X-Gm-Message-State: AJaThX5a6c9mVcNjeBrxEvtipkgZRlOQ3nW8SyGVRLZhHEfOuxO5bTX+
+	caH/Pi31VDxppp0aB9CtXSCJ0Wsq0ciSAP6dbm//A6Ie
+X-Google-Smtp-Source: AGs4zMZ2IKeo43gt23wNJFiza49DEmJyty8EGM2CWEKGgwAOa8orA2nTFgkof0lqoVGMmgqeaM6G4Ic7N6jmLpXUyNk=
+X-Received: by 10.80.170.28 with SMTP id o28mr18423920edc.93.1510686704731;
+ Tue, 14 Nov 2017 11:11:44 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.80.240.91 with HTTP; Tue, 14 Nov 2017 11:11:43 -0800 (PST)
+From: Alan Almeida <alan.agro.eng@gmail.com>
+Date: Tue, 14 Nov 2017 16:11:43 -0300
+Message-ID: <CALoe5Em+gbKrj2=DMnHkGdeER_zG3OApQbFcvFCCDtPZAAgsdg@mail.gmail.com>
+Subject: 
+To: instituto@agriverdes.com.br
+Content-Type: multipart/mixed; boundary="94eb2c0dd44067248d055df628ed"
+
+--94eb2c0dd44067248d055df628ed
+Content-Type: multipart/alternative; boundary="94eb2c0dd440672488055df628eb"
+
+--94eb2c0dd440672488055df628eb
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Prezado,
+Confirmo pagamento do Certificado do Agroweb 2017, gostaria de saber qual
+prazo pra envio do certificado, grato.
+
+
+*Atenciosamente:*
+*Alan Azevedo de Almeida.*
+*Eng=C2=BA Agr=C3=B4nomo , graduado pela Universidade Federal do Esp=C3=ADr=
+ito
+Santo(Campus de Alegre-ES).*
+*Registro no CREA-BA 87805, Visto CREA-SE 36802.*
+*Curr=C3=ADculo virtual:http://lattes.cnpq.br/4411258767794674
+<http://lattes.cnpq.br/4411258767794674> .*
+*Endere=C3=A7o Profissional: Sert=C3=A3o F=C3=A9rtil, Rua Dr=C2=BA Adolfo V=
+iana de Castro, 432,
+Primavera, CEP 48330-000, Rio Real-BA, e-mail: alan.agro.eng@gmail.com
+<alan.agro.eng@gmail.com> e sertaofertil@hotmail.com
+<sertaofertil@hotmail.com>, Fone: (75)9 9980-2082 (Vivo).*
+
+
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>
+Livre
+de v=C3=ADrus. www.avast.com
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>.
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+--94eb2c0dd440672488055df628eb
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div style=3D"font-size:12.8px">Prezado,=
+</div><div style=3D"font-size:12.8px"><span style=3D"font-size:12.8px">Conf=
+irmo pagamento do Certificado do=C2=A0</span><span class=3D"gmail-il" style=
+=3D"font-size:12.8px">Agroweb 2017</span><span style=3D"font-size:13px;colo=
+r:rgb(0,0,0);font-family:arial,georgia,sans-serif;font-weight:bold">, gosta=
+ria de saber qual prazo pra envio do certificado, grato.</span><br></div><d=
+iv><br></div><div>=C2=A0<br></div><div class=3D"gmail_signature"><div dir=
+=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div style=
+=3D"line-height:21.3px"><font color=3D"#000000" size=3D"4" face=3D"arial, h=
+elvetica, sans-serif"><b>Atenciosamente:</b></font></div><div style=3D"line=
+-height:21.3px"><font style=3D"line-height:normal" size=3D"4" color=3D"#000=
+000" face=3D"arial, helvetica, sans-serif"><b style=3D"line-height:22.72px"=
+>Alan Azevedo de Almeida.</b></font></div><div style=3D"line-height:21.3px"=
+><font style=3D"line-height:normal" size=3D"4" color=3D"#000000" face=3D"ar=
+ial, helvetica, sans-serif"><b style=3D"line-height:22.72px">Eng=C2=BA Agr=
+=C3=B4nomo , graduado pela Universidade Federal do Esp=C3=ADrito Santo(Camp=
+us de Alegre-ES).</b></font></div><div style=3D"line-height:21.3px"><font s=
+tyle=3D"line-height:normal" size=3D"4" color=3D"#000000" face=3D"arial, hel=
+vetica, sans-serif"><b style=3D"line-height:22.72px">Registro no CREA-BA 87=
+805, Visto CREA-SE=C2=A036802.</b></font></div><div style=3D"line-height:21=
+.3px"><font style=3D"line-height:normal" size=3D"4" color=3D"#000000" face=
+=3D"arial, helvetica, sans-serif"><b style=3D"line-height:22.72px">Curr=C3=
+=ADculo virtual:<a href=3D"http://lattes.cnpq.br/4411258767794674" style=3D=
+"font-weight:inherit" target=3D"_blank">http://lattes.cnpq.br/4411258767794=
+674</a>=C2=A0.</b></font></div><div style=3D"line-height:21.3px"><font size=
+=3D"4" face=3D"arial, helvetica, sans-serif"><b><font color=3D"#000000">End=
+ere=C3=A7o Profissional: Sert=C3=A3o F=C3=A9rtil, Rua Dr=C2=BA Adolfo Viana=
+ de Castro, 432, Primavera, CEP 48330-000, Rio Real-BA, e-mail: <a href=3D"=
+mailto:alan.agro.eng@gmail.com" target=3D"_blank">alan.agro.eng@gmail.com</=
+a> e=C2=A0<a href=3D"mailto:sertaofertil@hotmail.com" target=3D"_blank">ser=
+taofertil@hotmail.com</a>, Fone: (75)9 9980-2082 (Vivo).</font><font color=
+=3D"#0000ff"><span></span></font><font style=3D"color:rgb(0,0,255)"><span><=
+/span></font><font style=3D"color:rgb(0,0,255)"><span></span></font></b></f=
+ont></div><div><span style=3D"line-height:18.1818px"><font size=3D"3" face=
+=3D"Courier New" style=3D"line-height:normal"><b style=3D"line-height:22.72=
+px"><br></b></font></span></div></div></div></div></div></div></div></div><=
+/div></div></div></div>
+</div><div id=3D"DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br> <table style=3D=
+"border-top:1px solid #d3d4de">
+	<tr>
+      <td style=3D"width:55px;padding-top:18px"><a href=3D"https://www.avas=
+t.com/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campaign=
+=3Dsig-email&amp;utm_content=3Dwebmail" target=3D"_blank"><img src=3D"https=
+://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-n=
+o-repeat-v1.gif" alt=3D"" width=3D"46" height=3D"29" style=3D"width: 46px; =
+height: 29px;"></a></td>
+		<td style=3D"width:470px;padding-top:17px;color:#41424e;font-size:13px;fo=
+nt-family:Arial,Helvetica,sans-serif;line-height:18px">Livre de v=C3=ADrus.=
+ <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&amp;utm_sour=
+ce=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3Dwebmail" target=3D=
+"_blank" style=3D"color:#4453ea">www.avast.com</a>. 		</td>
+	</tr>
+</table>
+<a href=3D"#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width=3D"1" height=3D"1">=
+</a></div>
+
+--94eb2c0dd440672488055df628eb--
+--94eb2c0dd44067248d055df628ed
+Content-Type: application/pdf; name="Comprovante (3).pdf"
+Content-Disposition: attachment; filename="Comprovante (3).pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_j9zzupvb0
+
+JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9Q
+YWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBS
+XQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAg
+MCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCi9SZXNvdXJjZXMgNCAwIFIKL0NvbnRlbnRzIDUgMCBS
+Cj4+CmVuZG9iago0IDAgb2JqCjw8Ci9Gb250IDYgMCBSCj4+CmVuZG9iago1IDAgb2JqCjw8Ci9G
+aWx0ZXIgWy9GbGF0ZURlY29kZV0KL0xlbmd0aCA3IDAgUgo+PgpzdHJlYW0NCnicpZLBbsMgDIbv
+eQofW2mhhqQlRNrBAVZFSqFKaA9Vj9MOe/8HGEm2dWNVq2q/BBKWPzD+3YSMSw5SIoTXbPWCoCC8
+ZQg5X4+RBS9WnK8EcglROUBDTnsAE1fT09B2UxR4Va9VjdUSwvtPXFQVjhvcFyKWCZ4cpzTtd/ve
+H8kFC8bCnra0sy748RDacOj8cPsW3bUx39ZAHTmgkz1aM9HU7WxrKEmnrXW6pRrGb+TiUq/2LsTw
+tzYMUeUywZ8fVILP7R7ib8kZ28N5MXf9vISBEUuy8weV4FgUSlXrIjqmJE4SVSkrxGjiaKMsSvEZ
+jyuhXc/iWOjD7MYNcY5MIU9wQ4HGsboYenVI1Nc8JviROt+P/P0SBD79KX7GtY/dNTeLv47/0+XY
+OjqEWHSrSdOv9zeMlwXjgljZWEZCM1NsJtyG7AN4j8JUDQplbmRzdHJlYW0KZW5kb2JqCjYgMCBv
+YmoKPDwKL0YwIDggMCBSCj4+CmVuZG9iago3IDAgb2JqCjMyOQplbmRvYmoKOCAwIG9iago8PAov
+VHlwZSAvRm9udAovU3VidHlwZSAvVHlwZTEKL0Jhc2VGb250IC9Db3VyaWVyCi9FbmNvZGluZyAv
+V2luQW5zaUVuY29kaW5nCj4+CmVuZG9iagp4cmVmCjAgOQowMDAwMDAwMDAwIDY1NTM1IGYNCjAw
+MDAwMDAwMTUgMDAwMDAgbg0KMDAwMDAwMDA3OCAwMDAwMCBuDQowMDAwMDAwMTM1IDAwMDAwIG4N
+CjAwMDAwMDAyMzkgMDAwMDAgbg0KMDAwMDAwMDI3MiAwMDAwMCBuDQowMDAwMDAwNjc5IDAwMDAw
+IG4NCjAwMDAwMDA3MTAgMDAwMDAgbg0KMDAwMDAwMDcyOSAwMDAwMCBuDQp0cmFpbGVyCjw8Ci9S
+b290IDEgMCBSCi9JRCBbPEY1NTQyMkQ2Q0U1OTk0QTZBM0Y0ODRBNDdEMzQ3QzNFPiA8RjU1NDIy
+RDZDRTU5OTRBNkEzRjQ4NEE0N0QzNDdDM0U+XQovU2l6ZSA5Cj4+CnN0YXJ0eHJlZgo4MjQKJSVF
+T0YK
+--94eb2c0dd44067248d055df628ed--

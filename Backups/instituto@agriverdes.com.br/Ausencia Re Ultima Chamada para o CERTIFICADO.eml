@@ -1,0 +1,115 @@
+Return-Path: <agrirural.mg@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id yGRWE8B9A1p+VwkAVsPpow
+	for <instituto@agriverdes.com.br>; Wed, 08 Nov 2017 19:57:20 -0200
+Return-path: <agrirural.mg@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Wed, 08 Nov 2017 19:57:20 -0200
+Received: from mail-lf0-f51.google.com ([209.85.215.51]:56462)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <agrirural.mg@gmail.com>)
+	id 1eCYLY-002aJe-0x
+	for instituto@agriverdes.com.br; Wed, 08 Nov 2017 19:57:20 -0200
+Received: by mail-lf0-f51.google.com with SMTP id 90so4856768lfs.13
+        for <instituto@agriverdes.com.br>; Wed, 08 Nov 2017 13:56:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=wC9yUTPBKdjlZbdB5wKib8CGUwZlqOLBxCAZr9qCEg0=;
+        b=rUr44JTLCa6uBdKjP3VaDncaHDMGtKi4uymMCY1ZP94LQGmbG7wnyp8IQYST5HVc6l
+         g8AFYv9HmrNk7rUQXyeMv8ulPh6mLcNNVsfUNSQWdIsF6Uz+GiMaV8nvMGs2NAMWCXRb
+         2tJfe1PHJteQF1nJo+8hZ/eLdhUNcIeCr1heiEZA3xxN85CkoeD8V3VGee34nDOdELCz
+         iWhX+/Zf3sDijNB50nlW39h1e4AXuY7D95hdQUoKLcA46zse714z8fl5ToNGRBJ5ACgY
+         5K7M4GC+6fy4vZMFLj2Hz+ZSeWWEFRW+fqsD3WiKeCFlK71fndh9HB9ESJH6+MeUZWDb
+         khAg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=wC9yUTPBKdjlZbdB5wKib8CGUwZlqOLBxCAZr9qCEg0=;
+        b=O00SboGX4AgYTs1D8cWCUFT5tppINtBst4YJVWnJRH6JNukIjPYpsvJ+XkWUTlAQR1
+         ykncEy/+lxTzpQC9Ws4KmWDokgymgZRJkHic/gicnwXl5A/csF6t2MAwhf3azpj/ezT5
+         i2i1Iny0sbEK17nIOg6twIoisUu+AGR9MpD236Uy1lmdulN+lAUiACOCZINOjXE87WYP
+         bRiOXur1C4eq6KCZpIJdvVSgvO8A6hqTlu4p9cbe1haKgUpzZzyYVa6ZATeGAQGa0UBe
+         plUkv6Uzhzg+k6Pw+3A4v3KW75b1e2ePYqfxygDRAvTNcVvFDaVhymo1/rxmFsJNn0Xq
+         AVRw==
+X-Gm-Message-State: AJaThX4P/1pOUZUgpliaFh2116v8F/WnrF+10FUX5gIdk9l5kD9VQjp9
+	svkEA0/0DD39H50+ZTIo4rhmI+WZmuuvwc57S8G43Y89hxZcx9YeVQuE
+X-Google-Smtp-Source: AGs4zMZFWfxHLTcE8j2tEwZi5I0ijhbv+5a+8ecwTWSi7EzNuPW6kwwMGeeTRqiLzZfdNJ6XpAXQkg0IAX/6pu6weSY3d8mLPUXEt+k5af1v
+X-Received: by 10.25.74.206 with SMTP id x197mr685857lfa.239.1510178195861;
+        Wed, 08 Nov 2017 13:56:35 -0800 (PST)
+To: instituto@agriverdes.com.br
+From: "Marcos Vieira" <agrirural.mg@gmail.com>
+Date: Wed, 8 Nov 2017 13:56:35 -0800
+Message-ID: <CAOceWKxb6AndBeya_+jDUVRzbOXSsE1X9YRcbJ9-0ybDR+WiSA@mail.gmail.com>
+Subject: Ausencia Re: Ultima Chamada para o CERTIFICADO.
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj48Zm9udCBmYWNlPSJ2ZXJkYW5hLCBzYW5zLXNlcmlmIiBjb2xv
+cj0iIzAwMDBmZiI+PGk+PGI+w4kgdW0gcHJhemVyIHJlY2ViZXIgc3VhwqBjb3JyZXNwb25kw6pu
+Y2lhLjwvYj48L2k+PC9mb250PjwvZGl2PjxkaXY+PGZvbnQgZmFjZT0idmVyZGFuYSwgc2Fucy1z
+ZXJpZiI+PGk+U2UgbsOjbyBob3V2ZXIgdW1hIHJlc3Bvc3RhIGRlbnRybyBkZSAyNCBob3JhcyDD
+qSBwb3JxdWUgZXN0b3UgdmlhamFuZG8gYSBzZXJ2acOnby48L2k+PC9mb250PjwvZGl2PjxkaXY+
+PGZvbnQgZmFjZT0idmVyZGFuYSwgc2Fucy1zZXJpZiIgY29sb3I9IiMwMDAwZmYiPjxiPjxpPk5h
+IHByaW1laXJhIG9wb3J0dW5pZGFkZSBlbnRyYXJlaSBlbSBjb250YXRvLjwvaT48L2I+PC9mb250
+PjwvZGl2PjxkaXY+PGZvbnQgZmFjZT0idmVyZGFuYSwgc2Fucy1zZXJpZiI+PGk+T2JyaWdhZG8u
+PGJyPjwvaT48L2ZvbnQ+PGJyPjwvZGl2PjwvZGl2Pjxici8+PGJyLz4tLSA8YnIvPjxkaXYgZGly
+PSJsdHIiPjxkaXY+PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYg
+ZGlyPSJsdHIiPjxkaXY+PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2Pjxk
+aXYgZGlyPSJsdHIiPjxkaXY+PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2
+PjxkaXYgZGlyPSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxmb250IGZhY2U9
+ImNvbWljIHNhbnMgbXMsIHNhbnMtc2VyaWYiPjxmb250IGNvbG9yPSIjMzg3NjFkIj48Zm9udCBz
+aXplPSI0Ij7CoDxpbWcgc3JjPSJodHRwczovL2NpMy5nb29nbGV1c2VyY29udGVudC5jb20vcHJv
+eHkvQmlSWUhwMW1oWXUtbGU1MEpYR084NWxNcXRYTUFFWUhrR1B6dW1ZVjhEdE9sck0zVWxONEw3
+bGdzXzd6NXBOUE56SVJ0MlU1dmFTMGFCcWlzSi1QeTZ1YW0zaUR6YmRpbDFwUFlERTY4T3JaLWdR
+MldRaWRqTDE1MHhmRWpjeVRXNFR5dlgxNnd0M2JJNG9MLTgwN0xucTk1SENoeTVnaWNCNE5fTW56
+MVlEcXdRdXVobmxDWGtrTUhidnlOcG8tdk5qZk5MNDFBb3daUkxBPXMwLWQtZTEtZnQjaHR0cHM6
+Ly9kb2NzLmdvb2dsZS5jb20vdWM/ZXhwb3J0PWRvd25sb2FkJmFtcDtpZD0wQndqRVQ1VWhSQjNL
+V0hRNFUyTnBSRXBETTBVJmFtcDtyZXZpZD0wQndqRVQ1VWhSQjNLU2xORGRrczVia3B3Y0VWa1JF
+UldhVVZEVm5oTFdDdHNMMFJ2UFEiIHdpZHRoPSI5NiIgaGVpZ2h0PSI4MSI+IMKgPC9mb250Pjxm
+b250IHNpemU9IjIiPk1hcmNvczwvZm9udD48L2ZvbnQ+PGZvbnQgY29sb3I9IiMwMDAwMDAiIHN0
+eWxlPSJmb250LXNpemU6bGFyZ2UiPiA8L2ZvbnQ+PGIgc3R5bGU9ImZvbnQtc2l6ZTpsYXJnZSI+
+PGZvbnQgY29sb3I9IiMyNzRlMTMiPlZpZWlyYTwvZm9udD48L2I+PC9mb250PjwvZGl2PjxkaXYg
+ZGlyPSJsdHIiPjxmb250IGZhY2U9ImNvbWljIHNhbnMgbXMsIHNhbnMtc2VyaWYiPjxiPjxmb250
+IHNpemU9IjIiPjxmb250IGNvbG9yPSIjMjc0ZTEzIj7CoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDC
+oCDCoFByZXNlcnZlIGEgTmF0dXJlemEuIFBsYW50ZSBlbSBOw612ZWwsIENvbnNlcnZlIG8gPC9m
+b250Pjxmb250IGNvbG9yPSIjNjYwMDAwIj5Tb2xvPC9mb250Pjxmb250IGNvbG9yPSIjMjc0ZTEz
+Ij4gZSBhIDwvZm9udD48Zm9udCBjb2xvcj0iIzAwMDBmZiI+w4FndWE8L2ZvbnQ+PGZvbnQgY29s
+b3I9IiMyNzRlMTMiPi48L2ZvbnQ+PC9mb250Pjxicj48L2I+PC9mb250PjxkaXY+PGZvbnQgc2l6
+ZT0iMiI+PGkgc3R5bGU9ImZvbnQtZmFtaWx5OiZxdW90O2FyaWFsIG5hcnJvdyZxdW90OyxzYW5z
+LXNlcmlmIj48Zm9udCBjb2xvcj0iIzAwMDAwMCI+PGI+Q29uc3VsdG9yaWEgPC9iPmVtIFRvcG9n
+cmFmaWEgYXBsaWNhZGEgbmE8L2ZvbnQ+PGZvbnQgY29sb3I9IiMzODc2MWQiIHN0eWxlPSJmb250
+LXdlaWdodDpib2xkIj7CoDwvZm9udD48Zm9udCBzdHlsZT0iZm9udC13ZWlnaHQ6Ym9sZCIgY29s
+b3I9IiM2NjAwMDAiPkM8L2ZvbnQ+PGZvbnQgY29sb3I9IiM5OTAwMDAiIHN0eWxlPSJmb250LXdl
+aWdodDpib2xkIj5vbnNlcnZhw6fDo28gZG8gU29sbzwvZm9udD48Zm9udCBjb2xvcj0iIzM4NzYx
+ZCIgc3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQiPiA8L2ZvbnQ+PGZvbnQgY29sb3I9IiMwMDAwZmYi
+IHN0eWxlPSJmb250LXdlaWdodDpib2xkIj5lIGRhIMOBZ3VhPC9mb250Pjxmb250IGNvbG9yPSIj
+Mzg3NjFkIiBzdHlsZT0iZm9udC13ZWlnaHQ6Ym9sZCI+LDwvZm9udD48L2k+PGJyPjwvZm9udD48
+L2Rpdj48ZGl2PjxpPjxmb250IGZhY2U9ImFyaWFsIG5hcnJvdywgc2Fucy1zZXJpZiIgc2l6ZT0i
+MiI+PGI+PGZvbnQgY29sb3I9IiM2NjAwMDAiPkN1cnZhcyBkZSBOw612ZWw8L2ZvbnQ+PGZvbnQg
+Y29sb3I9IiMzODc2MWQiPiwgPC9mb250Pjxmb250IGNvbG9yPSIjOTkwMDAwIj5UZXJyYWNlYW1l
+bnRvPC9mb250Pjxmb250IGNvbG9yPSIjMzg3NjFkIj4sIDwvZm9udD48Zm9udCBjb2xvcj0iIzI3
+NGUxMyI+R2VvcnJlZmVyZW5jaWFtZW50bywgZXRjLjwvZm9udD48L2I+PC9mb250PjwvaT48L2Rp
+dj48ZGl2Pjxmb250IGZhY2U9ImNvdXJpZXIgbmV3LCBtb25vc3BhY2UiIHNpemU9IjIiPjxiPjxm
+b250IGNvbG9yPSIjZmYwMDAwIj5WaXNpdGU8L2ZvbnQ+PC9iPjxmb250IGNvbG9yPSIjMDczNzYz
+IiBzdHlsZT0iZm9udC13ZWlnaHQ6Ym9sZDtmb250LXN0eWxlOml0YWxpYyI+wqA8L2ZvbnQ+PGEg
+aHJlZj0iaHR0cDovL3d3dy5jcmVhZGlnaXRhbC5jb20uYnIvbWcvdG9wb2dyYWZpYSIgc3R5bGU9
+ImZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zdHlsZTppdGFsaWM7Y29sb3I6cmdiKDcsNTUsOTkpIiB0
+YXJnZXQ9Il9ibGFuayI+d3d3LmNyZWFkaWdpdGFsLmNvbS5ici9tZy90b3BvZ3JhZmlhPC9hPjwv
+Zm9udD48L2Rpdj48ZGl2Pjxmb250IGZhY2U9ImNvdXJpZXIgbmV3LCBtb25vc3BhY2UiPjxpPjxm
+b250IGNvbG9yPSIjMDczNzYzIj50ZWwgPC9mb250Pjxmb250IGNvbG9yPSIjMDAwMGZmIj48Yj4o
+MzgpMzc0Mi0xMjE5PC9iPsKgPC9mb250PjwvaT48L2ZvbnQ+PC9kaXY+PGRpdj48YnI+PC9kaXY+
+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9k
+aXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+
+PC9kaXY+PC9kaXY+PGJyLz4NCg==

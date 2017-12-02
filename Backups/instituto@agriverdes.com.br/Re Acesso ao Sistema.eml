@@ -1,0 +1,107 @@
+Return-Path: <brenoandradi@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id IEcQAWuE8lmGAw0AVsPpow
+	for <instituto@agriverdes.com.br>; Thu, 26 Oct 2017 22:57:15 -0200
+Return-path: <brenoandradi@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Thu, 26 Oct 2017 22:57:15 -0200
+Received: from mail-qk0-f175.google.com ([209.85.220.175]:53729)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <brenoandradi@gmail.com>)
+	id 1e7sxW-003aHc-Qw
+	for instituto@agriverdes.com.br; Thu, 26 Oct 2017 22:57:14 -0200
+Received: by mail-qk0-f175.google.com with SMTP id y23so6554748qkb.10
+        for <instituto@agriverdes.com.br>; Thu, 26 Oct 2017 17:56:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=9Uc/Y3h9FgjLMwvQJhajI3QrKU7Jt28ujHhMsgfdSxU=;
+        b=Btte+j/b5UarCQ7n65fsPDa2eql0e/pP2yfRkBGEiV+j7bTA4uLF/Aplzn6SmGZGb5
+         orIKtNTEaFhrqtzmeZUVgYomEH1yAHneG7IzQni8/MCoVGQ7zzqeTfh83bpVtmGW1CWZ
+         7JII89Ftr2SxaKjypRdYLtgITSoxU85cAtEbMge/J4aIqHuH7k++Wt24YjxnOS3E4PAm
+         mgVRcm8kqbRWPgrsd1+AGCMI5DYZmC64T/whCsx2ld9U6xmjY9MQYNqDvdUGt1Odegwt
+         daiALjzFxg9pFMJlfu3VyL6E5TmZSiEFN6o1faGzcA/qak6+qbbVmNMrPimtqtScOqP5
+         /Mdg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=9Uc/Y3h9FgjLMwvQJhajI3QrKU7Jt28ujHhMsgfdSxU=;
+        b=gPl4W/l71zodeReFeqlBJ+NV3L59977W0tTVaUOQcPBktm9zZOeHZe70QGWQabXsEf
+         b85P8KXP2aSu5On/1JMbV7C8oSsdCO066LpdT10g4trsJVPo5VKe8x09R8K1RCgJotod
+         cXk8J5WkVWMbzQ2OHKuBCZVVaoVYW9+buwrKRI+RN4xRupg1r56oGUf+D15lhraba6BX
+         8eX7dRK5HmcUz6kuamX5p2TYviv0rIjtA0ffpyBvOYh16tSUw9xakVf2RPqnzeBzsh9T
+         PqgMvLYJwolprzbueQ2D9mTUNexZ3yvoYN2gpP7dt03pOIAYQlMKSxox9hm5DhSf0CLy
+         SAqA==
+X-Gm-Message-State: AMCzsaUdwR+tvBWNxVMSJp5nui6JcMztuAka0JUADRDQsZPDhSPu2VJS
+	gbtxgdVsApK5sb1YgometlYvX+T7F401O6a9EMc=
+X-Google-Smtp-Source: ABhQp+TQHZ0mOGqSq/oCTY30Y7lh6K660F6sWLL4BBCpUx6OKjCBnwVt2BAuRXyc6xd8ydxXGY3tSTjj/ho5PP7YXbY=
+X-Received: by 10.55.107.198 with SMTP id g189mr11107286qkc.9.1509065792026;
+ Thu, 26 Oct 2017 17:56:32 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.12.142.12 with HTTP; Thu, 26 Oct 2017 17:56:31 -0700 (PDT)
+Received: by 10.12.142.12 with HTTP; Thu, 26 Oct 2017 17:56:31 -0700 (PDT)
+In-Reply-To: <aFgsZ0wGQD2baPkaPYxNEA@ismtpd0003p1iad1.sendgrid.net>
+References: <aFgsZ0wGQD2baPkaPYxNEA@ismtpd0003p1iad1.sendgrid.net>
+From: Breno Andrade <brenoandradi@gmail.com>
+Date: Thu, 26 Oct 2017 21:56:31 -0300
+Message-ID: <CAO6ODSQALooyTS6NcJOvafO9RwoV1-cteG570wdCyYOdydRbHQ@mail.gmail.com>
+Subject: Re: Acesso ao Sistema
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/alternative; boundary="001a114ff3b879fce3055c7cc25b"
+
+--001a114ff3b879fce3055c7cc25b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Queridxs, boa noite!
+Fiz o download do app pelo play store, mas n=C3=A3o consigo acessar com ess=
+a
+senha,
+Apenas atrav=C3=A9s desse link.
+Gostaria de fazer o acesso pelo app, pois creio que seja mais pr=C3=A1tico =
+do
+que entrar no meu e-mail pra achar o link que vcs enviaram e acessar a
+plataforma.
+Fico no aguardo.
+
+
+Em 21 de out de 2017 5:17 AM, "Instituto Agriverdes" <
+instituto@agriverdes.com.br> escreveu:
+
+> Ol=C3=A1,
+>
+> segue abaixo os dados para acesso ao sistema:
+> *Login/E-mail de Acesso:* brenoandradi@gmail.com
+> *Senha:* 845b9e
+> *Link de Acesso::* http://d0a6c20.contato.site/login
+>
+> Obrigado!
+
+--001a114ff3b879fce3055c7cc25b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Queridxs, boa noite!<div dir=3D"auto">Fiz o download do a=
+pp pelo play store, mas n=C3=A3o consigo acessar com essa senha,</div><div =
+dir=3D"auto">Apenas atrav=C3=A9s desse link.</div><div dir=3D"auto">Gostari=
+a de fazer o acesso pelo app, pois creio que seja mais pr=C3=A1tico do que =
+entrar no meu e-mail pra achar o link que vcs enviaram e acessar a platafor=
+ma.</div><div dir=3D"auto">Fico no aguardo.</div><div dir=3D"auto"><br></di=
+v></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">Em 21 de =
+out de 2017 5:17 AM, &quot;Instituto Agriverdes&quot; &lt;<a href=3D"mailto=
+:instituto@agriverdes.com.br">instituto@agriverdes.com.br</a>&gt; escreveu:=
+<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"margin:=
+0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><u></u>Ol=C3=A1,<br=
+><br>segue abaixo os dados para acesso ao sistema:<br><b>Login/E-mail de Ac=
+esso:</b>=C2=A0<a href=3D"mailto:brenoandradi@gmail.com" target=3D"_blank">=
+brenoandradi@gmail.com</a><br><b>Senha:</b>=C2=A0845b9e<br><b>Link de Acess=
+o::</b>=C2=A0<a href=3D"http://d0a6c20.contato.site/login" target=3D"_blank=
+">http://d0a6c20.<wbr>contato.site/login</a><br><br>Obrigado!<img alt=3D"" =
+src=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DV&=
+amp;u=3D62F7BF84-A73E-48CD-88BC-81194269B175&amp;IMG=3Dhttps://leadlovers.c=
+om/content/images/1px.png"></blockquote></div></div>
+
+--001a114ff3b879fce3055c7cc25b--

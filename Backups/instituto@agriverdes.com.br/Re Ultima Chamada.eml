@@ -1,0 +1,200 @@
+Return-Path: <dandarast@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id 0IfvIUYyC1oj7wcAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 16:13:26 -0200
+Return-path: <dandarast@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 16:13:26 -0200
+Received: from mail-oi0-f47.google.com ([209.85.218.47]:45708)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <dandarast@gmail.com>)
+	id 1eEfiA-002Ear-Bq
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 16:13:26 -0200
+Received: by mail-oi0-f47.google.com with SMTP id e142so6505477oih.2
+        for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 10:13:04 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=Ep9xkKxZkfROjDL4FSzr504xFKxzPFIpIewMAZiGdK8=;
+        b=KWk9VEJPqsEebtQwS2ShxlQoE9oJlXKOXRMuztr80hrNiVF5SuHWcAbZt49BuYZKKM
+         /Dex66zcWUGqQJnZSlS7c3WI1Eagoy2Zjf8lIWVgtrDgImoKZogaJdBwHCI2IGTTQ+SC
+         enCnXI7Ro5bn07DlSgd+JO/Rhp96fHm1frPx+jzrir4pZiDaTw6cGx4L0+gZP36r/fzx
+         8n860PDSNgZQcD4P8854RDds9fndamtisvQvm3U6/Zk3Safblxh7OpXJxXbq7KgHOkkn
+         jL+OBrK3UPesg4FROApRTndiUibQdtuAy3aOWhy+1N8GX/iUU0Q5zVnQTjZJjAfJ2pGZ
+         tIfQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=Ep9xkKxZkfROjDL4FSzr504xFKxzPFIpIewMAZiGdK8=;
+        b=lOERXD9E69CWoshCdub1Zv24a2rUGh8M+JiWT2SZlQah32DLbVadA/uN41W/RKuN5U
+         hUPT7gE0snVc5tHTpUyoOD0gI+H+XVzVox0c5kZcSOyGnn63pEzjWyM4Sel/g+BxV/a9
+         EgWmRR6bfOVO/3x9HCvTW0CxFZympo/Ekh3m1/csxL6ix+Zg7PSlqvxelkpZWEXDxdjT
+         XlQAH2UupnoWJOin7JSPVuptdmJlLNtucE2rMKNSy68hhSczsf78kDHqNLzej1pzqgIg
+         mejWQIF3w3jIcmdl81WCFC9FhHxqHAEoKb8ufRRzynQKLgqed+bnODRyo/veyd2+RZS1
+         dl+g==
+X-Gm-Message-State: AJaThX5bOp7y0eWvdEBtIAqY1xb7+G3iZiVs30R0r9+uJASa+sb+ISny
+	HTRka9yj81+0hz17ZAonpq00Bxakxbux8RxQgnw=
+X-Google-Smtp-Source: AGs4zMYjOgTBQ9f0ZOnQR4iHG3eI4xeMbNQ5WjYO7K5yZb54rkYuE3hjpcJqVwQA0p3wQsmHLkKnRxSwDw7sZ23PaaY=
+X-Received: by 10.202.79.65 with SMTP id d62mr5986763oib.274.1510683161793;
+ Tue, 14 Nov 2017 10:12:41 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.74.46.24 with HTTP; Tue, 14 Nov 2017 10:12:41 -0800 (PST)
+Received: by 10.74.46.24 with HTTP; Tue, 14 Nov 2017 10:12:41 -0800 (PST)
+In-Reply-To: <fU9TZjxeS4u-euluZ-cY0Q@ismtpd0001p1lon1.sendgrid.net>
+References: <fU9TZjxeS4u-euluZ-cY0Q@ismtpd0001p1lon1.sendgrid.net>
+From: Dandara Lima <dandarast@gmail.com>
+Date: Tue, 14 Nov 2017 15:12:41 -0300
+Message-ID: <CAGS9SODTz-NfuPVycCc7mJ4GxFJ4AAVLLVUEhn-VDU9=+SDDDg@mail.gmail.com>
+Subject: Re: Ultima Chamada...
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/alternative; boundary="001a113d67543a199b055df55541"
+
+--001a113d67543a199b055df55541
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Boa tarde. J=C3=A1 efetuei o pagamento. Gostaria de saber o prazo da entreg=
+a.
+
+Em 20 de out de 2017 5:58 PM, "Instituto Agriverdes" <
+instituto@agriverdes.com.br> escreveu:
+
+> *E ai Dandara Santos Lima. Ta Tudo bem???*
+>
+> Esse email =C3=A9 bem r=C3=A1pido...
+>
+>
+> A *Plataforma AgroecoWeb* =C3=A9 um programa de estudos avan=C3=A7ados em
+> agroecologia com cursos e conte=C3=BAdos
+>
+> que te ajudaram a chegar em um pr=C3=B3ximo n=C3=ADvel de conhecimento e =
+a=C3=A7=C3=A3o.
+>
+> =C3=89 a sua chance de adquirir pelo valor promocional do congresso e aca=
+ba
+> hoje =C3=A0s 23h59.
+>
+> Depois disso, eu fecharei a p=C3=A1gina de vendas.
+>
+> E eu s=C3=B3 estou te dando esse aviso, porque foi o nosso combinado e po=
+rque
+> eu acho que voc=C3=AA merece essa
+>
+> oportunidade, afinal se n=C3=A3o fosse por voc=C3=AA com certeza o *Agroe=
+coWeb* n=C3=A3o
+> existiria.
+>
+> Portanto para adquirir a *Plataforma AgroecoWeb* e todos os seus b=C3=B4n=
+us
+> incluindo o *Curso Completo de *
+>
+> *Produ=C3=A7=C3=A3o Org=C3=A2nica* basta clicar no link abaixo.
+>
+> *Link Para a sua =C3=BAltima chance.
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D=
+4007AEE0-42F3-4C6C-B842-DC7F86690E14&u=3D9c9640ac-01d9-42d9-951f-35c8bd8ceb=
+20>*
+>
+> Um Abra=C3=A7o
+>
+> Fabio Mariani
+>
+> PS. No link h=C3=A1 um v=C3=ADdeo de tudo que voc=C3=AA precisa saber par=
+a decidir se
+> esse programa de estudos =C3=A9 para voc=C3=AA ou n=C3=A3o.
+>
+> *Assista o V=C3=ADdeo.
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D=
+4007AEE0-42F3-4C6C-B842-DC7F86690E14&u=3D9c9640ac-01d9-42d9-951f-35c8bd8ceb=
+20>*
+>
+> ------------------------------
+>
+>
+> Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+> <https://maps.google.com/?q=3DRua+Joaquim+Alves+Taveira+1615+-+Dourados+-=
++MS+-+79824100&entry=3Dgmail&source=3Dg>
+> Caso n=C3=A3o queira mais receber meus e-mails, acesse esse link. (Unsubs=
+cribe)
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&u=3D=
+9c9640ac-01d9-42d9-951f-35c8bd8ceb20>
+> .
+>
+>
+> Enviado com amor por leadlovers Lead Lovers
+> <http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D=
+CF00CE86-E25F-4305-BCD1-3F18466CA703&u=3D9c9640ac-01d9-42d9-951f-35c8bd8ceb=
+20>
+
+--001a113d67543a199b055df55541
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Boa tarde. J=C3=A1 efetuei o pagamento. Gostaria de saber=
+ o prazo da entrega.</div><div class=3D"gmail_extra"><br><div class=3D"gmai=
+l_quote">Em 20 de out de 2017 5:58 PM, &quot;Instituto Agriverdes&quot; &lt=
+;<a href=3D"mailto:instituto@agriverdes.com.br">instituto@agriverdes.com.br=
+</a>&gt; escreveu:<br type=3D"attribution"><blockquote class=3D"gmail_quote=
+" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><=
+u></u><p><strong style=3D"color:#0e5daf;font-size:12px"><span style=3D"font=
+-size:14pt">E ai=C2=A0<span style=3D"line-height:1.42857;font-family:&#39;T=
+rebuchet MS&#39;,Helvetica,sans-serif">Dandara Santos Lima</span><span styl=
+e=3D"background-image:initial;background-position:initial;background-size:i=
+nitial;background-repeat:initial;background-origin:initial;background-clip:=
+initial;line-height:1.42857;font-family:&#39;Trebuchet MS&#39;,sans-serif;c=
+olor:#1d2129">.</span>=C2=A0Ta Tudo bem???</span></strong></p>
+<p><span style=3D"font-size:14pt">Esse email =C3=A9 bem r=C3=A1pido...</spa=
+n></p>
+<p><br><span style=3D"font-size:14pt">A <strong><span style=3D"color:#33996=
+6">Plataforma AgroecoWeb</span></strong>=C2=A0=C3=A9 um programa de estudos=
+ avan=C3=A7ados em agroecologia com cursos e conte=C3=BAdos </span></p>
+<p><span style=3D"font-size:14pt">que te ajudaram a chegar em um pr=C3=B3xi=
+mo n=C3=ADvel de conhecimento e a=C3=A7=C3=A3o.</span></p>
+<p><span style=3D"font-size:14pt">=C3=89 a sua chance de adquirir pelo valo=
+r promocional do congresso e acaba hoje =C3=A0s 23h59.</span></p>
+<p><span style=3D"font-size:14pt">Depois disso, eu fecharei a p=C3=A1gina d=
+e vendas.</span></p>
+<p><span style=3D"font-size:14pt">E eu s=C3=B3 estou te dando esse aviso, p=
+orque foi o nosso combinado e porque eu acho que voc=C3=AA merece essa </sp=
+an></p>
+<p><span style=3D"font-size:14pt">oportunidade, afinal se n=C3=A3o fosse po=
+r voc=C3=AA com certeza o <strong><span style=3D"color:#339966">AgroecoWeb<=
+/span></strong> n=C3=A3o existiria.</span></p>
+<p><span style=3D"font-size:14pt">Portanto para adquirir a <strong><span st=
+yle=3D"color:#339966">Plataforma AgroecoWeb</span></strong> e todos os seus=
+ b=C3=B4nus incluindo o <strong>Curso Completo de=C2=A0</strong></span></p>
+<p><span style=3D"font-size:14pt"><strong>Produ=C3=A7=C3=A3o Org=C3=A2nica<=
+/strong> basta clicar no link abaixo.</span></p>
+<p><span style=3D"font-size:14pt"><strong><a href=3D"http://www.congresso.a=
+groecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3D4007AEE0-42F3-4C6C-B8=
+42-DC7F86690E14&amp;u=3D9c9640ac-01d9-42d9-951f-35c8bd8ceb20" rel=3D"noopen=
+er noreferrer" target=3D"_blank">Link Para a sua =C3=BAltima chance.</a></s=
+trong></span></p>
+<p><span style=3D"font-size:14pt">Um Abra=C3=A7o</span></p>
+<p><span style=3D"font-size:14pt">Fabio Mariani</span></p>
+<p><span style=3D"font-size:14pt">PS. No link h=C3=A1 um v=C3=ADdeo de tudo=
+ que voc=C3=AA precisa saber para decidir se esse programa de estudos =C3=
+=A9 para voc=C3=AA ou n=C3=A3o.</span></p>
+<p><span style=3D"font-size:14pt"><strong><a href=3D"http://www.congresso.a=
+groecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3D4007AEE0-42F3-4C6C-B8=
+42-DC7F86690E14&amp;u=3D9c9640ac-01d9-42d9-951f-35c8bd8ceb20" rel=3D"noopen=
+er noreferrer" target=3D"_blank">Assista o V=C3=ADdeo.</a></strong></span><=
+/p><br><hr><br><br><a href=3D"https://maps.google.com/?q=3DRua+Joaquim+Alve=
+s+Taveira+1615+-+Dourados+-+MS+-+79824100&amp;entry=3Dgmail&amp;source=3Dg"=
+>Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100</a><br>Caso n=C3=
+=A3o queira mais receber meus e-mails, <a href=3D"http://www.congresso.agro=
+ecoweb.com.br/redirect/redirect.aspx?A=3DU&amp;u=3D9c9640ac-01d9-42d9-951f-=
+35c8bd8ceb20" target=3D"_blank">acesse esse link. (Unsubscribe)</a>.<br><br=
+><img alt=3D"" src=3D"http://www.congresso.agroecoweb.com.br/redirect/redir=
+ect.aspx?A=3DV&amp;u=3D9c9640ac-01d9-42d9-951f-35c8bd8ceb20&amp;IMG=3D9c964=
+0ac-01d9-42d9-951f-35c8bd8ceb20.png" style=3D"width:100%;height:5px;max-hei=
+ght:5px"><br>Enviado com amor por leadlovers <a href=3D"http://www.congress=
+o.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DCF00CE86-E25F-4305=
+-BCD1-3F18466CA703&amp;u=3D9c9640ac-01d9-42d9-951f-35c8bd8ceb20" target=3D"=
+_blank">Lead Lovers</a>
+</blockquote></div></div>
+
+--001a113d67543a199b055df55541--

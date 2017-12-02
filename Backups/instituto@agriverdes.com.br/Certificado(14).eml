@@ -1,0 +1,69 @@
+Return-Path: <tw.violardi@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id UFvDE/MZAlqhfgAAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 07 Nov 2017 18:39:15 -0200
+Return-path: <tw.violardi@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 07 Nov 2017 18:39:15 -0200
+Received: from mail-it0-f54.google.com ([209.85.214.54]:48044)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <tw.violardi@gmail.com>)
+	id 1eCAeR-000AXg-49
+	for instituto@agriverdes.com.br; Tue, 07 Nov 2017 18:39:15 -0200
+Received: by mail-it0-f54.google.com with SMTP id p138so4106782itp.2
+        for <instituto@agriverdes.com.br>; Tue, 07 Nov 2017 12:38:54 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=YUJSbKHSkKC43iMGIVZW4FV5mPQUXVMOqEG9Y/sxIhg=;
+        b=ZJB7yfk2KZRjChZN1wrar9p3N0whxjKZFK7Ocec5Z5Zam0YpNwca0Nnd0p+g+ngVcP
+         g6As9A70BsW6oFClKIyt+5nK6ziuoo7d2DGO5P6ZU5KbFBAT2fFD2nfMEStY8CbHrIVQ
+         DgkDZgjbtXINhdK3tRlnv2nQ5SawaDH6l0eQG0W2vLnRHVWt9gh5LwJKzHFBbQb26zNp
+         ++9vN18YnGI9iUCg8PdZh66taRhRJpk6QQTgbAIpyDYmbG5ui/ukeCthI5bQ/xgA7XKx
+         XGvzJMt5v+WDbzbecP4Am7fRwKtKagJCxix73BoEWsR4a79SAnBbYxpLxbs76xO1q/uZ
+         5UCw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=YUJSbKHSkKC43iMGIVZW4FV5mPQUXVMOqEG9Y/sxIhg=;
+        b=TXJcocYgRN9oql7lX8d64ThV/89CXNOucumNoAsKqZJP60WkPIQpMg/OOawS2I1/Oj
+         jfmhxRjPANal2eq/WtXODSe+7OTH4aMi97udamaOuer8Ir390CM/jWL5K97me1Pd3viv
+         cANQN/dRZXbhbx2bK/s0qlW9VWiSR/XDNQ5kloygMUmQQPFPnjGf1N2zZM9kaEzPpCSt
+         JXaGVKevo4CnsYF028km/bzZ1Rr10nZQXjeTrjPrpWpHTFtPa5qqrM9MQk26S+NkkUaj
+         VhypIwYLYEzZxCsQ0nMUXKrutbC8x0fVqxTBq/GtAn/xPmU634wuSqbkJClAONJ14AHM
+         rsZg==
+X-Gm-Message-State: AJaThX7C2EJMyIDTJ4DGXr33gLpWYKCQ33iSpl9FowCdj5ugYncDjXav
+	e4lr6YCNGTfayv5B3tOWcNi8RIqoWWW95YB78N0=
+X-Google-Smtp-Source: ABhQp+Qv991+PTU2ymVEWyqlvm3Pb5r6LtNwA0SVhDKRMVT4/mZzm8QnQkqG7bMFJRblb6yTu/lnOPWDfxedV6bQQPk=
+X-Received: by 10.36.54.210 with SMTP id l201mr709957itl.0.1510087112036; Tue,
+ 07 Nov 2017 12:38:32 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.79.27.208 with HTTP; Tue, 7 Nov 2017 12:38:31 -0800 (PST)
+Received: by 10.79.27.208 with HTTP; Tue, 7 Nov 2017 12:38:31 -0800 (PST)
+In-Reply-To: <CAKwvO24dwg8AvVdpZQJK1KJO0zet9=wYeKHHmeAnr+zBmGX6CQ@mail.gmail.com>
+References: <CAKwvO24dwg8AvVdpZQJK1KJO0zet9=wYeKHHmeAnr+zBmGX6CQ@mail.gmail.com>
+From: Tania Maria Lopes Ramos Almeida Violardi <tw.violardi@gmail.com>
+Date: Tue, 7 Nov 2017 18:38:31 -0200
+Message-ID: <CAKwvO26Zd-uDaD-7z1xPYH7jWiSNPtGzFU7hQhf0_DHwqvHJrg@mail.gmail.com>
+Subject: Certificado
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/alternative; boundary="001a11440468e49a84055d6a8d7f"
+
+--001a11440468e49a84055d6a8d7f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Como fa=C3=A7o o dep=C3=B3sito de 19,00
+reais????
+
+--001a11440468e49a84055d6a8d7f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Como fa=C3=A7o o dep=C3=B3sito de 19,00<br>
+reais????</p>
+
+--001a11440468e49a84055d6a8d7f--

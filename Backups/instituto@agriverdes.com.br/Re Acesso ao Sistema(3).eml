@@ -1,0 +1,91 @@
+Return-Path: <mcaraujo864@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id yJrgOWHE91mU4A8AVsPpow
+	for <instituto@agriverdes.com.br>; Mon, 30 Oct 2017 22:31:29 -0200
+Return-path: <mcaraujo864@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Mon, 30 Oct 2017 22:31:29 -0200
+Received: from mail-ua0-f179.google.com ([209.85.217.179]:43375)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <mcaraujo864@gmail.com>)
+	id 1e9KSn-0001YI-Ph
+	for instituto@agriverdes.com.br; Mon, 30 Oct 2017 22:31:29 -0200
+Received: by mail-ua0-f179.google.com with SMTP id u32so10881290uau.0
+        for <instituto@agriverdes.com.br>; Mon, 30 Oct 2017 17:31:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=JbXNbnxTFeV9pxS7ahGjLK8rYPcDTe5J37L1RRMFeoU=;
+        b=qTwFQBT/kyDJN79+wde4XyKYE0fAzM76bbbGWOeh1h9Pv9ESBS/ekvRfau5iYheu4U
+         7OUqZSbGHMiSG9zvs6n36xslxRrNcdDm9m4WhHpeVVqe30WnTFf9AsK7Kd+JzLZYMXAd
+         9ks1Gb5jHfedW/OmA7cV+pWE7QGsukw/Q5vEbbgwlW7R4J2hgdlbsgJhj45tb6L3kYoV
+         +WFvd5OHiZYm1P2NguWB1SW1omv1DN9/FPlosP5p68qchblZUU1nBpfX/i38QPNON9nQ
+         NZe8lyd0EmnjS3+r1gLPOmZMxUjX68WQzxJiYNmxHfPCZef8YWzVxGhdrOr+W56KNWOs
+         JpYw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=JbXNbnxTFeV9pxS7ahGjLK8rYPcDTe5J37L1RRMFeoU=;
+        b=mzmLsWAPGpYmmXP4btMjgQUbmXWslxL+6fCev3ZKTbfe0u5VaB7SSHyfs6y7O9rgq7
+         L8Pf2+XBTgeFMMNvUEF6XbJPhYZIXO6MekPF6V04KbsAY1qUVChM93rXiEYjBlyMsley
+         E+gKVQ9tEquxpJBlo9MhEncD4OHc3nw782Bl35A8urKZvRn3xdkdbBhFJnQZH3mxpQ8W
+         ACvJX4yQqCVDUC5/h9Rr8z23jyQA5Ev6m4fZZMmlZHM5hXJE9jrrKJhT9zeHAnZDovXn
+         qM7dWEpDx6s3N/ky2XM9IBqU0vDAMbxsVZXZoJSrTL5ZdKMzTrJMAPJzudmsdrc9Wec+
+         Zghw==
+X-Gm-Message-State: AJaThX5wV4p6kUN7o6IWzmKQ1ARU9O46oIQ8+B5aX/MarnXoNvRkxAKo
+	EFGdWYDCxk1smnI1S9k/KW8GE7kFQpuohW98hmIWoQ==
+X-Google-Smtp-Source: ABhQp+R93hUv8mhjFTjqh0qx19/7EgjSb4OYCMo/AYhRuEYzJ0T6sarmK/tKXQpxAbnm2yoBo+8Y0Ev8+v5dKTeRyXg=
+X-Received: by 10.159.56.98 with SMTP id q31mr157045uad.16.1509409846580; Mon,
+ 30 Oct 2017 17:30:46 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.31.107.15 with HTTP; Mon, 30 Oct 2017 17:30:46 -0700 (PDT)
+In-Reply-To: <f7gXSz-SQvqrNHmZPPhRqQ@ismtpd0004p1lon1.sendgrid.net>
+References: <f7gXSz-SQvqrNHmZPPhRqQ@ismtpd0004p1lon1.sendgrid.net>
+From: =?UTF-8?Q?Marino_C=C3=A2mara?= <mcaraujo864@gmail.com>
+Date: Mon, 30 Oct 2017 22:30:46 -0200
+Message-ID: <CA+b9iATL7Bfcn95Mtux-ckmUKTWZdGU0q3E82voLGGcVANP7AQ@mail.gmail.com>
+Subject: Re: Acesso ao Sistema
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/alternative; boundary="001a11495b6eb9def1055cccdd5b"
+
+--001a11495b6eb9def1055cccdd5b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+boa noite, gostaria de cancelar esta compra por favor
+
+Em 15 de outubro de 2017 17:38, Instituto Agriverdes <
+instituto@agriverdes.com.br> escreveu:
+
+> Ol=C3=A1,
+>
+> segue abaixo os dados para acesso ao sistema:
+> *Login/E-mail de Acesso:* mcaraujo864@gmail.com
+> *Senha:* a146cc
+> *Link de Acesso::* http://d0a6c20.contato.site/login
+>
+> Obrigado!
+
+--001a11495b6eb9def1055cccdd5b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">boa noite, gostaria de cancelar esta compra por favor</div=
+><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">Em 15 de outubro=
+ de 2017 17:38, Instituto Agriverdes <span dir=3D"ltr">&lt;<a href=3D"mailt=
+o:instituto@agriverdes.com.br" target=3D"_blank">instituto@agriverdes.com.b=
+r</a>&gt;</span> escreveu:<br><blockquote class=3D"gmail_quote" style=3D"ma=
+rgin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><u></u>Ol=C3=
+=A1,<br><br>segue abaixo os dados para acesso ao sistema:<br><b>Login/E-mai=
+l de Acesso:</b>=C2=A0<a href=3D"mailto:mcaraujo864@gmail.com" target=3D"_b=
+lank">mcaraujo864@gmail.com</a><br><b>Senha:</b>=C2=A0a146cc<br><b>Link de =
+Acesso::</b>=C2=A0<a href=3D"http://d0a6c20.contato.site/login" target=3D"_=
+blank">http://d0a6c20.<wbr>contato.site/login</a><br><br>Obrigado!<img alt=
+=3D"" src=3D"http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?=
+A=3DV&amp;u=3DD33FC023-9AF1-4B87-B8B6-956372DF2C99&amp;IMG=3Dhttps://leadlo=
+vers.com/content/images/1px.png"></blockquote></div><br></div>
+
+--001a11495b6eb9def1055cccdd5b--

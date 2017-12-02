@@ -1,0 +1,458 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+			
+		<title>Portal de notícias</title>
+	</head>
+
+	<body>
+
+<style>	
+/* CSS DA PÁGINA DO CONGRESSO */
+
+.topo-congress {
+			    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+			    transition: 0.3s;
+			    width: 23.5%;
+			    float: left;
+			    margin-left: 30px;
+			}
+
+			.topo-congress:hover {
+			    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+			}
+
+			.element-congress {
+			    padding: 2px 16px;
+			    overflow: hidden;
+				height:90px;
+			}
+			.parallax-congress {
+				background-image: url("http://localhost/Projects/wordpress/wp-content/uploads/2017/11/banner.jpg");
+				width:100%; 
+				
+				position: relative;
+				top: 450px;
+			    min-height: 500px; 
+				background-attachment: fixed;
+			    background-position: center;
+			    background-repeat: no-repeat;
+			    background-size: cover;
+			}
+			@media screen and (min-width: 991px){
+				.parallax-congress .parallax-congress-img {
+					position:relative;
+					top: -180px;
+					left: 180px;
+				}
+			}
+			.speakers-congress {
+				float: left;
+				margin-left: 20px;
+				position: relative;
+				top: 450px;
+			}
+			.fundo-cinza {
+				background-color: #eee;	
+			}
+			.spk-congress {
+				position: relative;
+				top: 450px;
+			}
+			.card-congress {
+				  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+				  max-width: 300px;
+				  margin: auto;
+				  text-align: center;
+				  font-family: arial;
+				}
+
+				.title-congress {
+				  color: grey;
+				  font-size: 18px;
+				}
+
+				.button-congress {
+				  border: none;
+				  outline: 0;
+				  display: inline-block;
+				  padding: 8px;
+				  color: white;
+				  background-color: #000;
+				  text-align: center;
+				  cursor: pointer;
+				  width: 100%;
+				  font-size: 18px;
+				}
+
+				.a-congress {
+				  text-decoration: none;
+				  font-size: 22px;
+				  color: black;
+				}
+
+				.button-congress:hover, .a-congress:hover {
+				  opacity: 0.7;
+				}
+				.card-congress {
+				    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+				    transition: 0.3s;
+				    width: 40%;
+				    border-radius: 5px;
+					float:left;
+					margin:15px;
+					position:relative;
+					top:550px;
+				}
+
+				.card-congress:hover {
+				    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+				}
+
+				.img-congress {
+				    border-radius: 5px 5px 0 0;
+				}
+
+				.container-congress {
+				    padding: 2px 16px;
+				}
+				/* tabcongress-congress */
+
+				/* Style the tabcongress */
+				div.tabcongress {
+				    overflow: hidden;
+				    border: 1px solid #37ad27;
+				    background-color: #37ad27;
+					width:60.45%;
+					float:left;
+				}
+
+				/* Style the buttons inside the tabcongress */
+				div.tabcongress button {
+				    background-color: inherit;
+					
+				    border: none;
+				    outline: none;
+				    cursor: pointer;
+				    padding: 14px 16px;
+				    transition: 0.3s;
+				    font-size: 17px;
+					color: white;
+					
+				}
+
+				/* Change background color of buttons on hover */
+				div.tabcongress button:hover {
+				    background-color: #219127;
+				}
+
+				/* Create an active/current tabcongresslink class */
+				div.tabcongress button.active {
+				    background-color: #219127;
+				}
+
+				/* Style the tabcongress-congress content */
+				.tabcongresscontent {
+				    display: none;
+				    padding: 6px 12px;
+				    -webkit-animation: fadeEffect 1s;
+				    animation: fadeEffect 1s;
+				}
+
+				/* Fade in tabcongress-congresss */
+				@-webkit-keyframes fadeEffect {
+				    from {opacity: 0;}
+				    to {opacity: 1;}
+				}
+
+				@keyframes fadeEffect {
+				    from {opacity: 0;}
+				    to {opacity: 1;}
+				}
+				.event-congress {
+					position: relative;
+					top: 800px;
+				}
+				div.tab2 {overflow: hidden;border: 1px solid #ccc;background-color: #f1f1f1;}
+				div.tab2 button {background-color: inherit;float: left;border: none;outline: none;cursor: pointer;padding: 14px 16px;transition: 0.3s;}
+				div.tab2 button:hover {background-color: #ddd;}
+				div.tab2 button.active {background-color: #ccc;}
+				.tabcontent2 {display: none;padding: 6px 12px;border: 1px solid #ccc;border-top: none;height: 100px} 
+				.tabcontent2 .hour-congress {float: left; margin:20px;width: 30%;}
+				.tabcontent2 .hour-congress span.hour {background-image: url("Image/hour.png");background-size: 10px 10px;background-repeat: no-repeat;float: left;width: 15%;height: 15px;}
+				.tabcontent2 .hour-congress span.online {background-image: url("Image/online.png");background-size: 10px 10px;background-repeat: no-repeat;float: left;width: 15%;height: 15px;}
+				.tabcontent2 .hour-congress span.name {background-image: url("Image/person.png");background-size: 10px 10px;background-repeat: no-repeat;float: left;width: 15%;height: 15px;}
+				.tabcontent2 .content-congress {margin:20px;width: 69%;}
+		</style>
+		<center>
+			<section class="topo-congress">
+			<img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/1.png" alt="" width="300" height="300" class="alignnone size-full wp-image-43" />
+			<div class="element-congress">
+				<p>Greatest on-line congress of agroecology and permaculture in the world</p>
+			</div>
+		</section>
+		<section class="topo-congress">
+			<img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/2.png" alt="" width="300" height="300" class="alignnone size-full wp-image-44" />
+			<div class="element-congress">
+				<p>More than 30 lectures and a range of knowledge never seen before</p>
+			</div>
+		</section>
+		<section class="topo-congress">
+			<img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/3.png" alt="" width="300" height="300" class="alignnone size-full wp-image-45" />
+			<div class="element-congress">
+				<p>#1 agroecology course!
+					<br>#1 permaculture course!</p>
+				
+			</div>
+		</section>
+		</center>
+		
+		<div class="parallax-congress">
+			<a href="http://www.congress.agroecoweb.com.br/english">
+				<img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/12/text.png" alt="" width="750" height="243" class="alignnone size-full wp-image-163 parallax-congress-img" />
+			</a>
+		</div>
+		
+		
+
+		<h2 class="spk-congress">speakers-congress</h2>
+		<hr class="spk-congress">
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/jacimar.jpg" alt="" width="100%" class="alignnone size-full wp-image-80 img-congress" />
+		  <div class="element-congress container-congress">
+				<h4>Jacimar L. de Souza</h4>
+				<p>Ph.D. in Agronomy.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Carolina-Starr.jpg" alt="" width="100%" class="alignnone size-full wp-image-74 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Carolina Starr</h4>
+				<p>Consultant on Biodiversity and Ecosystems Services.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Caterina-Batello-Italiana_italy.jpg" alt="" width="100%" class="alignnone size-full wp-image-75 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Caterina Batello</h4>
+				<p>Team leader on Ecosystem services and Agroecology the FAO.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Paul-B.png" alt="" width="100%" class="alignnone size-full wp-image-83 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Paul B. Thompson</h4>
+				<p>Professor & WK Kellogg President in Agricultural, Food and Community Ethics.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Ulrich-Loening-Reino-unido_.jpg" alt="" width="100%" class="alignnone size-full wp-image-88 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Ulrich Loening</h4>
+				<p>D Phil in Biochemistry from the University of Edinburgh.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/GilhermeCastagnaa.jpg" alt="" width="100%" class="alignnone size-full wp-image-78 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Guilherme Castagna</h4>
+				<p>Founder and partner of Fluxus Ecological Design.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Joshua-Farley__USA.jpg" alt="" width="100%" class="alignnone size-full wp-image-81 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Joshua Farley</h4>
+				<p>Ph.D. in Sustainable Development.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Tor-Arvid-Breland_english.jpg" alt="" width="100%" class="alignnone size-full wp-image-87 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Tor Arvid Breland</h4>
+				<p>Agroecologist, Norwegian University of Life Sciences [N.M.B.U.]</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Philip-B_USA.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-84 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Philip B. Stark</h4>
+				<p>Professor of Statistics at the University of California, Berkeley.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Geir-Lieblein.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-77 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Geir Lieblein</h4>
+				<p>Agroecologist, Norwegian University of Life Sciences [N.M.B.U.]</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Anna-Marie-Nicolaysen.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-73 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Anna Marie Nicolaysen</h4>
+				<p>Agroecologist, Norwegian University of Life Sciences [N.M.B.U.]</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/HANS-HERRENl-ingles.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-79 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Hans Rudolf Herren</h4>
+				<p>PhD in Entomology-Biological Control</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/Steve-Gliessman-USA.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-85 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Steve Gliessman</h4>
+				<p>Ph.D. in Agroecology</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/TejaTscharntke_GERMANY.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-86 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Teja Tscharntke</h4>
+				<p>Professor of Agroecology, University of Göttingen, Germany.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/LUO_.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-82 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Luo Shiming</h4>
+				<p>Professor of Agroecology, South China Agricultural University.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/1.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-67 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Adriana Galbiati</h4>
+				<p>Environmental Engineer and Permaculture.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/11.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-70 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Manoel Baltasar</h4>
+				<p>Professor and PhD in Environment.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/4.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-69 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Elias de Melo</h4>
+				<p>Researcher at the Tropical Agronomic Center for Research and Teaching - CATIE.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/133.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-72 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Valdely Kinupp</h4>
+				<p>Ph.D. in Plant Science and Horticulture.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/FRANCIS-USA.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-76 img-congress"  />
+			<div class="element-congress container-congress">
+				<h4>Charles Francis</h4>
+				<p>Agroecologist, Norwegian University of Life Sciences [N.M.B.U.]</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/3.jpg" alt="" alt="" width="100%" class="alignnone size-full wp-image-68 img-congress"  />
+			<div class="element-congress container-congress">
+				<h4>Carlos A. Khatounian</h4>
+				<p>PhD in Sustainable Agriculture.</p>
+			</div>
+		</div>
+		<div class="card-congress">
+		  <img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/12.jpg alt="" alt="" width="100%" class="alignnone size-full wp-image-71 img-congress" />
+			<div class="element-congress container-congress">
+				<h4>Milton Padovan</h4>
+				<p>Ph.D. in Agroecology</p>
+			</div>
+		</div>
+
+
+		
+		<a href="http://www.congress.agroecoweb.com.br/english"><img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/11/SIGN-UP-300x77.png" alt="" width="300" height="77" style="position:relative;top:750px;" class="alignnone size-full wp-image-94" /></a>
+
+		<div class="event-congress">
+			<h4>Event Schedule</h4>
+			<p>The Congress will be from 04/10 to 10/10/2017</p>
+			<hr>
+			
+			<div class="tab2">
+				<button class="tablinks2" onclick="funcAdm(event, 'geral')">Day 1</button>
+				<button class="tablinks2" onclick="funcAdm(event, 'adm1')">Day 2</button>
+				<button class="tablinks2" onclick="funcAdm(event, 'adm2')">Day 3</button>
+				<button class="tablinks2" onclick="funcAdm(event, 'adm3')">Day 4</button>
+				<button class="tablinks2" onclick="funcAdm(event, 'adm4')">Day 5</button>
+				<button class="tablinks2" onclick="funcAdm(event, 'adm5')">Day 6</button>
+			</div>
+
+					<div id="geral" class="tabcontent2">
+					  <div class="hour-congress">
+					  	<span class="hour"></span> 08:00 - 09:00 <br>
+					  	<span class="online"></span> Online <br>
+					  	<span class="name"></span> Milton Padovan <br>
+					  </div>
+					  <div class="content-congress">
+					  	<h3>Agroecology Course – Lecture 1</h3>
+					  	<a href=""><img src="" alt=""></a>
+					  </div>
+					</div>
+
+					<div id="adm1" class="tabcontent2">
+					  <p>Not registred.</p>
+					</div>
+
+					<div id="adm2" class="tabcontent2">
+					  <p>Not registred.</p>
+					</div>
+
+					<div id="adm3" class="tabcontent2">
+					  <p>Not registred.</p>
+					</div>
+
+					<div id="adm4" class="tabcontent2">
+					  <p>Not registred.</p>
+					</div>
+
+					<div id="adm5" class="tabcontent2">
+					  <p>Not registred.</p>
+					</div>
+					
+				</div>
+			</div>
+			<script type="text/javascript">
+				function funcAdm(evt, opAdm) {
+				    var i, tabcontent, tablinks;
+				    tabcontent = document.getElementsByClassName("tabcontent2");
+				    for (i = 0; i < 6; i++) {
+				        tabcontent[i].style.display = "none";
+				    }
+				    tablinks = document.getElementsByClassName("tablinks2");
+				    for (i = 0; i < tablinks.length; i++) {
+				        tablinks[i].className = tablinks[i].className.replace(" active", "");
+				    }
+
+				    document.getElementById(opAdm).style.display = "block";
+				    evt.currentTarget.className += " active";
+				} 
+			</script>
+		
+     	</div>
+		<div style="position:relative;top:800px;">
+			<img src="http://localhost/Projects/wordpress/wp-content/uploads/2017/12/Estrela1.jpg" alt="" width="100%" class="alignnone size-full wp-image-180" />
+			<center>
+				<h2>GOING TO WAKE UP ...</h2>
+				<p>Watch Angela Hilmi Lecture</p>
+				<p>In the first edition of AgroecoWeb, last year.</p>
+			</center>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/pnzAvhhD-r0" frameborder="0" allowfullscreen></iframe>
+		</div>
+		<div style="height:1000px;"></div>
+
+	</body>
+</html>

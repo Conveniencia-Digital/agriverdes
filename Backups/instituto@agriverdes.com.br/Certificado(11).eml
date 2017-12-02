@@ -1,0 +1,94 @@
+Return-Path: <rhaynnaa@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id ENeaGV2g+VnxDwoAVsPpow
+	for <instituto@agriverdes.com.br>; Wed, 01 Nov 2017 08:22:21 -0200
+Return-path: <rhaynnaa@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Wed, 01 Nov 2017 08:22:21 -0200
+Received: from mail-oln040092004049.outbound.protection.outlook.com ([40.92.4.49]:25028 helo=NAM02-CY1-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <rhaynnaa@hotmail.com>)
+	id 1e9qA8-002qdd-LO
+	for instituto@agriverdes.com.br; Wed, 01 Nov 2017 08:22:21 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=XIL02qpWFEVA0SqMSoq5bsO9CbS6LDkc+2V9DaDiH5w=;
+ b=myXLCuI9IzKnSI0AIjojuy9JGUA9TAxNQEZGIZanp0H984Z3FKrmageF0L5ezudYWQ1uXn1g1DR6rXqbX0xm83CSqa/08u7DcJh/TqZ+dZAiuZG2utyU3g18NRtQTbai8SGwRVADnjjEAUa24Q2E+M/VCa+eNt4czS33/3sfNFg0fJ6cEtsrGldVylbJP4PfNvVvSYgff+36+U1Q1WETmSk04Lk1x3TYsiHLzhZ1a6TTjkh/PVOZ5dgSSeFU9moRq4Zr4iwUqECDwTkFTzY0vA5alH0dNNk0q96Qtm5CgV34TK9sSt6K7jCgaBELEuuD3LMjU6IGV5n6sNl95ktaag==
+Received: from SN1NAM02FT015.eop-nam02.prod.protection.outlook.com
+ (10.152.72.55) by SN1NAM02HT068.eop-nam02.prod.protection.outlook.com
+ (10.152.73.77) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.178.5; Wed, 1 Nov
+ 2017 10:21:37 +0000
+Received: from CP2PR80MB0641.lamprd80.prod.outlook.com (10.152.72.59) by
+ SN1NAM02FT015.mail.protection.outlook.com (10.152.72.109) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.178.5 via Frontend Transport; Wed, 1 Nov 2017 10:21:37 +0000
+Received: from CP2PR80MB0641.lamprd80.prod.outlook.com ([10.171.203.147]) by
+ CP2PR80MB0641.lamprd80.prod.outlook.com ([10.171.203.147]) with mapi id
+ 15.20.0197.013; Wed, 1 Nov 2017 10:21:35 +0000
+From: Rhaynna Santiago <rhaynnaa@hotmail.com>
+To: "instituto@agriverdes.com.br" <instituto@agriverdes.com.br>
+Subject: Certificado
+Thread-Topic: Certificado
+Thread-Index: AQHTUvsyREJ+RuULF0+O4gKYpV0Dxw==
+Date: Wed, 1 Nov 2017 10:21:35 +0000
+Message-ID: <CP2PR80MB0641D112C58B726C771E42BFCD5F0@CP2PR80MB0641.lamprd80.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:2470FD8A3DC2BE0FD4EA810F366D833197E20C2B5F6A47108C166074333A3AE1;UpperCasedChecksum:5CFECC647E4B395B609AEC9D7847199658340FD9411A54DDC799BC5F1450B498;SizeAsReceived:6813;Count:44
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [uYosYPd2ZUZV9AW6Qv/Tlq23xc1iK0f49Uf98b/2Vsw=]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1NAM02HT068;6:PlrK0PX8zwYQgM//SvO4u4Wxfplj6JF5nGiVUgKB603s/fQhsS5a++AifQ1J/kKf9KNto2QnEYOb5fhn27nX46QfRGeYDSeTtVz0emK79euP6z+hzFmv1ABEsaIMh9ewJKWutcuo8BVAm/INrdjoDTZ49bYanwdtnmGp9h3XJLTW3KhS2Q+Vw91R032AjPaL6GTQQxFhCask4rk83S6hSoVnnO0b9otoOaLT/mIZmQGpiP7VNSAPmOr192kvzlSUS6sUIiOaGPbB2uW9ZbTNSUI7cjr7h+82sKdW1kRuWp/g5v0OMiWUKbG+udBaJaaA+tGHzEWL3aW1XHdGSL1Nv7eypZjhFCDAOFsFDI0R6H0=;5:KZX/zK8siq3vzEX/7QZ7GHzSKU77lBhsxYPmdx2YiLqRQX4HOIbPBvgphILWgLCH7GITEU0DHyILrNPHRPpHzkAlCNF8zD1kOz4IiLeX5BvwFOTj7AzRKSANPaYrwo88+WsLal8gFUfyKafVxFlECYEhLFPXZxUwNNNW5c+VTkQ=;24:XAy2j1UnAQ0xFN6Ywfu3ZmQKzEiwWbPMOBAkzyFGaMzQ06jcCv8rOt4Dce5GmP/Q0TDT61a34lXhlqO7VeKMlrfQwqmgrljFWPrg64SPkbU=;7:/eYfHo0WJbHnhVcDnjUr34dceko/X8c27dRf18yrEVJ/1F+nNh/TpvXSkydBfjGpDUQ+NxZt1F4WMnDoyXb5+9mCDEFqVyiQTybfeQsNOBKEW8ThzbIQQx+Up4O6AuQWaH9qSKqbvl3wX/TwbdmofSjFFE1r4WPF5higj+4wdmOgSU69nATbV4yWlFgVixlyWRHoJgFE4Hd4f0Zk9hY29miaLKfIlcOKscjiWhxsrlZPq98ZtHAyVbftVPxLAUqU
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: a7165fc4-0aee-4d01-2d5d-08d5211254b6
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:SN1NAM02HT068;
+x-ms-traffictypediagnostic: SN1NAM02HT068:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:SN1NAM02HT068;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:SN1NAM02HT068;
+x-forefront-prvs: 0478C23FE0
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SN1NAM02HT068;H:CP2PR80MB0641.lamprd80.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CP2PR80MB0641D112C58B726C771E42BFCD5F0CP2PR80MB0641lamp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: a7165fc4-0aee-4d01-2d5d-08d5211254b6
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Nov 2017 10:21:35.6052
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM02HT068
+
+--_000_CP2PR80MB0641D112C58B726C771E42BFCD5F0CP2PR80MB0641lamp_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+Rml6IG8gcGFnYW1lbnRvIGRvIG1ldSBjZXJ0aWZpY2FkbyBmYXogbWFpcyBkZSAxMCBkaWFzIGUg
+YWluZGEgbsOjbyBvIHJlY2ViaS4NCg0KDQoNCkVudmlhZG8gZG8gbWV1IHNtYXJ0cGhvbmUgU2Ft
+c3VuZyBHYWxheHkuDQo=
+
+--_000_CP2PR80MB0641D112C58B726C771E42BFCD5F0CP2PR80MB0641lamp_
+Content-Type: text/html; charset="utf-8"
+Content-ID: <6E2B1F7606FD9A4BBD01B0C833890124@sct-15-20-156-4-msonline-outlook-e451c.templateTenant>
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5Pg0KPGRpdj5GaXogbyBw
+YWdhbWVudG8gZG8gbWV1IGNlcnRpZmljYWRvIGZheiBtYWlzIGRlIDEwIGRpYXMgZSBhaW5kYSBu
+w6NvIG8gcmVjZWJpLjwvZGl2Pg0KPGRpdj48YnI+DQo8L2Rpdj4NCjxkaXY+PGJyPg0KPC9kaXY+
+DQo8ZGl2Pjxicj4NCjwvZGl2Pg0KPGRpdiBpZD0iY29tcG9zZXJfc2lnbmF0dXJlIj4NCjxkaXYg
+c3R5bGU9ImZvbnQtc2l6ZTo4NSU7Y29sb3I6IzU3NTc1NyIgZGlyPSJhdXRvIj5FbnZpYWRvIGRv
+IG1ldSBzbWFydHBob25lIFNhbXN1bmcgR2FsYXh5LjwvZGl2Pg0KPC9kaXY+DQo8L2JvZHk+DQo8
+L2h0bWw+DQo=
+
+--_000_CP2PR80MB0641D112C58B726C771E42BFCD5F0CP2PR80MB0641lamp_--

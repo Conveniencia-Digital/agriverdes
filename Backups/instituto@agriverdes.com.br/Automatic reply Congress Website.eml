@@ -1,0 +1,209 @@
+Return-Path: <>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br (Dovecot) with LMTP id qV0WNHlPWlkX3wMAVsPpow
+	for <instituto@agriverdes.com.br>; Mon, 03 Jul 2017 11:06:49 -0300
+Return-path: <>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Mon, 03 Jul 2017 11:06:49 -0300
+Received: from mail-am5eur02hn0242.outbound.protection.outlook.com ([104.47.4.242]:64976 helo=EUR02-AM5-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	id 1dS201-0016an-CM
+	for instituto@agriverdes.com.br; Mon, 03 Jul 2017 11:06:49 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=livecoventryac.onmicrosoft.com; s=selector1-coventry-ac-uk;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=OgxREizFGAVkONvZYotmkxtXbGwOgZiOBZfefzYzm1M=;
+ b=tQKEABwJPxZN4LyV2sxIFr8Eix0Qqpso+4/3p9wQkaObkzAcmal+LWOK4SSIftFIUCMGO0et2LpHvn7DK1nHhR23Cc7VFlc069E2DAhBU5+kP+HCc6HF4/OMY3UfivdyVCjDedVFeYQgymSP0FSL5vm+n7hSsikobpuo8QKARGY=
+Received: from HE1PR01MB1915.eurprd01.prod.exchangelabs.com (10.165.228.151)
+ by HE1PR01MB1913.eurprd01.prod.exchangelabs.com (10.165.228.149) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1220.11; Mon, 3
+ Jul 2017 14:06:03 +0000
+Received: from HE1PR01MB1915.eurprd01.prod.exchangelabs.com ([::1]) by
+ HE1PR01MB1915.eurprd01.prod.exchangelabs.com ([fe80::5578:18a6:9781:d901%14])
+ with Microsoft SMTP Server id 15.01.1220.014; Mon, 3 Jul 2017 14:06:03 +0000
+From: Angela Hilmi <ab9326@coventry.ac.uk>
+To: "instituto@agriverdes.com.br" <instituto@agriverdes.com.br>
+Subject: Automatic reply: Congress Website
+Thread-Topic: Congress Website
+Thread-Index: AQHS9AWBmEXdFARwv02Q4h3F23CBoaJCIvjE
+Date: Mon, 3 Jul 2017 14:06:03 +0000
+Message-ID: <57e9a8857eb847bd932200041b66487e@HE1PR01MB1915.eurprd01.prod.exchangelabs.com>
+References: <2efec9f976c802f5d066681c757999bf@agriverdes.com.br>
+In-Reply-To: <2efec9f976c802f5d066681c757999bf@agriverdes.com.br>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: ab9326@coventry.ac.uk
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=coventry.ac.uk;
+x-ms-exchange-parent-message-id: <2efec9f976c802f5d066681c757999bf@agriverdes.com.br>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 99263a35-792e-4784-3865-08d4c21ca470
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(2017030254075)(300000503095)(300135400095)(2017052603031)(201703131423075)(201703031133081)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:HE1PR01MB1913;
+x-microsoft-exchange-diagnostics: 1;HE1PR01MB1913;20:jpRtnaB81kXXy4usRexVx9Z1mrBrOp+13cElzfHV9Hu6Lk3mmpAxCq0cVqPRNcUdIwvvGtY7VPGDSlM8Khbcx+EqpRdXpsQZCaRGM77cW/JqSz+8OqruRL1WCmr/Zj1CNVcAEBBSR7Z2ojpJlo4ptqFrFIyVnKa1fPhSyAGorIA=
+x-ms-traffictypediagnostic: HE1PR01MB1913:
+x-microsoft-antispam-prvs: <HE1PR01MB1913B9F814B26254A065D8EBB8D60@HE1PR01MB1913.eurprd01.prod.exchangelabs.com>
+x-exchange-antispam-report-test: UriScan:(151999592597050)(236129657087228)(48057245064654)(148574349560750);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(6040450)(601004)(2401047)(5005006)(8121501046)(3002001)(100000703101)(100105400095)(10201501046)(93006095)(6041248)(20161123560025)(20161123555025)(201703131423075)(201702281528075)(201702281529075)(201703061421075)(201703061750153)(20161123558100)(20161123564025)(20161123562025)(6072148)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:HE1PR01MB1913;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:HE1PR01MB1913;
+x-forefront-prvs: 035748864E
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(50650200002)(39410400002)(39400400002)(39850400002)(39840400002)(39450400003)(85644002)(61684002)(288314003)(2501003)(55016002)(498600001)(38730400002)(33646002)(81166006)(3110400002)(8676002)(110136004)(74316002)(74482002)(2351001)(1730700003)(76176999)(50986999)(5660300001)(78352004)(8936002)(189998001)(24736003)(2950100002)(3280700002)(25786009)(6306002)(102836003)(53936002)(108616004)(3660700001)(2906002)(5640700003)(54896002)(6916009)(53096004)(6436002)(42882006)(54356999)(236005)(99286003)(7696004)(9686003)(6506006)(42262002);DIR:OUT;SFP:1501;SCL:1;SRVR:HE1PR01MB1913;H:HE1PR01MB1915.eurprd01.prod.exchangelabs.com;FPR:;SPF:None;MLV:ovrnspm;PTR:InfoNoRecords;LANG:en;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_57e9a8857eb847bd932200041b66487eHE1PR01MB1915eurprd01pr_"
+MIME-Version: 1.0
+X-OriginatorOrg: coventry.ac.uk
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Jul 2017 14:06:03.8792
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 4b18ab9a-3765-4abe-ac7c-0e0d398afd4f
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: HE1PR01MB1913
+
+--_000_57e9a8857eb847bd932200041b66487eHE1PR01MB1915eurprd01pr_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Apologies, I am out of office until 6 July. I will attend to your emails wh=
+en I can.
+
+Anything urgent with regards to the BOND project please contact:
+
+julia.stew@coventry.ac.uk<mailto:julia.stew@coventry.ac.uk>
+
+jagdees.pabla@coventry.ac.uk<mailto:jagdees.pabla@coventry.ac.uk>
+
+ioannis.vermpis@coventry.ac.uk<mailto:ioannis.vermpis@coventry.ac.uk>
+
+
+Best wishes,
+
+Angela
+
+
+Gold rating for teaching excellence
+Source: Teaching Excellence Framework (TEF)
+
+Ranked No.12 UK university
+Source: The Guardian University Guide 2018
+
+UK's top new university
+Source: The Guardian and the Complete University Guides 2018
+
+Top 4 for Student Experience and Teaching Quality
+Source: The Times and The Sunday Times Good University Guide 2017
+
+NOTICE
+
+This message and any files transmitted with it is intended for the addresse=
+e only and may contain information that is confidential or privileged. Unau=
+thorised use is strictly prohibited. If you are not the addressee, you shou=
+ld not read, copy, disclose or otherwise use this message, except for the p=
+urpose of delivery to the addressee.
+
+Any views or opinions expressed within this e-mail are those of the author =
+and do not necessarily represent those of Coventry University.
+
+--_000_57e9a8857eb847bd932200041b66487eHE1PR01MB1915eurprd01pr_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta http-equiv=3D"Content-Style-Type" content=3D"text/css">
+<title></title>
+<meta name=3D"Generator" content=3D"Cocoa HTML Writer">
+<meta name=3D"CocoaVersion" content=3D"1404.47">
+<style type=3D"text/css">=0A=
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 11.0px Ta=
+homa; color: #000000; -webkit-text-stroke: #000000}=0A=
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 15.0px Ca=
+libri; color: #000000; -webkit-text-stroke: #000000}=0A=
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 15.0px Ca=
+libri; color: #0000ee; -webkit-text-stroke: #000000}=0A=
+span.s1 {font-kerning: none}=0A=
+span.s2 {text-decoration: underline ; font-kerning: none}=0A=
+</style>
+</head>
+<body>
+<p class=3D"p1"><span class=3D"s1">&nbsp;</span></p>
+<p class=3D"p2"><span class=3D"s1">Apologies, I am out of office until 6 Ju=
+ly. I will attend to your emails when I can.<span class=3D"Apple-converted-=
+space">&nbsp;</span></span></p>
+<p class=3D"p2"><span class=3D"s1"><br>
+Anything urgent with regards to the BOND project please contact:</span></p>
+<p class=3D"p3"><span class=3D"s2"><a href=3D"mailto:julia.stew@coventry.ac=
+.uk">julia.stew@coventry.ac.uk</a></span></p>
+<p class=3D"p3"><span class=3D"s2"><a href=3D"mailto:jagdees.pabla@coventry=
+.ac.uk">jagdees.pabla@coventry.ac.uk</a></span></p>
+<p class=3D"p3"><span class=3D"s2"><a href=3D"mailto:ioannis.vermpis@covent=
+ry.ac.uk">ioannis.vermpis@coventry.ac.uk</a></span></p>
+<p class=3D"p2"><span class=3D"s1"><br>
+</span></p>
+<p class=3D"p2"><span class=3D"s1">Best wishes,</span></p>
+<p class=3D"p2"><span class=3D"s1">Angela<br>
+</span></p>
+<p class=3D"p2"><span class=3D"s1"><br>
+</span></p>
+<p style=3D"line-height:15.0pt"><b><span style=3D"font-size:13.5pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#0080D4">Gold rating for teaching ex=
+cellence<br>
+</span></b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,san=
+s-serif;color:black">Source: Teaching Excellence Framework (TEF)</span></p>
+<p style=3D"mso-margin-top-alt:3.0pt;margin-right:0cm;margin-bottom:3.0pt;m=
+argin-left:0cm;line-height:12.0pt">
+<span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;col=
+or:#0080D4"></span></p>
+<p style=3D"line-height:15.0pt"><b><span style=3D"font-size:13.5pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#0080D4">Ranked No.12 UK university<=
+br>
+</span></b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,san=
+s-serif;color:black">Source: The Guardian University Guide 2018</span></p>
+<p style=3D"mso-margin-top-alt:3.0pt;margin-right:0cm;margin-bottom:3.0pt;m=
+argin-left:0cm;line-height:12.0pt">
+<span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;col=
+or:#0080D4"></span></p>
+<p style=3D"line-height:15.0pt"><b><span style=3D"font-size:13.5pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#0080D4">UK&#8217;s top new universi=
+ty<br>
+</span></b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,san=
+s-serif;color:black">Source: The Guardian and the Complete University Guide=
+s 2018</span></p>
+<p style=3D"mso-margin-top-alt:3.0pt;margin-right:0cm;margin-bottom:3.0pt;m=
+argin-left:0cm;line-height:12.0pt">
+<span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;col=
+or:#0080D4"></span></p>
+<p style=3D"line-height:15.0pt"><b><span style=3D"font-size:13.5pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#0080D4">Top 4 for Student Experienc=
+e and Teaching Quality
+<br>
+</span></b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,san=
+s-serif;color:black">Source: The Times and The Sunday Times Good University=
+ Guide 2017</span><span style=3D"font-size:9.0pt;font-family:&quot;Arial&qu=
+ot;,sans-serif;color:#0080D4"></span></p>
+<p style=3D"margin-top:15.0pt;line-height:8.25pt"><span style=3D"font-size:=
+7.0pt;font-family:&quot;Arial&quot;,sans-serif">NOTICE<br>
+<br>
+This message and any files transmitted with it is intended for the addresse=
+e only and may contain information that is confidential or privileged. Unau=
+thorised use is strictly prohibited. If you are not the addressee, you shou=
+ld not read, copy, disclose or otherwise
+ use this message, except for the purpose of delivery to the addressee.<br>
+<br>
+Any views or opinions expressed within this e-mail are those of the author =
+and do not necessarily represent those of Coventry University.</span></p>
+</body>
+</html>
+
+--_000_57e9a8857eb847bd932200041b66487eHE1PR01MB1915eurprd01pr_--

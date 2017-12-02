@@ -1,0 +1,332 @@
+Return-Path: <dazick_19@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br (Dovecot) with LMTP id WdhHIwJ2UlkvjwcAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 27 Jun 2017 12:13:06 -0300
+Return-path: <dazick_19@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 27 Jun 2017 12:13:06 -0300
+Received: from mail-oln040092005047.outbound.protection.outlook.com ([40.92.5.47]:26272 helo=NAM02-SN1-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <dazick_19@hotmail.com>)
+	id 1dPsAs-0024sg-70
+	for instituto@agriverdes.com.br; Tue, 27 Jun 2017 12:13:06 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=aQqWgwb7qfaqybUeiMmyf8eWQPw8whTl4X0iWpLHLNs=;
+ b=hKkiGrgOJsForPb2CvRx/VXSfBNvRpa1ftEi+ywOEeGzJyKjbtIYP3W3UJvxPxbaO966WlgfSLkGNdQu0b2WguyJdIker0U2JAxXzOl+tn3wD5sU+XW6786Y07NkKW17s8KQydD2Po1dM3oNfGBMkhfwjPx6LEXf6MFlJYG6THPsPL+5uEu/qEeW579DbisqxRlYq8DD/+nvbI1jd22RuDF4EvB5E+HQJC33h6dWXeCOKYnUqqa2Kr/3VF0LeMGKddhrytAOjBR61Oarz8PXblYaF4us/Wp+QGqWhyI5Y2vICRwqQJ3On6M2ng2oH2X8EAXyXrkjaXg7Dl6afVFUGA==
+Received: from CY1NAM02FT053.eop-nam02.prod.protection.outlook.com
+ (10.152.74.54) by CY1NAM02HT179.eop-nam02.prod.protection.outlook.com
+ (10.152.75.134) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1199.9; Tue, 27
+ Jun 2017 15:12:23 +0000
+Received: from SC1P152MB0448.LAMP152.PROD.OUTLOOK.COM (10.152.74.51) by
+ CY1NAM02FT053.mail.protection.outlook.com (10.152.74.165) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1199.9 via Frontend Transport; Tue, 27 Jun 2017 15:12:22 +0000
+Received: from SC1P152MB0448.LAMP152.PROD.OUTLOOK.COM ([10.175.204.13]) by
+ SC1P152MB0448.LAMP152.PROD.OUTLOOK.COM ([10.175.204.13]) with mapi id
+ 15.01.1199.019; Tue, 27 Jun 2017 15:12:20 +0000
+From: Alice Zinneck <dazick_19@hotmail.com>
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Subject: Re: Acesso ao Sistema_problemas
+Thread-Topic: Acesso ao Sistema_problemas
+Thread-Index: AQHS71fFn6g9MbeliUGqBi+RMb1e+g==
+Date: Tue, 27 Jun 2017 15:12:20 +0000
+Message-ID: <SC1P152MB0448E84E2B4E87A085BD5DD486DC0@SC1P152MB0448.LAMP152.PROD.OUTLOOK.COM>
+References: <P9Cr4lULTXa5_K5yerJZcA@ismtpd0002p1lon1.sendgrid.net>
+In-Reply-To: <P9Cr4lULTXa5_K5yerJZcA@ismtpd0002p1lon1.sendgrid.net>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:29DE49ECEB55D0F13594A33C9956A62ABE7A86652AFDAC2D24E1170DC034EDC7;UpperCasedChecksum:A438689EBAC7B562AD06E44E164F4BEA025210F874A04CEE48C7796E5178413D;SizeAsReceived:7186;Count:45
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [IAH9TQ6Gc67Tc7VhcX5S2koxV51MdgDjSc91gNmi+zI=]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY1NAM02HT179;7:ZjWdaiucbq7Q8h/OhVvQpX9RKDK4TOZ3dFdgwwVGtz+XYJYBxSnf5aiGI8/bVpEjEMQz2K8FA7huT10blzC4bfYdsyYE1tSKvQw1cbWsWS86Ns7blHW1c2uOiv2XenBgDqMjNHjulP+7Phje8mSKLef8zBTJE/D2i/XEukQhrQpbZHAXW4h5kgb3HCKHvqHBm//R1u5v2oJhtqXjmoe//SAweK+lsZXn0aNjAWRLtgX/U2xrjXcpsgQ1/dIHi192j+IudunJ7Iwa9p9x9i8yzOkv6keOasQ5bYyRqqx/bepYfIOprL9G4SdFjdeV049cgQTAgzLFKqZiP2xXVsjMhjZf/zZJ8XTIF3DaKBg6BfPCXTVqfRYdOTfPZDIpFbdshDp6sfm5oWjWyo58J9RGXM69AwhW1hZKrLnDWFDbJTJGlD+YR0ujbXM/rkEzw2gQX0Uu/cxVczPBLf01JbifjrdtRmxez0xxavNd8xf7v8EvMj92XoRP3tnjJbWd7nv8CfRQLZJVVR7dXRemzrHSs5O0pxpu66NpQI4976a6400x7JYV6Cs2JWrpt2eRe4/KgaGfUYHx/bfVNAXZ2y9XcCmhrQl/e1Ql1rX0oWWhWLC/uE0r1OIprVKAuxdzw8FuA9+6kJB0BZ6zry8Bp3GSmh/9mFOvWngFotf7vG8POHR7YHv1we2qOkO+HieueAw5ABSfF9d07mA8Zpx827X1eBJU2ZgrxTx/Sv8RXFan10FP/yvxYR8PL60wrelC2P5tq2lAfUx1KicqMT0gSSBEpg==
+x-incomingheadercount: 45
+x-eopattributedmessage: 0
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:CY1NAM02HT179;H:SC1P152MB0448.LAMP152.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:pt;
+x-ms-office365-filtering-correlation-id: c9171637-b0c9-4888-f2b7-08d4bd6ee859
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(300000503095)(300135400095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322274)(1601125374)(1603101448)(1701031045)(300000504095)(300135200095)(300000505095)(300135600095);SRVR:CY1NAM02HT179;
+x-ms-traffictypediagnostic: CY1NAM02HT179:
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:CY1NAM02HT179;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CY1NAM02HT179;
+x-forefront-prvs: 0351D213B3
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SC1P152MB0448E84E2B4E87A085BD5DD486DC0SC1P152MB0448LAMP_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Jun 2017 15:12:20.5374
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1NAM02HT179
+
+--_000_SC1P152MB0448E84E2B4E87A085BD5DD486DC0SC1P152MB0448LAMP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Boa tarde.
+
+
+Ap=F3s um tempo sem acessar a plataforma AgroecoWeb Process, hoje fui entra=
+r na mesma e, no entanto, n=E3o tenho mais acesso a uma s=E9rie de conte=FA=
+dos que fazem parte do pacote no qual adquiri. N=E3o tenho mais acesso ao c=
+urso b=E1sico, ao curso AgroecoWeb 1.0, aos treinamentos e cursos, =E0s pal=
+estras do 1=BA AgroecoWeb. Ou seja, n=E3o tenho mais acesso ao conte=FAdo n=
+o qual adquiri quando da compra do pacote.
+
+
+Gostaria, por favor, de esclarecimentos e libera=E7=E3o da integralidade do=
+s materiais que adquiri ao comprar o pacote completo.
+
+
+Atenciosamente,
+
+
+Alice Zinneck
+
+
+
+________________________________
+De: Instituto Agriverdes <instituto@agriverdes.com.br>
+Enviado: quinta-feira, 7 de julho de 2016 07:45
+Para: dazick_19@hotmail.com
+Assunto: Acesso ao Sistema
+
+Ol=E1, Tudo bem??
+
+Seja Muito bem Vindo a Plataforma AgroecoWeb Process.
+
+A partir de agora formamos uma parceria, e estaremos sempre aqui para te aj=
+udar. Hoje contamos
+com uma equipe altamente qualificada de Ph.Ds, Doutores e Mestres, tudo par=
+a levar a voc=EA, a
+mais alta qualifica=E7=E3o e te ajudar a chegar num pr=F3ximo n=EDvel de co=
+nhecimento.
+
+Nossa Plataforma =E9 bem simples e gostosa de navegar. =C9 dividida em pequ=
+enos projetos como
+palestras, cursos, biblioteca, ebooks e etc..
+=C9 so clicar e acessar o Material.
+
+=C9 importante que voc=EA saiba, que adquirindo o acesso voc=EA al=E9m de t=
+er direito ao Curso de
+Agroecologia (AgroecoWeb 1.0) e todos os b=F4nus, a gente sempre estar=E1 a=
+tualizando a plataforma
+
+com cada vez mais materiais e voc=EA ir=E1 usufruir de tudo isso sem precis=
+ar pagar mais nada por
+isso. Fique Ligado que sempre ter=E1 novidade por l=E1.
+
+Falando nos cursos, eles ter=E3o a libera=E7=E3o dia 20 e dia 25 de Julho a=
+gora, se voc=EA adquiriu a
+plataforma principalmente pelo Curso AgroecoWeb 1.0, ele libera dia 20, mas=
+ at=E9 l=E1 =E9
+imprescind=EDvel que voc=EA estude o curso b=E1sico de agroecologia, que j=
+=E1 est=E1 dispon=EDvel, para ter
+a base necess=E1ria para o curso completo.
+
+Bom por enquanto =E9 isso, lembrando que estamos em contato direto pelo ema=
+il do instituto, e que
+voc=EA tem um acompanhamento vip, ent=E3o se precisar de algo que n=E3o ten=
+ha na plataforma ou
+d=FAvidas entre em contato..ok??
+
+Grande Abra=E7o e espero que curta muito tudo que preparamos e que estamos =
+preparando para voc=EA.
+
+F=E1bio Mariani
+Equipe Agriverdes
+
+Segue abaixo os dados para acesso ao sistema:
+
+Login/E-mail de Acesso: dazick_19@hotmail.com
+Senha: 47ec0a
+Link de Acesso:: http://dafbff3.leadlovers.com/login
+AgroecoWeb Process - Login<http://dafbff3.leadlovers.com/login>
+dafbff3.leadlovers.com
+Seja Muito Bem Vindo a Plataforma de Treinamento AgroecoWeb. E-mail. Senha
+
+
+
+
+
+Obrigado!
+E-mail enviado com amor por Lead Lovers<http://hotmart.net.br/show.html?a=
+=3DD2254954D&ap=3Deff3>[http://leadloversclick03.com/redirect/redirect.aspx=
+?A=3DV&u=3D36E7D838-9DE1-45F6-B243-BA4675422499&IMG=3D36E7D838-9DE1-45F6-B2=
+43-BA4675422499.png]
+
+--_000_SC1P152MB0448E84E2B4E87A085BD5DD486DC0SC1P152MB0448LAMP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Boa tarde.</p>
+<p><br>
+</p>
+<p>Ap=F3s um tempo sem acessar a plataforma AgroecoWeb Process, hoje fui en=
+trar na mesma e, no entanto, n=E3o tenho mais acesso a uma s=E9rie de conte=
+=FAdos que fazem parte do pacote no qual adquiri. N=E3o tenho mais acesso a=
+o curso b=E1sico, ao curso AgroecoWeb 1.0,&nbsp;aos
+ treinamentos e cursos, =E0s palestras do 1=BA AgroecoWeb. Ou seja, n=E3o t=
+enho mais acesso ao conte=FAdo no qual adquiri quando da compra do pacote.<=
+/p>
+<p><br>
+</p>
+<p>Gostaria, por favor, de esclarecimentos e libera=E7=E3o da integralidade=
+ dos materiais que adquiri ao comprar o pacote completo.</p>
+<p><br>
+</p>
+<p>Atenciosamente,</p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size: 12pt; color: rgb(0, 0,=
+ 0); background-color: rgb(255, 255, 255); font-family: Calibri, Arial, Hel=
+vetica, sans-serif, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe U=
+I Emoji&quot;, NotoColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android E=
+moji&quot;, EmojiSymbols;">
+Alice Zinneck
+<div><br>
+</div>
+<div><font size=3D"2" color=3D"#666666"></font></div>
+</div>
+</div>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>De:</b> Instituto Agriverdes &l=
+t;instituto@agriverdes.com.br&gt;<br>
+<b>Enviado:</b> quinta-feira, 7 de julho de 2016 07:45<br>
+<b>Para:</b> dazick_19@hotmail.com<br>
+<b>Assunto:</b> Acesso ao Sistema</font>
+<div>&nbsp;</div>
+</div>
+<div><span style=3D"font-size:medium"><strong>Ol=E1, Tudo bem??<br>
+<br>
+Seja Muito bem Vindo a Plataforma AgroecoWeb Process.</strong></span><br>
+<br>
+A partir de agora formamos uma parceria, e estaremos sempre aqui para te aj=
+udar. Hoje contamos&nbsp;<br>
+com uma equipe altamente qualificada de Ph.Ds, Doutores e Mestres, tudo par=
+a levar a voc=EA, a&nbsp;<br>
+mais alta qualifica=E7=E3o e te ajudar a chegar num pr=F3ximo n=EDvel de co=
+nhecimento.<br>
+<br>
+Nossa Plataforma =E9 bem simples e gostosa de navegar. =C9 dividida em pequ=
+enos projetos como&nbsp;<br>
+palestras, cursos, biblioteca, ebooks e etc..<br>
+=C9 so clicar e acessar o Material.<br>
+<br>
+=C9 importante que voc=EA saiba, que adquirindo o acesso voc=EA al=E9m de t=
+er direito ao Curso de&nbsp;<br>
+Agroecologia (AgroecoWeb 1.0) e todos os b=F4nus, a gente sempre estar=E1 a=
+tualizando a plataforma&nbsp;<br>
+<br>
+com cada vez mais materiais e voc=EA ir=E1 usufruir de tudo isso sem precis=
+ar pagar mais nada por&nbsp;<br>
+isso. Fique Ligado que sempre ter=E1 novidade por l=E1.<br>
+<br>
+Falando nos cursos, eles ter=E3o a libera=E7=E3o dia 20 e dia 25 de Julho a=
+gora, se voc=EA adquiriu a&nbsp;<br>
+plataforma principalmente pelo Curso AgroecoWeb 1.0, ele libera dia 20, mas=
+ at=E9 l=E1 =E9&nbsp;<br>
+imprescind=EDvel que voc=EA estude o curso b=E1sico de agroecologia, que j=
+=E1 est=E1 dispon=EDvel, para ter&nbsp;<br>
+a base necess=E1ria para o curso completo.<br>
+<br>
+Bom por enquanto =E9 isso, lembrando que estamos em contato direto pelo ema=
+il do instituto, e que&nbsp;<br>
+voc=EA tem um acompanhamento vip, ent=E3o se precisar de algo que n=E3o ten=
+ha na plataforma ou&nbsp;<br>
+d=FAvidas entre em contato..ok??<br>
+<br>
+Grande Abra=E7o e espero que curta muito tudo que preparamos e que estamos =
+preparando para voc=EA.<br>
+<br>
+F=E1bio Mariani<br>
+Equipe Agriverdes<br>
+<br>
+<span style=3D"font-size:large"><strong>Segue abaixo os dados para acesso a=
+o sistema:<br>
+</strong></span><br>
+<b>Login/E-mail de Acesso:</b>&nbsp;dazick_19@hotmail.com<br>
+<b>Senha:</b>&nbsp;47ec0a<br>
+<b>Link de Acesso::</b>&nbsp;<a href=3D"http://dafbff3.leadlovers.com/login=
+" id=3D"LPlnk328623" previewremoved=3D"true">http://dafbff3.leadlovers.com/=
+login</a>
+<div id=3D"LPBorder_GT_14985760154270.45453557339673245" style=3D"margin-bo=
+ttom: 20px; overflow: auto; width: 100%; text-indent: 0px;">
+<table id=3D"LPContainer_14985760154270.4714062684321756" role=3D"presentat=
+ion" cellspacing=3D"0" style=3D"width: 90%; background-color: rgb(255, 255,=
+ 255); position: relative; overflow: auto; padding-top: 20px; padding-botto=
+m: 20px; margin-top: 20px; border-top: 1px dotted rgb(200, 200, 200); borde=
+r-bottom: 1px dotted rgb(200, 200, 200);">
+<tbody>
+<tr valign=3D"top" style=3D"border-spacing: 0px;">
+<td id=3D"TextCell_14985760154270.43880470864743004" colspan=3D"2" style=3D=
+"vertical-align: top; position: relative; padding: 0px; display: table-cell=
+;">
+<div id=3D"LPRemovePreviewContainer_14985760154270.7531465709619318"></div>
+<div id=3D"LPTitle_14985760154270.5044976874018374" style=3D"top: 0px; colo=
+r: rgb(0, 120, 215); font-weight: normal; font-size: 21px; font-family: wf_=
+segoe-ui_light, &quot;Segoe UI Light&quot;, &quot;Segoe WP Light&quot;, &qu=
+ot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif; line-he=
+ight: 21px;">
+<a id=3D"LPUrlAnchor_14985760154270.7237694316457912" href=3D"http://dafbff=
+3.leadlovers.com/login" target=3D"_blank" style=3D"text-decoration: none;">=
+AgroecoWeb Process - Login</a></div>
+<div id=3D"LPMetadata_14985760154270.9064579522020793" style=3D"margin: 10p=
+x 0px 16px; color: rgb(102, 102, 102); font-weight: normal; font-family: wf=
+_segoe-ui_normal, &quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial=
+, sans-serif; font-size: 14px; line-height: 14px;">
+dafbff3.leadlovers.com</div>
+<div id=3D"LPDescription_14985760154270.09181390906787801" style=3D"display=
+: block; color: rgb(102, 102, 102); font-weight: normal; font-family: wf_se=
+goe-ui_normal, &quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, s=
+ans-serif; font-size: 14px; line-height: 20px; max-height: 100px; overflow:=
+ hidden;">
+Seja Muito Bem Vindo a Plataforma de Treinamento AgroecoWeb. E-mail. Senha<=
+/div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+<br>
+<br>
+<br>
+Obrigado! <br>
+E-mail enviado com amor por <a href=3D"http://hotmart.net.br/show.html?a=3D=
+D2254954D&amp;ap=3Deff3">
+Lead Lovers</a><img alt=3D"" style=3D"user-select: none;" src=3D"http://lea=
+dloversclick03.com/redirect/redirect.aspx?A=3DV&amp;u=3D36E7D838-9DE1-45F6-=
+B243-BA4675422499&amp;IMG=3D36E7D838-9DE1-45F6-B243-BA4675422499.png"></div=
+>
+</div>
+</div>
+</body>
+</html>
+
+--_000_SC1P152MB0448E84E2B4E87A085BD5DD486DC0SC1P152MB0448LAMP_--

@@ -1,0 +1,213 @@
+Return-Path: <cartursalgado@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id UAs8CaDVClrMNA8AVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 09:38:08 -0200
+Return-path: <cartursalgado@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 09:38:08 -0200
+Received: from mail-wr0-f196.google.com ([209.85.128.196]:52967)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <cartursalgado@gmail.com>)
+	id 1eEZXb-004Ht8-Sn
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 09:38:08 -0200
+Received: by mail-wr0-f196.google.com with SMTP id j23so17211877wra.9
+        for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 03:37:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=vIJTM+vJwZ6ZKQNPDm0jLfnsEjRhHogD5BRLUQiGZrQ=;
+        b=anivKMV4hcIKWWTpS8LE1YYXfv1/zuPy80fAUITjK3AHbEvZz6sHqAUmsO2nkjKXjd
+         9xAXDPpbDJKiXluimgvS1SzqAg7xDUAO/zEpkl+p/tNPI41JsuaR8Ah0QTh6CYLSCmoQ
+         0swcQP8Xd43C6yjwD4Bqp/2EQ86DFeGo+dIMmXgxNJU4bFZkTq4F+/M15VDG33qOm1VV
+         TKvnt3YCmqBdMk5D4FZ6/akGezfjfbDIu3k/pLDsi/JZQUv69yUE+KTjS7kF2UCW/rOy
+         pXxY5gEW4Cl20f37AnjXbyhOrY6Kr3IreI7a/g5jIQ6nBgyQgOC1a1wSBX/PIbJMVKiV
+         b1/A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=vIJTM+vJwZ6ZKQNPDm0jLfnsEjRhHogD5BRLUQiGZrQ=;
+        b=NhNMcw8qrRVhtls0iR9ezyrLeNNrfPyvIdQ8fKo6kaOcmhyChAv+DJYNbVXECpaYp0
+         mNKy5wzyOrX+xTu9RHzQ9B6aiaNpyXqWGPFJL0kSbURQe4WkAk+Wz3n/FS04AM7iXaRe
+         whxepm59TgK5qESA8Sga7fVLpkhl2Wz3wjKmGxnAiCJMJOIfeubMj6W0eXLLTFwtECCi
+         9xFUShV4tpLOgcW7tCwic+v1PYpbQD6/dEvyHU+A/nJ+4OAC3wvykDpBjMT0tjQktlgg
+         mlHUgpCCMBhdV+kPTWm8arVycAlDKn24mhjxyJN91e+4FXciRmMIJUJ46x9KQbgi2BCY
+         0+RA==
+X-Gm-Message-State: AJaThX41ra+IcteZdFCf0x5elZRJlC7Ok88Rzd+7QX7i0Nd97o7nhLAN
+	4WZGtRumobgeyqigF1jyeoR3NuX8hzlEBsT/4yQ=
+X-Google-Smtp-Source: AGs4zMZ29UERzftbFqSZRrz15purQEnqxIw5C9aC932+g8q4jJD+P9m5WWeMKmVVaggfmx/u+xpwIM5qf4gHiXsMzF0=
+X-Received: by 10.223.181.131 with SMTP id c3mr9808947wre.198.1510659443491;
+ Tue, 14 Nov 2017 03:37:23 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.223.143.106 with HTTP; Tue, 14 Nov 2017 03:37:21 -0800 (PST)
+Received: by 10.223.143.106 with HTTP; Tue, 14 Nov 2017 03:37:21 -0800 (PST)
+In-Reply-To: <CAF-QLXR5=cdz=q8fe_XbQg_7acNTb-iNkWDN0uH7ZLK=vi9O9Q@mail.gmail.com>
+References: <f403045f81f897fd27055deee4e3@google.com> <CAF-QLXR5=cdz=q8fe_XbQg_7acNTb-iNkWDN0uH7ZLK=vi9O9Q@mail.gmail.com>
+From: Carlos Salgado <cartursalgado@gmail.com>
+Date: Tue, 14 Nov 2017 09:37:21 -0200
+Message-ID: <CAF-QLXTdf1TRR__J6dF6Szk6ZpLURMpq7TwXGC6CJnN7UNF6Hg@mail.gmail.com>
+Subject: Fwd: intitle:"agricultura urbana": novos resultados
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="f40304388b78818b89055defcfdd"
+Bcc: instituto@agriverdes.com.br
+
+--f40304388b78818b89055defcfdd
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Algumas reflex=C3=B5es sobre a pol=C3=ADtica p=C3=BAblica em  Agricultura U=
+rbana em
+Guarulhos.
+
+Assinado em conjunto com colegas da USP Leste que contribu=C3=ADram para um=
+a
+an=C3=A1lise imparcial das descobertas, avan=C3=A7os e perspectivas para a =
+AU
+Guarulhense.
+
+Aproveitem o texto.
+
+Abra=C3=A7os
+
+---------- Mensagem encaminhada ----------
+De: "Alertas do Google Acad=C3=AAmico" <scholaralerts-noreply@google.com>
+Data: 14/11/2017 08:31
+Assunto: intitle:"agricultura urbana": novos resultados
+Para: <cartursalgado@gmail.com>
+Cc:
+
+[PDF] *AGRICULTURA URBANA*, MEIO AMBIENTE E INCLUS=C3=83O SOCIAL
+> <http://scholar.google.com.br/scholar_url?url=3Dhttps://www.researchgate.=
+net/profile/Samara_Soares/publication/319472260_Programa_Educativo_e_Social=
+_JC_na_Escola_Ciencia_Alimentando_o_Brasil/links/59addf73aca272f8a1618bed/P=
+rograma-Educativo-e-Social-JC-na-Escola-Ciencia-Alimentando-o-Brasil.pdf%23=
+page%3D104&hl=3Dpt-BR&sa=3DX&scisig=3DAAGBfm2eYhPA0kg5uKCXTaUQxxYXWf5N8w&no=
+ssl=3D1&oi=3Dscholaralrt>
+> D Pereira, CA Salgado, FR de Oliveira Ribeiro - JC na Escola Ci=C3=AAncia=
+,
+> Tecnologia e =E2=80=A6
+> 1 Coordenador do programa de Mestrado em Mudan=C3=A7a Social e Participa=
+=C3=A7=C3=A3o
+> Pol=C3=ADtica
+> (Promuspp) e professor do curso de Gest=C3=A3o Ambiental da EACH-USP. E-m=
+ail:
+> diamantino@
+> usp. br 2 Prefeitura de Guarulhos. E-mail: cartursalgado@ gmail. com 3
+> Graduada em
+> [image: Google+]
+> <http://scholar.google.com.br/scholar_share?hl=3Dpt-BR&oi=3Dscholaralrt&s=
+s=3Dgp&url=3Dhttps://www.researchgate.net/profile/Samara_Soares/publication=
+/319472260_Programa_Educativo_e_Social_JC_na_Escola_Ciencia_Alimentando_o_B=
+rasil/links/59addf73aca272f8a1618bed/Programa-Educativo-e-Social-JC-na-Esco=
+la-Ciencia-Alimentando-o-Brasil.pdf%23page%3D104&rt=3DAGRICULTURA+URBANA,+M=
+EIO+AMBIENTE+E+INCLUS%C3%83O+SOCIAL&scisig=3DAAGBfm3K0p5H1kIySngr5VSvYcQ-WN=
+A6rg> [image:
+> Facebook]
+> <http://scholar.google.com.br/scholar_share?hl=3Dpt-BR&oi=3Dscholaralrt&s=
+s=3Dfb&url=3Dhttps://www.researchgate.net/profile/Samara_Soares/publication=
+/319472260_Programa_Educativo_e_Social_JC_na_Escola_Ciencia_Alimentando_o_B=
+rasil/links/59addf73aca272f8a1618bed/Programa-Educativo-e-Social-JC-na-Esco=
+la-Ciencia-Alimentando-o-Brasil.pdf%23page%3D104&rt=3DAGRICULTURA+URBANA,+M=
+EIO+AMBIENTE+E+INCLUS%C3%83O+SOCIAL&scisig=3DAAGBfm3K0p5H1kIySngr5VSvYcQ-WN=
+A6rg> [image:
+> Twitter]
+> <http://scholar.google.com.br/scholar_share?hl=3Dpt-BR&oi=3Dscholaralrt&s=
+s=3Dtw&url=3Dhttps://www.researchgate.net/profile/Samara_Soares/publication=
+/319472260_Programa_Educativo_e_Social_JC_na_Escola_Ciencia_Alimentando_o_B=
+rasil/links/59addf73aca272f8a1618bed/Programa-Educativo-e-Social-JC-na-Esco=
+la-Ciencia-Alimentando-o-Brasil.pdf%23page%3D104&rt=3DAGRICULTURA+URBANA,+M=
+EIO+AMBIENTE+E+INCLUS%C3%83O+SOCIAL&scisig=3DAAGBfm3K0p5H1kIySngr5VSvYcQ-WN=
+A6rg>
+>
+> ------------------------------
+> O alerta do Google Acad=C3=AAmico =C3=A9 oferecido pelo Google.
+>
+> Cancelar alerta
+> <http://scholar.google.com.br/scholar_alerts?view_op=3Dcancel_alert_optio=
+ns&email_for_op=3Dcartursalgado%40gmail.com&alert_id=3DU3Dx_qL4rK4J&hl=3Dpt=
+-BR>
+> Listar meus alertas
+> <http://scholar.google.com.br/scholar_alerts?view_op=3Dlist_alerts&email_=
+for_op=3Dcartursalgado%40gmail.com&alert_id=3DU3Dx_qL4rK4J&hl=3Dpt-BR>
+>
+>
+
+--f40304388b78818b89055defcfdd
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><div dir=3D"auto">Algumas reflex=C3=B5es sobre a pol=C3=
+=ADtica p=C3=BAblica em=C2=A0 Agricultura Urbana em Guarulhos.=C2=A0</div><=
+div dir=3D"auto"><br><div dir=3D"auto">Assinado em conjunto com colegas da =
+USP Leste que contribu=C3=ADram para uma an=C3=A1lise imparcial das descobe=
+rtas, avan=C3=A7os e perspectivas para a AU Guarulhense.</div><div dir=3D"a=
+uto"><br></div><div dir=3D"auto">Aproveitem o texto.</div><div dir=3D"auto"=
+><br></div><div dir=3D"auto">Abra=C3=A7os</div><div dir=3D"auto"><br></div>=
+</div><div class=3D"gmail_quote">---------- Mensagem encaminhada ----------=
+<br>De: &quot;Alertas do Google Acad=C3=AAmico&quot; &lt;<a href=3D"mailto:=
+scholaralerts-noreply@google.com" target=3D"_blank">scholaralerts-noreply@g=
+oogle.<wbr>com</a>&gt;<br>Data: 14/11/2017 08:31<br>Assunto: intitle:&quot;=
+agricultura urbana&quot;: novos resultados<br>Para:  &lt;<a href=3D"mailto:=
+cartursalgado@gmail.com" target=3D"_blank">cartursalgado@gmail.com</a>&gt;<=
+br>Cc: <br><br type=3D"attribution"><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><u></u><=
+div><div style=3D"font-family:arial,sans-serif;font-size:medium"><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D"2" color=3D"#1a0dab">[PDF]</font> <a href=3D"http://scholar.google.co=
+m.br/scholar_url?url=3Dhttps://www.researchgate.net/profile/Samara_Soares/p=
+ublication/319472260_Programa_Educativo_e_Social_JC_na_Escola_Ciencia_Alime=
+ntando_o_Brasil/links/59addf73aca272f8a1618bed/Programa-Educativo-e-Social-=
+JC-na-Escola-Ciencia-Alimentando-o-Brasil.pdf%23page%3D104&amp;hl=3Dpt-BR&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm2eYhPA0kg5uKCXTaUQxxYXWf5N8w&amp;nossl=3D1&amp=
+;oi=3Dscholaralrt" target=3D"_blank"><font size=3D"3" color=3D"#1a0dab"><b>=
+AGRICULTURA URBANA</b>, MEIO AMBIENTE E INCLUS=C3=83O SOCIAL</font></a></h3=
+><div><font size=3D"2" color=3D"#006621">D Pereira, CA Salgado, FR de Olive=
+ira Ribeiro=C2=A0- JC na Escola Ci=C3=AAncia, Tecnologia e=C2=A0=E2=80=A6</=
+font></div><div><font size=3D"2" color=3D"#222222">1 Coordenador do program=
+a de Mestrado em Mudan=C3=A7a Social e Participa=C3=A7=C3=A3o Pol=C3=ADtica=
+ <br>(Promuspp) e professor do curso de Gest=C3=A3o Ambiental da EACH-USP. =
+E-mail: diamantino@ <br>usp. br 2 Prefeitura de Guarulhos. E-mail: cartursa=
+lgado@ gmail. com 3 Graduada em <br></font></div><table><tbody><tr><td widt=
+h=3D"16" style=3D"padding-right:6px"><a href=3D"http://scholar.google.com.b=
+r/scholar_share?hl=3Dpt-BR&amp;oi=3Dscholaralrt&amp;ss=3Dgp&amp;url=3Dhttps=
+://www.researchgate.net/profile/Samara_Soares/publication/319472260_Program=
+a_Educativo_e_Social_JC_na_Escola_Ciencia_Alimentando_o_Brasil/links/59addf=
+73aca272f8a1618bed/Programa-Educativo-e-Social-JC-na-Escola-Ciencia-Aliment=
+ando-o-Brasil.pdf%23page%3D104&amp;rt=3DAGRICULTURA+URBANA,+MEIO+AMBIENTE+E=
++INCLUS%C3%83O+SOCIAL&amp;scisig=3DAAGBfm3K0p5H1kIySngr5VSvYcQ-WNA6rg" styl=
+e=3D"text-decoration:none" target=3D"_blank"><img alt=3D"Google+" src=3D"ht=
+tp://scholar.google.com.br/intl/pt-BR/scholar/images/1x/gp-24.png" border=
+=3D"0" height=3D"16" width=3D"16"></a></td><td width=3D"16" style=3D"paddin=
+g-right:6px"><a href=3D"http://scholar.google.com.br/scholar_share?hl=3Dpt-=
+BR&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.researchgate.net/=
+profile/Samara_Soares/publication/319472260_Programa_Educativo_e_Social_JC_=
+na_Escola_Ciencia_Alimentando_o_Brasil/links/59addf73aca272f8a1618bed/Progr=
+ama-Educativo-e-Social-JC-na-Escola-Ciencia-Alimentando-o-Brasil.pdf%23page=
+%3D104&amp;rt=3DAGRICULTURA+URBANA,+MEIO+AMBIENTE+E+INCLUS%C3%83O+SOCIAL&am=
+p;scisig=3DAAGBfm3K0p5H1kIySngr5VSvYcQ-WNA6rg" style=3D"text-decoration:non=
+e" target=3D"_blank"><img alt=3D"Facebook" src=3D"http://scholar.google.com=
+.br/intl/pt-BR/scholar/images/1x/fb-24.png" border=3D"0" height=3D"16" widt=
+h=3D"16"></a></td><td width=3D"16" style=3D"padding-right:6px"><a href=3D"h=
+ttp://scholar.google.com.br/scholar_share?hl=3Dpt-BR&amp;oi=3Dscholaralrt&a=
+mp;ss=3Dtw&amp;url=3Dhttps://www.researchgate.net/profile/Samara_Soares/pub=
+lication/319472260_Programa_Educativo_e_Social_JC_na_Escola_Ciencia_Aliment=
+ando_o_Brasil/links/59addf73aca272f8a1618bed/Programa-Educativo-e-Social-JC=
+-na-Escola-Ciencia-Alimentando-o-Brasil.pdf%23page%3D104&amp;rt=3DAGRICULTU=
+RA+URBANA,+MEIO+AMBIENTE+E+INCLUS%C3%83O+SOCIAL&amp;scisig=3DAAGBfm3K0p5H1k=
+IySngr5VSvYcQ-WNA6rg" style=3D"text-decoration:none" target=3D"_blank"><img=
+ alt=3D"Twitter" src=3D"http://scholar.google.com.br/intl/pt-BR/scholar/ima=
+ges/1x/tw-24.png" border=3D"0" height=3D"16" width=3D"16"></a></td></tr></t=
+body></table><br><p></p><hr noshade size=3D"1"><font size=3D"2" color=3D"#2=
+22222">O alerta do Google Acad=C3=AAmico =C3=A9 oferecido pelo Google.<br><=
+br><a href=3D"http://scholar.google.com.br/scholar_alerts?view_op=3Dcancel_=
+alert_options&amp;email_for_op=3Dcartursalgado%40gmail.com&amp;alert_id=3DU=
+3Dx_qL4rK4J&amp;hl=3Dpt-BR" target=3D"_blank"><font color=3D"#1a0dab">Cance=
+lar alerta</font></a><br><a href=3D"http://scholar.google.com.br/scholar_al=
+erts?view_op=3Dlist_alerts&amp;email_for_op=3Dcartursalgado%40gmail.com&amp=
+;alert_id=3DU3Dx_qL4rK4J&amp;hl=3Dpt-BR" target=3D"_blank"><font color=3D"#=
+1a0dab">Listar meus alertas</font></a></font><p></p></div></div>
+</blockquote></div></div>
+
+--f40304388b78818b89055defcfdd--

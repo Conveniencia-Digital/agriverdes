@@ -1,0 +1,132 @@
+Return-Path: <rabellosouza@hotmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id OJIQJUKL+Fk0pwkAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 31 Oct 2017 12:40:02 -0200
+Return-path: <rabellosouza@hotmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 31 Oct 2017 12:40:02 -0200
+Received: from mail-oln040092008079.outbound.protection.outlook.com ([40.92.8.79]:2285 helo=NAM03-DM3-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <rabellosouza@hotmail.com>)
+	id 1e9Xhy-002kSM-8E
+	for instituto@agriverdes.com.br; Tue, 31 Oct 2017 12:40:02 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=aOOwC1w4BzQ7LHLtHZ5MW6G+xN6KPocY3b/+FAvdV9s=;
+ b=h78B+J7cf55YxjMA0Ck5mDIgBwUfm1D2IUgVaWYD9vAFg4RvJRdRRu9Wj/tOcXca4vnbqpmBoNTjyV4yhOuPsWaIb377QIkkoIoyOsYC9g8fiUkSYxbdZxtMyppikVcmDWIJMRBwIlpDcwPsYIKUC3RLdmaBH7itMhMtsz6gj5ab3yqI+uoGU4qAiA+xf1XWTsVmLlm4zv9I+jh0nQdCMuURZzPUZlKFsrNCioimulpudC0V1ef3vQwj3/ZEkvHKUIoEFSWlqv74UBE4PACB9ooo3WbPYQBDkBLVLOk792/wnRh18Vq40AioL4OUwLieYRDiC+ErZYaM9NBirCX+8g==
+Received: from DM3NAM03FT036.eop-NAM03.prod.protection.outlook.com
+ (10.152.82.58) by DM3NAM03HT188.eop-NAM03.prod.protection.outlook.com
+ (10.152.83.153) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.197.9; Tue, 31
+ Oct 2017 14:39:19 +0000
+Received: from CY1PR18MB0441.namprd18.prod.outlook.com (10.152.82.55) by
+ DM3NAM03FT036.mail.protection.outlook.com (10.152.82.189) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.197.9 via Frontend Transport; Tue, 31 Oct 2017 14:39:19 +0000
+Received: from CY1PR18MB0441.namprd18.prod.outlook.com ([10.163.255.14]) by
+ CY1PR18MB0441.namprd18.prod.outlook.com ([10.163.255.14]) with mapi id
+ 15.20.0197.013; Tue, 31 Oct 2017 14:39:19 +0000
+From: Wanderson Rabello <rabellosouza@hotmail.com>
+To: "instituto@agriverdes.com.br" <instituto@agriverdes.com.br>
+Subject: Certificado
+Thread-Topic: Certificado
+Thread-Index: AQHTUlYIpxa8V7U7mkGmUzzdznxIRg==
+Date: Tue, 31 Oct 2017 14:39:19 +0000
+Message-ID: <CY1PR18MB044110B2AAD7804055F9095BC65E0@CY1PR18MB0441.namprd18.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:93FA2DB0ECC44C2DC86B524EAA7ECB9017088E3F13C7752AFC2DDA7F8CCD7896;UpperCasedChecksum:49F3EDCAA5CF7F7ECD86B94E6E7C18FC7667A4219DF843C2CE860F56A64D22DF;SizeAsReceived:6789;Count:43
+x-tmn: [nDx939KMS/HLPP6unI2gjd5bXB+w916fLAYciazgRC8=]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;DM3NAM03HT188;6:p5X5EuiUaLd998KqyebZGPNgu6RPO+N7JpgkKlzSOFjhG/2JbrxRWQMgSlvl6F5F4yNEvsVzLDDxYlHG6sXgFbAKEuVITj1V85frMwnyI75JI2sXzlpdtKVz5UBlq6VY3ikuxEj6fAj+RqMcCADLUxXpLFvo2J6rEpjx5oLTzc/W8ea3j/wiPylqxF0W8q0plBUjeYOyL6v54Utosdsosi6D6eCe08PUANOxeE9O9I6XtcJ7VgQKkePS9rDakANe7lnRwYYPIK6NEIa83MTdpEYv0gdcr0Ir8camCEQoyXhoP/wpLTZOWKzOdl071z/WCrVnKBXhtJtFrr83MlSMeFwhMa2ryYAFRNk3h983reI=;5:SMmjc5I+UZ9oNWP2pyLVs/ZAk6xQJwP6PiQveKC8z+/Cl+S6obE6T0SJWOa/GbaKiVIFZWhwSQO3NB8Z+jgjxoWnO4kVN4ivGeVe5XrXl2EpQS6BfSK9mKvok/fIsg8/5tMFq0iPiCzLAJXlTVuN5tOR6KgyV4z5WR/wnd/jFgE=;24:tMpepi23mSdzdb+qfAld9lj96m4wQpQua3hMopkgihM/WEmSJMdhI5LptPjvEykbV3szh3inCqHCqCm9CLth8hnWhGFRp1d9p25au7GnYhk=;7:nSxGHu/LMB2FyWMMLqSMBEp+Mx7W3Y5xz3F6/5skTjl7FjRTVk7JrYEUo/oxULytK2nmvJl6qYrfvONtKloEEo42NCAFSVqo9LaZs/vR42/1flwRGwZ8RuA3b4IV8QW6AFD4ABRnN0W5pCFxo6Y7JNgQ/uX99A+2vcEQgEWVhH+ZTPGGYnKl3CcuTWGuSMbDMeV2EuFnoxfD9ci8jIOwyDB9hVc4590LxTDSU7PsIVBNSOCTIsrts3tdlWQEIZPi
+x-incomingheadercount: 43
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 3b97fdf9-5a46-40d3-8238-08d5206d2b4b
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:DM3NAM03HT188;
+x-ms-traffictypediagnostic: DM3NAM03HT188:
+authentication-results: outbound.protection.outlook.com; spf=skipped
+ (originating message); dkim=none (message not signed) header.d=none;
+ dmarc=none action=none header.from=hotmail.com;
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:DM3NAM03HT188;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:DM3NAM03HT188;
+x-forefront-prvs: 04772EA191
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:DM3NAM03HT188;H:CY1PR18MB0441.namprd18.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR18MB044110B2AAD7804055F9095BC65E0CY1PR18MB0441namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 3b97fdf9-5a46-40d3-8238-08d5206d2b4b
+X-MS-Exchange-CrossTenant-originalarrivaltime: 31 Oct 2017 14:39:19.1748
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM3NAM03HT188
+
+--_000_CY1PR18MB044110B2AAD7804055F9095BC65E0CY1PR18MB0441namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+N=E3o recebi meu certificado
+
+Wanderson Souza Rabello
+
+________________________________
+Wanderson Souza Rabello
+Engenheiro Agr??nomo - UFES
+Mestre em Produ????o Vegetal - UENF
+Doutorando em Produ????o Vegetal - UENF
+Tel: (22) 9869-4960
+
+
+--_000_CY1PR18MB044110B2AAD7804055F9095BC65E0CY1PR18MB0441namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 14pt;=
+ color: rgb(0, 0, 0); font-style: italic;">
+N=E3o recebi meu certificado</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 14pt;=
+ color: rgb(0, 0, 0); font-style: italic;">
+<br>
+</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 14pt;=
+ color: rgb(0, 0, 0); font-style: italic;">
+Wanderson Souza Rabello</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 14pt;=
+ color: rgb(0, 0, 0); font-style: italic;">
+<br>
+</div>
+<div id=3D"signature">
+<hr>
+<div style=3D"text-align:left"><span style=3D"font-family:Arial; font-size:=
+10pt">Wanderson Souza Rabello</span></div>
+<div style=3D"text-align:left"><font face=3D"Arial" size=3D"2">Engenheiro A=
+gr??nomo - UFES</font></div>
+<div style=3D"text-align:left"><font face=3D"Arial" size=3D"2">Mestre em Pr=
+odu????o Vegetal - UENF</font></div>
+<div style=3D"text-align:left"><font face=3D"Arial" size=3D"2">Doutorando e=
+m Produ????o Vegetal - UENF</font></div>
+<div style=3D"text-align:left"><font face=3D"Arial"><font size=3D"2">Tel: (=
+22) 9869-4960</font>
+</font></div>
+<div style=3D"text-align:left"><br>
+</div>
+</div>
+</body>
+</html>
+
+--_000_CY1PR18MB044110B2AAD7804055F9095BC65E0CY1PR18MB0441namp_--

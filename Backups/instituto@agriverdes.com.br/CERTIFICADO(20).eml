@@ -1,0 +1,89 @@
+Return-Path: <jose.paixao@ifsudestemg.edu.br>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id yBHcOg5EC1qrmwkAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 17:29:18 -0200
+Return-path: <jose.paixao@ifsudestemg.edu.br>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 17:29:18 -0200
+Received: from mail-oi0-f44.google.com ([209.85.218.44]:47274)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <jose.paixao@ifsudestemg.edu.br>)
+	id 1eEgta-002fU1-PN
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 17:29:18 -0200
+Received: by mail-oi0-f44.google.com with SMTP id y206so13177007oiy.4
+        for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 11:28:56 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ifsudestemg-edu-br.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=7DZOUYt3I1rmZv0trSGsvnpGU/27LjzMx6OjBA3JYPo=;
+        b=vc2B7+PuM7GQNs6p+hhnMerDZgiRN2RZJgc9T5EpFzmKmUmbAs8zopFmxRhh6pTe1N
+         Wx/bRIMq7lB46KtijtUOMVaqr/V0ZPla0MDanQxO0amdClYVk/hwACW+pJ+OnGC4mxSt
+         G6qvy/xsCGqcETe3l5TjmiNLWumyerQhkz/aFi23a2q5M6PzDmQP63VoD5fqhcM2i7IX
+         5Wd2rMKtq/DqoEkH3Vygc7vdi77e6Eb+zXbgv+TPsDyAs8XmJVS81O2jtfF7KXDIAna+
+         3ibRmZPOu4RcJtwym4msD7TgqfFg6zMr8BhHtGlU39X2p6GVUEcRsU5wfYOhnAtrIqVk
+         0KKg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=7DZOUYt3I1rmZv0trSGsvnpGU/27LjzMx6OjBA3JYPo=;
+        b=L9BWe88f99/3+nJIJTFyfnu6TBi3ef3/jMIzdJ9bDoIpFUv4cDoUKWeHF6m9ET3n8K
+         vhcZVpZoNp5zpvAPZU63lfONhEbz/ocbHgfn3EgreGgFa6g3zC3JlMeC9u6zxkMqufYS
+         avKY+VWQx4rpPfkmOC48lcj6lf6wqoBQq309VcNmpMHoNvPJey98Lmfrarvi3FiCM0gA
+         wd5wKUMkVfuORZEz+dt5vo9to1ti4iL24W5AmVIqkm1IrzoAnKW8PI+/WefeDyrDpKIm
+         Rbz26ErADOHagC2FC/M1Y+FQ8xcQOE/PRnVf6MWM39aECxBixOJDb1UcrY+2mCjKbyBi
+         cyJQ==
+X-Gm-Message-State: AJaThX5K0jToPBiwQ3MwE5SQaQV4Hxb4wP+Epsg83AH9Ps3Iv42uWUns
+	8wGbGyQM4SSPyqfEP4Bs+Uh9aXS4qxsM9QWR0eyVKw==
+X-Google-Smtp-Source: AGs4zMaJsgyL3jxmkPg+YRJ84G+GfMaKG9J+C7OS/XOnvqrwNIhjA5YMIqaeOx2JCDqw837lmVCr/uE5KZkaSfxcKQU=
+X-Received: by 10.202.252.145 with SMTP id a139mr6473748oii.124.1510687714545;
+ Tue, 14 Nov 2017 11:28:34 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.44.152 with HTTP; Tue, 14 Nov 2017 11:28:31 -0800 (PST)
+From: =?UTF-8?Q?Jos=C3=A9_Luiz_de_Freitas_Paix=C3=A3o?= <jose.paixao@ifsudestemg.edu.br>
+Date: Tue, 14 Nov 2017 17:28:31 -0200
+Message-ID: <CAK0Rkm+R_p9xrPiHUmDamHzGBQGP-W=sRYCt3fTSa4wLMg-0=w@mail.gmail.com>
+Subject: CERTIFICADO
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a113d378c97a462055df6645e"
+
+--001a113d378c97a462055df6645e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Boa tarde,
+Como fa=C3=A7o para ter meu certificado.
+j=C3=A1 realizei o pagamento no dia 07/11/17.
+Att
+
+*Professor Jos=C3=A9 Luiz Paix=C3=A3o*
+
+*Doutorando em Ci=C3=AAncias Veterin=C3=A1rias na UFRRJ*
+
+*Tel:(32)99956-6140 (oi)*
+
+--001a113d378c97a462055df6645e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:verdana,=
+sans-serif;font-size:large;color:#0000ff">Boa tarde,</div><div class=3D"gma=
+il_default" style=3D"font-family:verdana,sans-serif;font-size:large;color:#=
+0000ff">Como fa=C3=A7o para ter meu certificado.=C2=A0<br>j=C3=A1 realizei =
+o pagamento no dia 07/11/17.</div><div class=3D"gmail_default" style=3D"fon=
+t-family:verdana,sans-serif;font-size:large;color:#0000ff">Att</div><div><d=
+iv class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D=
+"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><di=
+v><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><p><b><span style=
+=3D"color:rgb(0,153,0);background-color:rgb(255,255,255)"><font face=3D"cou=
+rier new, monospace">Professor Jos=C3=A9 Luiz Paix=C3=A3o</font></span></b>=
+</p><p><b><span style=3D"color:rgb(0,153,0);background-color:rgb(255,255,25=
+5)"><font face=3D"courier new, monospace">Doutorando em Ci=C3=AAncias Veter=
+in=C3=A1rias na UFRRJ</font></span></b></p><p><b style=3D"font-size:12.8000=
+001907349px"><span style=3D"color:rgb(0,153,0)"><font face=3D"courier new, =
+monospace">Tel:(32)99956-6140 (oi)</font></span></b><br></p></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div>
+</div>
+
+--001a113d378c97a462055df6645e--

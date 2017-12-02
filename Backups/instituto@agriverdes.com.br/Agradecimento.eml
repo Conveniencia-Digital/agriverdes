@@ -1,0 +1,68 @@
+Return-Path: <virginialua7@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br (Dovecot) with LMTP id GVNpNdVYpFnu3gUAVsPpow
+	for <instituto@agriverdes.com.br>; Mon, 28 Aug 2017 14:54:29 -0300
+Return-path: <virginialua7@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Mon, 28 Aug 2017 14:54:29 -0300
+Received: from mail-wm0-f50.google.com ([74.125.82.50]:34163)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <virginialua7@gmail.com>)
+	id 1dmOF3-001gIf-L2
+	for instituto@agriverdes.com.br; Mon, 28 Aug 2017 14:54:29 -0300
+Received: by mail-wm0-f50.google.com with SMTP id f13so14600930wme.1
+        for <instituto@agriverdes.com.br>; Mon, 28 Aug 2017 10:54:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=OdY0be+VIHzRX+j3BdBerBaM/L8Jx5ZlfeBXnVTFILo=;
+        b=JtJpJqvQ6jeIpPQzf4USxwyKcuRJmL8+RksdqoWT2WR9RWuslWafCaV5vwsGChRCl9
+         GpkrLr2UtDybjteqT0hypflPJ3U/P5P54i8KXQi5s3WDNsMN19SMdBkHapJgyCMGp1P9
+         lDMm9twJ8V2G155MCoyazkbj1ZE6m2QeMdkvb89ir8s5+gNVkSGOUkEz5quhea1gHwf8
+         mOelGa+fYHfr/EAk8TE7WM4QKUd5j4OYbhQVkGRxL2Y83nokYXPBMG6xEpbJuKQ3c26P
+         p5p+nBjWZVIUG72arncN8MyK5xJ8u3FP9yY8ZfYtSauwgy4A8URMl6+8kvWw8Kc60uEZ
+         3wrQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=OdY0be+VIHzRX+j3BdBerBaM/L8Jx5ZlfeBXnVTFILo=;
+        b=BDSC6NjtCUvSRC8OjVTaXlpO6wGGH7y1Q0ilflcH2TO1ZsQAWeany6Lpeim8e+bP3Z
+         Tx+5GjEJ0bfGut2lpqa/IB9DFuSAyY/o5h+3DARveKMyD+dJl33S5u7Xp5J+D+wwMcez
+         ubEmJz+fkpDyQx85toovmgPu9JTD6XOW0oysiaXannXb6wlklMVD1+/pzJWWqm2Ug2d8
+         NJ8lkjR8plQBKNGRBol0R9HCYoKKZPlk1syK9PXMA+9QkLMbKQx+3LHLHlwLqWupohFJ
+         yt4zYLV3dpyH40BzNe+FnonE04oNUm03JCB0rQw8y5+pHGGn/tKWKdxSWh+Iaixr+YBT
+         0qJw==
+X-Gm-Message-State: AHYfb5gj09mHZk248iYRlpK9bGFAfAUviFP4WeQUZ/xt5Bl375AWnTC3
+	EFGLUmAkjJ5MkKWNkTVy03blzKuiqU5Y
+X-Received: by 10.28.236.209 with SMTP id h78mr908749wmi.166.1503942826009;
+ Mon, 28 Aug 2017 10:53:46 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.28.20.76 with HTTP; Mon, 28 Aug 2017 10:53:45 -0700 (PDT)
+From: Virginia Lopes <virginialua7@gmail.com>
+Date: Mon, 28 Aug 2017 14:53:45 -0300
+Message-ID: <CA+1R58hstW4-gK8PuDNjsfAp9UGeGaHrjXwgN8PYkL_gGYStJg@mail.gmail.com>
+Subject: Agradecimento
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a11477a52e82b1f0557d3f952"
+
+--001a11477a52e82b1f0557d3f952
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Obrigada pela oportunidade de conhecer mais a Agroecologia e a Permacultura
+
+
+Virginia Lopes
+Graduada em Ci=C3=AAncias Biol=C3=B3gicas
+
+--001a11477a52e82b1f0557d3f952
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Obrigada pela oportunidade de conhecer mais a Agroecologia=
+ e a Permacultura<div><br></div><div><br><div>Virginia Lopes</div><div>Grad=
+uada em Ci=C3=AAncias Biol=C3=B3gicas</div></div></div>
+
+--001a11477a52e82b1f0557d3f952--

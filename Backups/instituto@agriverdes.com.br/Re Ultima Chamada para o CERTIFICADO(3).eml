@@ -1,0 +1,108 @@
+Return-Path: <lumamulinari@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id 0FV1FDT3ClqC1wEAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 12:01:24 -0200
+Return-path: <lumamulinari@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 12:01:24 -0200
+Received: from mail-it0-f45.google.com ([209.85.214.45]:32960)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <lumamulinari@gmail.com>)
+	id 1eEbmG-000owq-2Y
+	for instituto@agriverdes.com.br; Tue, 14 Nov 2017 12:01:24 -0200
+Received: by mail-it0-f45.google.com with SMTP id n134so12314779itg.0
+        for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 06:01:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=V4qdrtTa+34yL8uN8k3TBkBGiOxmL4b97GH3cwOgbuA=;
+        b=WUf6Txx0K+o79gISkzPCM23jBya9Xzz2I5vnRoPTkuVSOGixsdZ3uhcdLkW+9MVqwx
+         kYPewNqEUrEYD/srcVH5yIsU8Inn0j11n4eKq7ACJsFfU9Bgyms3GuWV7IGgdtRPNIUz
+         sbUj7ECh/tia8Nmsx1WIAcxFmyBclWVWNF8vhy51EwaSV4S9pJ/2+2IdpriEv1KeIbO0
+         c8zQayPiTIOtQabfVvLy+OV4+zypnWpRtvNJwcC8oYBwn3b8J5dsFo4lDYPxVulVTTj/
+         yS0S6PW72GEDhaYvnojLkxkBRczAz0Dv3xXfEEDfpKBTGu94voz3PII+MyY4lgi3vL6a
+         ceJA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=V4qdrtTa+34yL8uN8k3TBkBGiOxmL4b97GH3cwOgbuA=;
+        b=MHplrzFqfc6GSqm2/MGlzTk/PPYqG4RG82cCrZ/Are6dnFyeDz9UnHZymQOaN4DBl5
+         8hrSdEuPeUr1bmTqjPqfW/mxR5hx+96KYR5qmgdO2lVrvpnndxHVPhCrKKWrqxEj0PvH
+         eMBhpe0HR693QcKVPFRizaO1IUDQ25Sptk1y+rgctPAUXD9UVMkTWEqEEeI6Zp78jH02
+         BYSgNHC0S4a5w3lPW/0apn506L7uUzGob5Ga6tNNNKbfTaZEYll3lKDU+HCq18kddptN
+         B2Q5FCOFP8dpblX5sk1K0oS4REKoit6WDY03b8JD7F7qzTKRfoLwO9FVHwPszXEsQI5K
+         zCgA==
+X-Gm-Message-State: AJaThX41XIlTf/VYHwmtG1vQP2e+UqCo5suYnaDT7sanYdx2fqkbUDmb
+	tWjp+j73yKXopxDFw8BEDBJVhBdq5t2ZQqwf+mY=
+X-Google-Smtp-Source: AGs4zMZOhudjAIwKAy8PxdaRn3YqBeeHGR8Whhgv/2Dg4QhOKenm4J8I/7mJh17CItbUZvwLh3rwjqFFc3aslXU4XXI=
+X-Received: by 10.36.39.203 with SMTP id g194mr13911401ita.91.1510668039632;
+ Tue, 14 Nov 2017 06:00:39 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.2.18.199 with HTTP; Tue, 14 Nov 2017 06:00:39 -0800 (PST)
+In-Reply-To: <CAJN_bhaWxxhMWVV282ChtpAuFDjwTwTi4Y6wehFaTdQu11K_Xg@mail.gmail.com>
+References: <CEI5eiuSRYaGXvRS90GsdQ@ismtpd0002p1lon1.sendgrid.net> <CAJN_bhaWxxhMWVV282ChtpAuFDjwTwTi4Y6wehFaTdQu11K_Xg@mail.gmail.com>
+From: Luma Mulinari Fernandes <lumamulinari@gmail.com>
+Date: Tue, 14 Nov 2017 12:00:39 -0200
+Message-ID: <CAJN_bhbptxgbUBRt7gbKxjru+3UJDJ0VZkTV4K2rWsTfiWBgTA@mail.gmail.com>
+Subject: Re: Ultima Chamada para o CERTIFICADO.
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/alternative; boundary="001a1147c5a2e03b24055df1cf15"
+
+--001a1147c5a2e03b24055df1cf15
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Ol=C3=A1,
+
+Gostaria de saber quando receberei o certificado.
+
+Desde j=C3=A1, agrade=C3=A7o.
+
+Em 10 de novembro de 2017 12:19, Luma Mulinari Fernandes <
+lumamulinari@gmail.com> escreveu:
+
+> Luma Mulinari Fernandes
+>
+> Comprovante em anexo :) Tenha um bom dia!!
+>
+>
+> --
+> Att.
+>
+> Luma Mulinari Fernandes
+>
+
+
+
+--=20
+Att.
+
+Luma Mulinari Fernandes
+
+--001a1147c5a2e03b24055df1cf15
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Ol=C3=A1,=C2=A0<div><br></div><div>Gostaria de saber quand=
+o receberei o certificado.</div><div><br></div><div>Desde j=C3=A1, agrade=
+=C3=A7o.</div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quot=
+e">Em 10 de novembro de 2017 12:19, Luma Mulinari Fernandes <span dir=3D"lt=
+r">&lt;<a href=3D"mailto:lumamulinari@gmail.com" target=3D"_blank">lumamuli=
+nari@gmail.com</a>&gt;</span> escreveu:<br><blockquote class=3D"gmail_quote=
+" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><=
+div dir=3D"ltr">Luma Mulinari Fernandes<div><br></div><div>Comprovante em a=
+nexo :) Tenha um bom dia!!</div><span class=3D"HOEnZb"><font color=3D"#8888=
+88"><div class=3D"gmail_extra"><br clear=3D"all"><div><br></div>-- <br><div=
+ class=3D"m_3803632418345651200gmail_signature" data-smartmail=3D"gmail_sig=
+nature"><div dir=3D"ltr">Att.=C2=A0<div><br></div><div>Luma Mulinari Fernan=
+des</div></div></div>
+</div></font></span></div>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr">At=
+t.=C2=A0<div><br></div><div>Luma Mulinari Fernandes</div></div></div>
+</div>
+
+--001a1147c5a2e03b24055df1cf15--

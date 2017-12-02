@@ -1,0 +1,79 @@
+Return-Path: <rosadans56@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id wFOoB45k1Vkv8gYAVsPpow
+	for <instituto@agriverdes.com.br>; Wed, 04 Oct 2017 19:45:34 -0300
+Return-path: <rosadans56@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Wed, 04 Oct 2017 19:45:34 -0300
+Received: from mail-qk0-f177.google.com ([209.85.220.177]:52507)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <rosadans56@gmail.com>)
+	id 1dzsQ1-001var-Ue
+	for instituto@agriverdes.com.br; Wed, 04 Oct 2017 19:45:34 -0300
+Received: by mail-qk0-f177.google.com with SMTP id b15so10952246qkg.9
+        for <instituto@agriverdes.com.br>; Wed, 04 Oct 2017 15:45:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Zk2Had0xjlO3qj1X/KxQCxgcJJQoTSxvEafAxMvmCU4=;
+        b=nbLaUfMlJlqiiwIZNP3wBosGnDEivVa+RV+peNMNlZdZnO5AVB4NTdeEB7UiBeDprj
+         ijZt7GuUM4wii0vMbkKv8uplMQ1sBFg97NjPCbFHlNcT6FlP40RZQdtkzHFZygRLi1gf
+         kYEzos5CYkl2gseAL++RES/Wyb6GIWg+W9HJEZl/NbcFRontZsnAu3itg0sUDuPegUoS
+         UBTxuKV4976jouY9V8m/i6uH3EKxG45WbnrWHMcNRFYlBObjhFJunGlA90QjQOQ4FIiL
+         xzUWooMdN54KrjpaCFXE9KaQK2qkx27W75hxwRUqkSSBcdImahPZseQ2edSsUDyiZLlp
+         93IA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Zk2Had0xjlO3qj1X/KxQCxgcJJQoTSxvEafAxMvmCU4=;
+        b=F2+fvCwuGHHAsAgoDkPbxmam1eDDmlnxK1f3rQWwiPveHazUyCbXqAOTHZoGumpIPc
+         40HKv9Xo7/YdbB/3VKbOA7wfL1i4KAFI7sIh9dmfeC1cnqZ7MwP2UeBO8LbrWSAUqWhp
+         oYy5M15R4kA+R9yGOmnEV0+TJlRHfcI2d7iBy9uNAyebJwP+aRRt9s0SHlzZ1gY6JF05
+         YBBVgSKCVsiDbZnh6XZXl6azdjpa3u6PZ92kF6XhsL8zROOfbDls/hF8noXrB2Hfid+E
+         VlA0JRsUJw70d572KSlLLbqbZF+hn0bA4h7fQH9TwyezXJEwCNrGihJTTYF9p/0wXHfY
+         3kkA==
+X-Gm-Message-State: AMCzsaU9XRrLkXD7rSpMwGPvhYxuPehlc/UDU1VuE8//b6sNXLL7w24j
+	VUKpsPc7M6ZMfNSKtVcrSwEnUh/gia1inKz379A=
+X-Google-Smtp-Source: AOwi7QCqzykyaUxvEYhruS18d37ilECcXvVyS7BajlBjtk9sJlyr4FvJGZVu7r/wgIGdYKHZFd+HtqWZnaKxb2qo56E=
+X-Received: by 10.55.76.200 with SMTP id z191mr27907450qka.102.1507157090098;
+ Wed, 04 Oct 2017 15:44:50 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.200.40.108 with HTTP; Wed, 4 Oct 2017 15:44:49 -0700 (PDT)
+From: Rosa Dans <rosadans56@gmail.com>
+Date: Wed, 4 Oct 2017 19:44:49 -0300
+Message-ID: <CA+zmr0hQfG8Z0K2py8LmyVVev-XtWEsEcxz_CW=cmKFF3kyemw@mail.gmail.com>
+Subject: acesso as aulas
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/alternative; boundary="001a114883a8f9e233055ac05a8b"
+
+--001a114883a8f9e233055ac05a8b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+boa noite
+
+
+N=C3=A3o estou conseguindo ter acesso as aulas.
+
+
+Solicito a ajuda de voc=C3=AAs, por favor.
+
+
+Grata
+*Rosa Dans*
+
+--001a114883a8f9e233055ac05a8b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">boa noite<div><br></div><div><br></div><div>N=C3=A3o estou=
+ conseguindo ter acesso as aulas.</div><div><br></div><div><br></div><div>S=
+olicito a ajuda de voc=C3=AAs, por favor.</div><div><br></div><div><br></di=
+v><div>Grata<br clear=3D"all"><div><div class=3D"gmail_signature" data-smar=
+tmail=3D"gmail_signature"><div dir=3D"ltr"><font face=3D"comic sans ms, san=
+s-serif"><i>Rosa Dans</i></font></div></div></div>
+</div></div>
+
+--001a114883a8f9e233055ac05a8b--

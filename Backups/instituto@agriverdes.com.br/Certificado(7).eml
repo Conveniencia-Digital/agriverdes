@@ -1,0 +1,67 @@
+Return-Path: <samuelpsantos8@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id 8MOHHszV9Vno0gYAVsPpow
+	for <instituto@agriverdes.com.br>; Sun, 29 Oct 2017 11:21:16 -0200
+Return-path: <samuelpsantos8@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Sun, 29 Oct 2017 11:21:16 -0200
+Received: from mail-wm0-f43.google.com ([74.125.82.43]:53507)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <samuelpsantos8@gmail.com>)
+	id 1e8nWe-001uYD-8N
+	for instituto@agriverdes.com.br; Sun, 29 Oct 2017 11:21:16 -0200
+Received: by mail-wm0-f43.google.com with SMTP id r196so11389433wmf.2
+        for <instituto@agriverdes.com.br>; Sun, 29 Oct 2017 06:20:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=QHQY4ohSIY0TVVJqAihHBoyWap+TRt7I/tdIGNVzNz8=;
+        b=i7owtTA0dizqs3Jdi4YaPetZZP0BUPjf0gKfAd2YSilIKM7bu11BFfii6v6EN5mVRn
+         h2seAU+Y0ekZyn59PWsyZrA+yorz1va/vyE3CR5x8wnWJaIVNZzyOb0MDoZLZPOep/pK
+         H0aKTIDJxg1EE6BJNb+iDNo2Mz97DYKk678rETUe4XOYTReP5AZdwzN+t6iR1MQI5SMP
+         d+SS3NqK0+CHsS2dTylDBP0dGGyRVehrkKt8QT6wJAUUQZyfffewkT6jxnSidupLlcW4
+         zFYNRGDRDU0yo0RebcGyVzHZsP18bXbMQ+I8Wp5duaKPNPWDVaqkI6aVxEWqx0VKnixU
+         0aqw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=QHQY4ohSIY0TVVJqAihHBoyWap+TRt7I/tdIGNVzNz8=;
+        b=ijka16CcsIeF8lUU+NCj0V3eL3RBBnkmRM8oC9O1hvstPJaMQiK6esmIiglGL6mRnN
+         bPwsCMvysJOBeWo0JkGUJ1CHztpZ1QDYx0IE2W5c41hMELtfYnBWOkMZHcNGd22+NbL4
+         F+/bLIIFYL7b0cCEZpy9OHBquCOxV5G/bJDwd5QHMv/xfmXQMCowdKswylunV8PLga/V
+         Sm5/1ImBHKd7gD4piq4AI6R1K31/dPrnrztUDSHgvEscRXcarZLY08u+yNwiovMheSM/
+         RVYL5nio0t9YnstVUMzhpPKRsyFhXXTSyD0uz+B/mK4/LS+IGVL9R/wCQ02KA5iM6l8y
+         KwYg==
+X-Gm-Message-State: AMCzsaW3YbRo6KB3Rf28oHSd2mpCFLX8xY4s8a/zO/KJdEFhWtxrMVa9
+	LL8dMGMteQMhgNvV5HJ7d/z5tDRknfk+MTAhNkc=
+X-Google-Smtp-Source: ABhQp+Ss1VHoZvAbsbS8JJQD+OhfYZ7Lw2F2i2qV8oZeWmjRFYdw8kiO6kCD4lO43r88yrU6W56Vm5TFL/0dWfAtwPo=
+X-Received: by 10.80.152.21 with SMTP id g21mr8114217edb.305.1509283233096;
+ Sun, 29 Oct 2017 06:20:33 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.80.194.153 with HTTP; Sun, 29 Oct 2017 06:20:32 -0700 (PDT)
+From: Samuel Pinheiro Santos <samuelpsantos8@gmail.com>
+Date: Sun, 29 Oct 2017 11:20:32 -0200
+Message-ID: <CAE5eSG8bvMuoA9Vb0jSFNx7N0kuBWuC_PErC-RSVhgPezw7BCA@mail.gmail.com>
+Subject: Certificado
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/alternative; boundary="94eb2c195396f969f5055caf625a"
+
+--94eb2c195396f969f5055caf625a
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Bom dia
+tem previs=C3=A3o de quando chega o certificado?
+Att
+Samuel
+
+--94eb2c195396f969f5055caf625a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Bom dia=C2=A0<div>tem previs=C3=A3o de quando chega o cert=
+ificado?</div><div>Att</div><div>Samuel</div></div>
+
+--94eb2c195396f969f5055caf625a--

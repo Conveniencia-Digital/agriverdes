@@ -1,0 +1,95 @@
+Return-Path: <hugofvale@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id cO7FME0NvFnsLgwAVsPpow
+	for <instituto@agriverdes.com.br>; Fri, 15 Sep 2017 14:26:37 -0300
+Return-path: <hugofvale@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Fri, 15 Sep 2017 14:26:37 -0300
+Received: from mail-qt0-f177.google.com ([209.85.216.177]:48060)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <hugofvale@gmail.com>)
+	id 1dsuNx-003Swg-Kj
+	for instituto@agriverdes.com.br; Fri, 15 Sep 2017 14:26:37 -0300
+Received: by mail-qt0-f177.google.com with SMTP id b1so2779834qtc.4
+        for <instituto@agriverdes.com.br>; Fri, 15 Sep 2017 10:26:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=2M1BxTX7PT4SMOuQhze+uNKLGiOfJomQW8MtQNLrFgA=;
+        b=H7Z1YWzjd+M0zxDA6oh+1aC7QxOYd68/yW7Cr3DAtu9w6XOupoVILrbchmXfIEwckF
+         xAfXQSOGsdnw8GR8kyyjE+vFXiZWUXEMU1AlJfrV5JQD/wSwgRtC7Bja7k6MFIuoOd+a
+         qbSg/GJAgIv/+kZ7a98mctqbKi//N6aG1Pgl1tNoq41t2lk8vjqdY95eNxEhNxuzkXEP
+         3+b1BmJM5QAlDq0SmAHWkwMGYpYPE6oMb31JKFXHMczXZzvluH2S1iJUGEPWIwXFOdTK
+         iTJKFCLMeHdq/tDSSuZ+E9+YfZ99u0RWeyD6oLFj5zFKOQE6KRkPxuA4zKI3wLAe6BER
+         vzuw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=2M1BxTX7PT4SMOuQhze+uNKLGiOfJomQW8MtQNLrFgA=;
+        b=etBJTyp22G43kLbS6K62Febd8R7MEjVG64KCLWI+XIF/j/8gDpGVWxFqlWHU58S59f
+         vaCy1sJJieYfQQV88cxUAn8Y5wz47vmTNgsUckxQcaxQ7YAmL/OTzQTUbgYNAzo96vkC
+         r0XHcXjEoTr+LziByslVkJtmXaxawXE6Y9lbDWi6zIqt3hbN5JoySGz6KkRjr7Z07DZC
+         ADjEL6Fto2IXlNU0AnMjnpgZ/ssFOi/8cB11GAyEB6VcyT5KR/iIMJmriWsfwtxdcGji
+         aJYJ7PxM3ko7ZK++2/XjX8rMi/RlNIxOy2ZN7ED2jb78cotqGhv1h6xvBO1TqXRxwyOw
+         HxKA==
+X-Gm-Message-State: AHPjjUiZO0fPHHQetCCnAJAk+aR/OcbyIqPDJsUkfbxaEivkDJZM7Eal
+	RS9HWlx5d4YuASFLL7bOEhvfq9KUDby/ih+aSVY=
+X-Google-Smtp-Source: AOwi7QDWHFqovSbNwJaj7RWIAZ1C5HCKXer0JO6ZN58rVGzKlXOmDcs0BAHTkCPxfuC7iigiTbxrylreszfI+4ntrzA=
+X-Received: by 10.237.63.153 with SMTP id s25mr36669999qth.134.1505496354949;
+ Fri, 15 Sep 2017 10:25:54 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.140.31.138 with HTTP; Fri, 15 Sep 2017 10:25:54 -0700 (PDT)
+Received: by 10.140.31.138 with HTTP; Fri, 15 Sep 2017 10:25:54 -0700 (PDT)
+From: Hugo <hugofvale@gmail.com>
+Date: Fri, 15 Sep 2017 14:25:54 -0300
+Message-ID: <CAC8nXteoWeb=_u15eKgJ-ZBjJpOWOqatMNFe=U21JAc9EKfHuA@mail.gmail.com>
+Subject: Acesso a plataforma agroecoweb
+To: instituto@agriverdes.com.br
+Content-Type: multipart/alternative; boundary="001a11456caa72984105593dafa6"
+
+--001a11456caa72984105593dafa6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Prezados respons=C3=A1veis pelo AgroEcoWeb,
+
+Acabo de baixar o App de voc=C3=AAs.
+
+=C3=89 fant=C3=A1stico! Precis=C3=A1vamos disso em l=C3=ADngua portuguesa! =
+Voc=C3=AAs est=C3=A3o de
+parab=C3=A9ns.
+
+Agora tentei acessar a biblioteca de compostagem e aduba=C3=A7=C3=A3o verde=
+ e n=C3=A3o
+consegui, retorna uma mensagem falando que eu tenho que me cadastrar na
+plataforma e que ainda n=C3=A3o sou aluno.
+
+Voc=C3=AAs podem me ajudar com isso?
+
+email hugofvale@gmail.com
+nome Hugo vale
+
+Respeitosamente,
+Hugo
+
+--001a11456caa72984105593dafa6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Prezados respons=C3=A1veis pelo AgroEcoWeb,<div dir=3D"au=
+to"><br><div dir=3D"auto">Acabo de baixar o App de voc=C3=AAs.</div><div di=
+r=3D"auto"><br></div><div dir=3D"auto">=C3=89 fant=C3=A1stico! Precis=C3=A1=
+vamos disso em l=C3=ADngua portuguesa! Voc=C3=AAs est=C3=A3o de parab=C3=A9=
+ns.</div><div dir=3D"auto"><br></div><div dir=3D"auto">Agora tentei acessar=
+ a biblioteca de compostagem e aduba=C3=A7=C3=A3o verde e n=C3=A3o consegui=
+, retorna uma mensagem falando que eu tenho que me cadastrar na plataforma =
+e que ainda n=C3=A3o sou aluno.</div><div dir=3D"auto"><br></div><div dir=
+=3D"auto">Voc=C3=AAs podem me ajudar com isso?</div><div dir=3D"auto"><br><=
+/div><div dir=3D"auto">email <a href=3D"mailto:hugofvale@gmail.com">hugofva=
+le@gmail.com</a></div><div dir=3D"auto">nome Hugo vale</div><div dir=3D"aut=
+o"><br></div><div dir=3D"auto">Respeitosamente,</div><div dir=3D"auto">Hugo=
+</div><div dir=3D"auto"><br></div></div></div>
+
+--001a11456caa72984105593dafa6--

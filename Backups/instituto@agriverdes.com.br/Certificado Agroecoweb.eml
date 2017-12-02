@@ -1,0 +1,130 @@
+Return-Path: <rocha.ayres@hotmail.com>
+Delivered-To: Instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id MBZNHCKV8lmikQ0AVsPpow
+	for <Instituto@agriverdes.com.br>; Fri, 27 Oct 2017 00:08:34 -0200
+Return-path: <rocha.ayres@hotmail.com>
+Envelope-to: Instituto@agriverdes.com.br
+Delivery-date: Fri, 27 Oct 2017 00:08:34 -0200
+Received: from mail-oln040092001050.outbound.protection.outlook.com ([40.92.1.50]:62745 helo=NAM01-BY2-obe.outbound.protection.outlook.com)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <rocha.ayres@hotmail.com>)
+	id 1e7u4Y-003k4d-1f
+	for Instituto@agriverdes.com.br; Fri, 27 Oct 2017 00:08:34 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=YPdp4xPpUiC24cw/MfMLrAdVs4CqvzzYCYTycjf1dhg=;
+ b=bezm3t+sMFQ5pGnNDsrC6QdQeIZo1yfBtW6L+fnauxcXkl253PdBZ9Rc/K4uWhAzmL486Mjo+nbuSWhLGIBVye4JXBWv+rQmMmhQ0XbgZ7ZrbQ7DjtB0bVbfPv37+epUGivbakkS3qOfn9BkYnvcgbO68dMuCC7owFZUGTmipXxMPy8mxKNSDNpddqoIYGkbLX2INKnWxKcdDPp7qzVVrBijHkExewTOqrg9rQj98YhvWCsxxCtgwWZVEuGQYZdFF60xe6qtDPSly6gjJUQtMtbAzSmXltF0YS5KY0KpIhRbFpMbSrF6YvXj82ILzraWUOvIg3EqM92ZsICpEbZbHA==
+Received: from BY2NAM01FT038.eop-nam01.prod.protection.outlook.com
+ (10.152.68.56) by BY2NAM01HT095.eop-nam01.prod.protection.outlook.com
+ (10.152.68.229) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.156.4; Fri, 27
+ Oct 2017 02:07:50 +0000
+Received: from SN2PR19MB0864.namprd19.prod.outlook.com (10.152.68.60) by
+ BY2NAM01FT038.mail.protection.outlook.com (10.152.68.103) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.156.4 via Frontend Transport; Fri, 27 Oct 2017 02:07:50 +0000
+Received: from SN2PR19MB0864.namprd19.prod.outlook.com
+ ([fe80::30d2:df16:e23:b3a9]) by SN2PR19MB0864.namprd19.prod.outlook.com
+ ([fe80::30d2:df16:e23:b3a9%14]) with mapi id 15.20.0178.007; Fri, 27 Oct 2017
+ 02:07:49 +0000
+From: Gabriela Ayres <rocha.ayres@hotmail.com>
+To: "Instituto@agriverdes.com.br" <Instituto@agriverdes.com.br>
+Subject: Certificado Agroecoweb
+Thread-Topic: Certificado Agroecoweb
+Thread-Index: AQHTTshjTOBoAA3jg0qIY3xiUm4YVA==
+Date: Fri, 27 Oct 2017 02:07:49 +0000
+Message-ID: <SN2PR19MB0864819ABE9D58F1F68D96ACEA5A0@SN2PR19MB0864.namprd19.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: agriverdes.com.br; dkim=none (message not signed)
+ header.d=none;agriverdes.com.br; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:8F82F42D0DB4FEB409681E6DFF893AF90A3F0C4A27AD76DC92B24C618DDC2525;UpperCasedChecksum:530B76E1F732DFC5911071A6212706669C253C7E456F35C5717C78D392BB5356;SizeAsReceived:6844;Count:44
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [wmt/A9kwu4Pb8zig2zPg9OTcXgXkZ/OK]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY2NAM01HT095;6:PqHOFCdP2kIIQOlFzZhl+WlxuhPTDHyfqH47gJPgDdqRBEAdPmj1CxDzsLwXW0o+t4K3T6PxxvgBnTOP3aXZq5cq5NbtUhHVLsto4rIHF6nstIbLTt2IY4l6BMS+dSFG02PI+iMxABGIkNU4HBsIeIK9bZKjfuRWDeAn7mdbGlTBsfglTkepUtL+U2KVy2Z/pMuh9NrQXLd1KDpRdb5NJgakb0O2EGYWIfMbyeQLjOMPK5jywFtWDY5PACGhgx8B4Q1ndR5UmsZZjW7nSyY0JdMBMIyZT9i8JcZpPAh8QpBdR0mHfZKBUdDh+53k4TQmFxff5HMF+mrzjAs06V860Q==;5:C4a5m2u/OlL4F9cFuGV69mBRNRX8QOnbj1S5uKY48kpe46gaOPpZ6Uzal/GP98syyb9gUrYiLKqqU+oDVFwVnftFouroHWn/BOveAPOW955fep1ddEhZwAipbnTNb16upCQ8/wL1dkRUGH8a0IA2qg==;24:VM8fZnwrozKUkQV5SjEAhPMdYCEKOBpjoCjR3v2CTyNQTbHiiXdyNuk+Q7Gm6x1UqbiLa2VHeuhX5yZls7uVCpyU2Z7u6EhXewEaVlzbzZg=;7:SmMBVzZuttIZX7N5vBNN2C81Gq3lfvbTTNhtRhHSfN2amLhemXE2wgLvIw5+lAve1wtmHr9FxIn1ldOUw8nK+zl/VN9jI2tPZMFn94WgxB+1gBiaDFfCfGDPw5RVuq9Lcguzf1RssSMRzfWsjn6S15H/tUVFo4BWeKUg4RBFSFGcbMStDfa1hL3JL2HtVX+Oy8zmJ9N8rdE+P71RRjTGLNXIXDrzuY4LuEnuanjLxIg=
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 37ae824b-3365-49ca-8421-08d51cdf862f
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:BY2NAM01HT095;
+x-ms-traffictypediagnostic: BY2NAM01HT095:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:BY2NAM01HT095;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BY2NAM01HT095;
+x-forefront-prvs: 0473A03F3F
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:BY2NAM01HT095;H:SN2PR19MB0864.namprd19.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SN2PR19MB0864819ABE9D58F1F68D96ACEA5A0SN2PR19MB0864namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 37ae824b-3365-49ca-8421-08d51cdf862f
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Oct 2017 02:07:49.6401
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM01HT095
+
+--_000_SN2PR19MB0864819ABE9D58F1F68D96ACEA5A0SN2PR19MB0864namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Boa noite, F=E1bio!
+
+Gostaria que me enviasse o link para emiss=E3o e pagamento do boleto banc=
+=E1rio, a fim de gerar o meu certificado do Agroecoweb.
+
+Aguardo seu retorno.
+Grata,
+
+
+Obter o Outlook para Android<https://aka.ms/ghei36>
+
+
+--_000_SN2PR19MB0864819ABE9D58F1F68D96ACEA5A0SN2PR19MB0864namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body>
+<div dir=3D"auto" style=3D"direction: ltr; margin: 0; padding: 0; font-fami=
+ly: sans-serif; font-size: 11pt; color: black; background-color: white;">
+Boa noite, F=E1bio!<br>
+<br>
+</div>
+<div dir=3D"auto" style=3D"direction: ltr; margin: 0; padding: 0; font-fami=
+ly: sans-serif; font-size: 11pt; color: black; background-color: white;">
+Gostaria que me enviasse o link para emiss=E3o e pagamento do boleto banc=
+=E1rio, a fim de gerar o meu certificado do Agroecoweb.<br>
+<br>
+</div>
+<div dir=3D"auto" style=3D"direction: ltr; margin: 0; padding: 0; font-fami=
+ly: sans-serif; font-size: 11pt; color: black; background-color: white;">
+Aguardo seu retorno.<br>
+</div>
+<div dir=3D"auto" style=3D"direction: ltr; margin: 0; padding: 0; font-fami=
+ly: sans-serif; font-size: 11pt; color: black; background-color: white;">
+Grata,<br>
+<br>
+<br>
+</div>
+<div dir=3D"auto" style=3D"direction: ltr; margin: 0; padding: 0; font-fami=
+ly: sans-serif; font-size: 11pt; color: black; background-color: white;">
+<div dir=3D"auto" style=3D"direction: ltr; margin: 0; padding: 0; font-fami=
+ly: sans-serif; font-size: 11pt; color: black; background-color: white;">
+Obter o <a href=3D"https://aka.ms/ghei36">Outlook para Android</a></div>
+<br>
+</div>
+</body>
+</html>
+
+--_000_SN2PR19MB0864819ABE9D58F1F68D96ACEA5A0SN2PR19MB0864namp_--

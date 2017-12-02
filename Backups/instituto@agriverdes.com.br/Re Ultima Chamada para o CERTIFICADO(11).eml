@@ -1,0 +1,182 @@
+Return-Path: <hhbfigueiredo@gmail.com>
+Delivered-To: instituto@agriverdes.com.br
+Received: from nuvem28br.hoteldaweb.com.br
+	by nuvem28br.hoteldaweb.com.br with LMTP id sKvKJPxnClpWeAoAVsPpow
+	for <instituto@agriverdes.com.br>; Tue, 14 Nov 2017 01:50:20 -0200
+Return-path: <hhbfigueiredo@gmail.com>
+Envelope-to: instituto@agriverdes.com.br
+Delivery-date: Tue, 14 Nov 2017 01:50:20 -0200
+Received: from mail-lf0-f42.google.com ([209.85.215.42]:55971)
+	by nuvem28br.hoteldaweb.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <hhbfigueiredo@gmail.com>)
+	id 1eEOfY-0019U9-1K
+	for instituto@agriverdes.com.br; Mon, 13 Nov 2017 22:01:36 -0200
+Received: by mail-lf0-f42.google.com with SMTP id e143so20299805lfg.12
+        for <instituto@agriverdes.com.br>; Mon, 13 Nov 2017 16:01:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=w37d8G6SDbzrGNk01OqfgYES7GABlgx7Zyg3xY/dvcQ=;
+        b=ODvXT6uKCkMYQuhh57KXxASOZgtCGF12pInUUEVQvWYQFeKGF+dPU5FW5yuHyv/Jfq
+         mxQQV8+trwvEMJNt1OIzROChTbD2fdT4AXfxy26+c9Y8J3FszWvCTYub3FGS1AT7BK3Z
+         aqA+cxFmVIsqTJJWXVo4rfAJuT+zfjG/6GMBuSD+NcRSzuOumqGmvo5iGmWPivHx6EuQ
+         pp3+xxGuW3nF/jNDEhIBdoXhtQmmVTQt7kRDCsbO3pHr49y9Gj7HEUeNiza3I5YpgIxC
+         BYGTF3bnkPs6a4tKsq6K5PEpL+O+KDvDmoO+pi4VnaL33khrZHwvsnYEzFHGFmzSVV4E
+         kJiw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=w37d8G6SDbzrGNk01OqfgYES7GABlgx7Zyg3xY/dvcQ=;
+        b=kAJ6j4kaEc49NxcIcFc2GgZn7seK2v2vULAv7b79JeSsNtKgLtjaG0eCD9ageE94cz
+         4dQ83ehqgyyqLJgGinxd+qIRqUzIwPYAK7JnMoONEGjU0VKyLKyJlK59q1xp21hxk5B0
+         ypy9zkxQcAbWiYLfBkFe64yJQF15+6ePTGu8V7595BJCVWb9GGJSo0ei1/MAngtIIqEb
+         hR+bc2dFqSQLldGyR1eHfYBq35QaFWeIP1FtPfWkjpXYVHl5RSYamvI+1EMrlGpzshTa
+         Zkb1M3//YHJvl9sraDzs9/W4Qo/rvyYpSKeX/Yil1xPMBb8atjwJqwyr5tdrL6dAzFtz
+         vXJw==
+X-Gm-Message-State: AJaThX64sMAgdfnR5VR9WtuoY5K28vRF/lvjUhNMkxJkIgj9h882MQME
+	1ltzMDecfIfA+DVxTN/+SkhVml5cIFwZknSHung=
+X-Google-Smtp-Source: AGs4zMaHi4DJEESZ8YGmhIfa4lNX4WJQmBQG4d9RVd8uGgAEkpjiVbLpHx1lZuVi+Whdr+rdBu9GyP6cDj9kf1qmx6s=
+X-Received: by 10.46.78.2 with SMTP id c2mr3916484ljb.11.1510617651393; Mon,
+ 13 Nov 2017 16:00:51 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.99.140 with HTTP; Mon, 13 Nov 2017 16:00:50 -0800 (PST)
+Received: by 10.25.99.140 with HTTP; Mon, 13 Nov 2017 16:00:50 -0800 (PST)
+In-Reply-To: <gz8al7x5TxKidc-Ae7WusQ@ismtpd0005p1lon1.sendgrid.net>
+References: <gz8al7x5TxKidc-Ae7WusQ@ismtpd0005p1lon1.sendgrid.net>
+From: Heloisa Helena B Figueiredo <hhbfigueiredo@gmail.com>
+Date: Mon, 13 Nov 2017 21:00:50 -0300
+Message-ID: <CAHgS+2WAf=i+T9LO1oSxP5WEL=DcbmD0t89VN0RjstcqvAGoFA@mail.gmail.com>
+Subject: Re: Ultima Chamada para o CERTIFICADO.
+To: Instituto Agriverdes <instituto@agriverdes.com.br>
+Content-Type: multipart/alternative; boundary="f403045ec2ea80bab3055de6141c"
+
+--f403045ec2ea80bab3055de6141c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sim tenho interesse em adquirir a plataforma agroevoweb no boleto.
+
+Heloisa Figueiredo
+
+Em 7 de nov de 2017 18:17, "Instituto Agriverdes" <
+instituto@agriverdes.com.br> escreveu:
+
+Ol=C3=A1, T=C3=A1 tudo bem por ai??
+
+
+Esse email =C3=A9 bem r=C3=A1pido, s=C3=B3 pra ti avisar que se voc=C3=AA a=
+inda n=C3=A3o fez o
+pedido do certificado, no link abaixo
+
+voc=C3=AA faz o pagamento simb=C3=B3lico de R$ 19,00. Depois me envia o com=
+provante
+com o nome completo para recebe-lo.
+
+Essa =C3=A9 a ultima chamada para emiss=C3=A3o de certificado, ent=C3=A3o s=
+e voc=C3=AA precisa
+dele corre l=C3=A1.
+
+Link para o Certificado
+<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3D5E=
+A1778D-FC83-40C8-8167-34C5EC77344F&u=3Da6cbe5f0-8166-4cee-abc1-07cab242b041=
+>
+
+Abra=C3=A7oo
+
+F=C3=A1bio Mariani
+
+
+
+PS: Tivemos muitas pessoas pedindo o Parcelamento da Plataforma AgroecoWeb
+no boleto banc=C3=A1rio, j=C3=A1 que
+
+n=C3=A3o possu=C3=ADam cart=C3=A3o de cr=C3=A9dito. Conseguimos disponibili=
+zar junto a
+operadora de pagamento a possibilidade de
+
+parcelamento da plataforma AgroecoWeb em 3x no Boleto mas somente para 10
+acessos.  Portanto se voc=C3=AA tem um real
+
+interesse na Plataforma responda esse email solicitando o acesso com
+parcelamento dispon=C3=ADvel em 3x no boleto.
+
+Corre-la s=C3=A3o apenas 10 vagas.
+
+------------------------------
+
+
+Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100
+<https://maps.google.com/?q=3DRua+Joaquim+Alves+Taveira+1615+-+Dourados+-+M=
+S+-+79824100&entry=3Dgmail&source=3Dg>
+Caso n=C3=A3o queira mais receber meus e-mails, acesse esse link. (Unsubscr=
+ibe)
+<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DU&u=3Da6=
+cbe5f0-8166-4cee-abc1-07cab242b041>
+.
+
+
+Enviado com amor por leadlovers Lead Lovers
+<http://www.congresso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&l=3DE9=
+8E1E7D-D04D-4F38-92E9-29828132E1C3&u=3Da6cbe5f0-8166-4cee-abc1-07cab242b041=
+>
+
+--f403045ec2ea80bab3055de6141c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><div>Sim tenho interesse em adquirir a plataforma agroevo=
+web no boleto.</div><div dir=3D"auto"><br></div><div dir=3D"auto">Heloisa F=
+igueiredo<br><div class=3D"gmail_extra" dir=3D"auto"><br><div class=3D"gmai=
+l_quote">Em 7 de nov de 2017 18:17, &quot;Instituto Agriverdes&quot; &lt;<a=
+ href=3D"mailto:instituto@agriverdes.com.br">instituto@agriverdes.com.br</a=
+>&gt; escreveu:<br type=3D"attribution"><blockquote class=3D"quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><u></u><=
+p><span style=3D"font-size:14pt">Ol=C3=A1, T=C3=A1 tudo bem por ai??</span>=
+</p>
+<p><br><span style=3D"font-size:14pt">Esse email =C3=A9 bem r=C3=A1pido, s=
+=C3=B3 pra ti avisar que se voc=C3=AA ainda n=C3=A3o fez o pedido do certif=
+icado, no link abaixo</span></p>
+<p><span style=3D"font-size:14pt">voc=C3=AA faz o pagamento=C2=A0</span><sp=
+an style=3D"font-size:14pt">simb=C3=B3lico de R$ 19,00. Depois me envia o c=
+omprovante com o nome completo para recebe-lo.</span></p>
+<p><span style=3D"font-size:14pt">Essa =C3=A9 a ultima chamada para emiss=
+=C3=A3o de certificado, ent=C3=A3o se voc=C3=AA precisa dele corre l=C3=A1.=
+</span></p>
+<p><span style=3D"font-size:14pt"><a href=3D"http://www.congresso.agroecowe=
+b.com.br/redirect/redirect.aspx?A=3DR&amp;l=3D5EA1778D-FC83-40C8-8167-34C5E=
+C77344F&amp;u=3Da6cbe5f0-8166-4cee-abc1-07cab242b041" rel=3D"noopener noref=
+errer" target=3D"_blank">Link para o Certificado</a></span></p>
+<p><span style=3D"font-size:14pt">Abra=C3=A7oo</span></p>
+<p><span style=3D"font-size:14pt">F=C3=A1bio Mariani</span></p>
+<p>=C2=A0</p>
+<p><span style=3D"font-size:14pt">PS: Tivemos muitas pessoas pedindo o Parc=
+elamento da Plataforma AgroecoWeb no boleto banc=C3=A1rio, j=C3=A1 que=C2=
+=A0</span></p>
+<p><span style=3D"font-size:14pt">n=C3=A3o possu=C3=ADam cart=C3=A3o de cr=
+=C3=A9dito. Conseguimos disponibilizar junto a operadora de pagamento a pos=
+sibilidade de</span></p>
+<p><span style=3D"font-size:14pt">parcelamento da plataforma=C2=A0</span><s=
+pan style=3D"font-size:14pt">AgroecoWeb em 3x no Boleto mas somente para 10=
+ acessos.=C2=A0 Portanto se voc=C3=AA tem um real</span></p>
+<p><span style=3D"font-size:14pt">interesse na Plataforma responda esse ema=
+il solicitando o acesso com parcelamento dispon=C3=ADvel em 3x no boleto.</=
+span></p>
+<p><span style=3D"font-size:14pt">Corre-la s=C3=A3o apenas 10 vagas.</span>=
+</p><br><hr><br><br><a href=3D"https://maps.google.com/?q=3DRua+Joaquim+Alv=
+es+Taveira+1615+-+Dourados+-+MS+-+79824100&amp;entry=3Dgmail&amp;source=3Dg=
+">Rua Joaquim Alves Taveira 1615 - Dourados - MS - 79824100</a><br>Caso n=
+=C3=A3o queira mais receber meus e-mails, <a href=3D"http://www.congresso.a=
+groecoweb.com.br/redirect/redirect.aspx?A=3DU&amp;u=3Da6cbe5f0-8166-4cee-ab=
+c1-07cab242b041" target=3D"_blank">acesse esse link. (Unsubscribe)</a>.<br>=
+<br><img alt=3D"" src=3D"http://www.congresso.agroecoweb.com.br/redirect/re=
+direct.aspx?A=3DV&amp;u=3Da6cbe5f0-8166-4cee-abc1-07cab242b041&amp;IMG=3Da6=
+cbe5f0-8166-4cee-abc1-07cab242b041.png" style=3D"width:100%;height:5px;max-=
+height:5px"><br>Enviado com amor por leadlovers <a href=3D"http://www.congr=
+esso.agroecoweb.com.br/redirect/redirect.aspx?A=3DR&amp;l=3DE98E1E7D-D04D-4=
+F38-92E9-29828132E1C3&amp;u=3Da6cbe5f0-8166-4cee-abc1-07cab242b041" target=
+=3D"_blank">Lead Lovers</a>
+</blockquote></div><br></div></div></div>
+
+--f403045ec2ea80bab3055de6141c--
